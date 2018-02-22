@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'RobotBit'
-copyright = '2018, riven & ccfive'
-author = 'riven & ccfive'
+copyright = '2018, Kittenbot Team'
+author = 'Kittenbot Team'
 
 # The short X.Y version
 version = ''
@@ -137,7 +137,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'RobotBit.tex', 'RobotBit Documentation',
-     'riven \\& ccfive', 'manual'),
+     'Kittenbot Team', 'manual'),
 ]
 
 
