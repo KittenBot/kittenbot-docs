@@ -5,13 +5,15 @@
 
 欢迎来到Kittenbot的文档与教程
 ==========================================
+目录:
+^^^^^
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
+    :glob:
 
-	microbit/index
-	minilfr/index
-	kittenbot/index
-	kittenblock/index
+    microbit/index
+    minilfr/index
+    kittenbot/index
+    kittenblock/index
 	
