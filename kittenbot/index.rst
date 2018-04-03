@@ -8,8 +8,8 @@ Kittenbot金属小车教程
     :maxdepth: 2
     :numbered: 2
 
-    01机器人简介与机械组装说明补充.md
-    02安装Kittenblock图形化编程软件和驱动.md
+    01Introduction.md
+    02 Install Kittenblock and drivers.md
     03让电机转起来.md
     04让舵机动起来.md
     05玩转猫头RGB彩灯.md
