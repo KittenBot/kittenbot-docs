@@ -1,4 +1,4 @@
-# Kittenblock
+# Kittenblock介绍
 
 ## 软件介绍
 ![](./images/c1_01.png)
@@ -34,6 +34,8 @@ KittenBlock是基于MIT和Google团队共同开发的 Scratch3.0代码进行二�
 ![](./images/c1_03.png)
 
 - 关注我们微信公众号 Kittenbot
+
+![](./images/KittenBot_public.jpg)
 
 - 给我们发邮件 [info@kittenbot.cc](info@kittenbot.cc)
 
