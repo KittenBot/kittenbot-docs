@@ -7,3 +7,9 @@ Kittenblock 教程
 .. toctree::
     :maxdepth: 2
     :numbered: 2
+
+	01Introduction.md
+    02QuickStart.md
+    03KittenblockDescription.md
+    04StagePython.md
+	
