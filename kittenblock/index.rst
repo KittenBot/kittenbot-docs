@@ -10,6 +10,6 @@ Kittenblock 教程
 
     01Introduction.md
     02QuickStart.md
-    03KittenblockDescription.md
+    03OnlineAndOfflineMode.md
     04StagePython.md
 	
