@@ -6,4 +6,9 @@ Microbit 教程
 
 .. toctree::
     :maxdepth: 2
-    :numbered: 2
+    :numbered: 2	
+	:glob:
+
+    IObit V1.0扩展板简介/index
+    Robotbit V2.0扩展板简介/index
+

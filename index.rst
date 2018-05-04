@@ -13,7 +13,8 @@
     :glob:
 
     microbit/index
-    minilfr/index
-    kittenbot/index
-    kittenblock/index
+    minilfr巡线小圆车套件/index
+    kittenbot钣金小车套件/index
+	喵家特色电子模块/index
+    kittenblock编程软件/index
 	
