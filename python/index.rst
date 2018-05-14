@@ -9,3 +9,4 @@ Python 教程
     :numbered: 2
 
     01BeforeStart.md
+    02MicrobitQuickStart.md

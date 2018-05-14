@@ -47,5 +47,4 @@ Kittenblock最新版本可以在我们的社区论坛下载：
 
 [小喵家@Taobao](https://kittenbot.taobao.com/)
 
-
-
+如果在后续教程中碰到任何问题都可以加我们的qq群（568084773）求助。
