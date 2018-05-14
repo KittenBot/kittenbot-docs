@@ -199,7 +199,16 @@ x为scratch3项目的默认变量，可以不用理会
 
 这也是因为display.show的内部代码实现由loop这个变量的解析。
 
+## 课后作业
+
+**使用代码显示心跳**
+
+
+
+----------
 
 PS：其实python还有一种数据类型tuple，但是用的实在不是太多，而且比上面说的这两种数据类型都要简单多了。
 
 PS2: 本教程资料来源于[micropython官方文档](http://microbit-micropython.readthedocs.io/en/latest/tutorials/images.html)
+
+PS3：再次提醒，记得把自动翻译的√重新选上，不然后面拖的方块不生成代码
