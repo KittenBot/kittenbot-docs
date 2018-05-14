@@ -15,7 +15,7 @@
     microbit/index
     minilfr/index
     kittenbot/index
-	electronics/index
     kittenblock/index
-	python/index
+    python/index
+    electronics/index
 	
