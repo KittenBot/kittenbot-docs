@@ -15,6 +15,7 @@
     microbit/index
     minilfr/index
     kittenbot/index
-	喵家特色电子模块/index
+	electronics/index
     kittenblock/index
+	python/index
 	
