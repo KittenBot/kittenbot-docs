@@ -10,3 +10,4 @@ Python 教程
 
     01BeforeStart.md
     02MicrobitQuickStart.md
+    03LedMatrix.md
