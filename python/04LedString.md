@@ -65,11 +65,12 @@
 
 	#/bin/python
 	from microbit import *
-	txt = "Hello"
+	txt = "Hello World"
 	display.scroll(txt)
-	txt2 = "World"
+	txt2 = 123
 	display.scroll(txt2)
 
+这时候我们发现“Hello World”能够正常显示，但是到后面显示数字的时候又在飘异常字符了。
 这时候我们有回到之前的问题，如果显示数字呢？大家注意例子里面的`123456789`用了单引号括起来了，在python中无论单引号还是双引号或者三引号括起来的东西都当做字符串处理。
 
 什么？三引号？在键盘上哪里？
@@ -80,16 +81,14 @@
 	Hello world
 	Who am I?
 	'''
-	
-我们还是回到最开始的显示数字案例`display.scroll(123)`
 
-	#/bin/python
-	from microbit import *
-	display.scroll(123)
-
-下载进去发现还是在报错。。。`display.scroll`函数只支持字符串输入，也就是被引号包裹着的类型。那么如果实在想显示数字该怎么办呢？这里我们可以使用python内置的字符串转换函数`str`
+`display.scroll`函数只支持字符串输入，也就是被引号包裹着的类型。那么如果实在想显示数字该怎么办呢？这里我们可以使用python内置的字符串转换函数`str`
 
 	display.scroll(str(123))
+
+`str`函数可以将任何类型转换成字符串，包括对象。python内置的这种系统函数还有很多，我们将在下一节展开说明。
+
+
 
 
 	
