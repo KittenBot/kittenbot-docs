@@ -76,7 +76,20 @@
 
 其实类似下面这种定义就是三引号了，它的特点是可以显示多行文字
 
-	a = ```
+	a = '''
 	Hello world
 	Who am I?
-	```
+	'''
+	
+我们还是回到最开始的显示数字案例`display.scroll(123)`
+
+	#/bin/python
+	from microbit import *
+	display.scroll(123)
+
+下载进去发现还是在报错。。。`display.scroll`函数只支持字符串输入，也就是被引号包裹着的类型。那么如果实在想显示数字该怎么办呢？这里我们可以使用python内置的字符串转换函数`str`
+
+	display.scroll(str(123))
+
+
+	
