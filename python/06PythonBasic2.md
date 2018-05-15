@@ -173,9 +173,56 @@ microbit的每一个程序我们总能看到类似的`from microbit import *`或
 
 介绍数组后，我们来看看python另一大数据类型，**字典**。
 
+顾名思义字典跟一般书不同的最大的特点就是有一个强大的不能再强大的目录了。我们把把目录称为字典的key，而对应的单词或者内容称为value，这样字典类型就是一个key-value对。
+
+太抽象了？直接上代码：
+
+	simpledict = {'a': 'apple', 'b': 'banana', 'c': 'cat', 'd': 'dog'};
+	print(simpledict)
+	print(type(simpledict))
+	print(dir(simpledict))
+
+输出如下，最后的dir函数把字典类型的所有可能方法都打印出来了
+
+	{'a': 'apple', 'd': 'dog', 'c': 'cat', 'b': 'banana'}
+	
+	<class 'dict'>
+	
+	['clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values', '__getitem__', '__setitem__', '__delitem__']
+
+大部分方法看名字都能猜到用法，我们拿其中一个做下实验：
+
+	simpledict = {'a': 'apple', 'b': 'banana', 'c': 'cat', 'd': 'dog'};
+	
+	simpledict.update({'x': 123})
+	simpledict.update({'y': 0.123})
+	
+	print(simpledict)
+
+大家运行程序后会发现最后字典中多了两个key：x和y,但是这样给字典添加元素是不是不太符合python的简洁特性呢？
+我们参考之前数组的方法，凭证直觉写下下面代码：
+
+	simpledict = {'a': 'apple', 'b': 'banana', 'c': 'cat', 'd': 'dog'};
+	
+	simpledict['x'] = 123
+	simpledict['y'] = 0.123
+	
+	print(simpledict)
+
+我们知道添加元素的方法了，那么删除呢？英文的删除某个东西叫'delete'，那么python中內建的删除函数就是`del`（果然符合程序员的特性，连多三个字母都懒得敲了）
+
+	simpledict = {'a': 'apple', 'b': 'banana', 'c': 'cat', 'd': 'dog'};
+	del simpledict['a']
+	print(simpledict)
+
+大家可能可以发现，del直接跟着空格再加被删除的对象。类似`del(simpledict['a'])`这样写也是成立的，但是这又不太符合python的简洁特性了。如果要删除多个东西可以：`del simpledict['a'],simpledict['b']`。实际上del删除的是对象的引用，而对象本身还保留在内存中，目前只要知道就行了，后面玩的溜了自然会懂的了。
 
 
+## python的其他数学函数
 
+就像第一章开头所说，python最广泛的应用是科学计算，包括人工智能等等相关的计算实现。我们来看看python的其他数学相关的函数，大家可以用图形化方块拖一个例子出来，并看看micropython支持哪些数学模块。
 
+![](./images/c6_01.png)
 
-## python的其他內建函数
+注意数学库math是需要另外导入的，用arduino的同学可能平时就是直接用了，因为arduino内部的头文件已经`include <math.h>`了。
+
