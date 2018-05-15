@@ -15,3 +15,4 @@ Python 教程
     05PythonBasic.md
     06PythonBasic2.md
     07ButtonsAndProcessControl.md
+    08ProcessCtrlAdvanced.md
