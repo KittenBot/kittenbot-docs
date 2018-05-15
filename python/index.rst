@@ -13,3 +13,4 @@ Python 教程
     03LedMatrix.md
     04LedString.md
     05PythonBasic.md
+    06PythonBasic2.md
