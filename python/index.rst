@@ -16,3 +16,4 @@ Python 教程
     06PythonBasic2.md
     07ButtonsAndProcessControl.md
     08ProcessCtrlAdvanced.md
+    09BuzzerMusic.md
