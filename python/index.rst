@@ -10,6 +10,7 @@ Python 教程
 
     01BeforeStart.md
     02MicrobitQuickStart.md
+    MicropythonRepl.md
     03LedMatrix.md
     04LedString.md
     05PythonBasic.md
