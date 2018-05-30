@@ -46,4 +46,11 @@
 
 而且将H264和ffmpeg集成到Kittenblock中会有版权风险，我们还没找到合适的方法，欢迎大家给我们意见。
 
-未完待续~
+视频推流目前需要下载这个软件，请先打开视频推流再开启kittenblock控制无人机编程。
+
+[TelloDev](http://cdn.kittenbot.cn/tellodev.zip)
+
+解压后请运行 tellodev.exe 而不是mplayer
+
+
+
