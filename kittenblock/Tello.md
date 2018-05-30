@@ -8,7 +8,7 @@
 
 ![](./images/telloapp.png)
 
-之后你需要一部能连接上tello特点的电脑，可以给台式机配一个usb wifi dongle或者用一台笔记本。
+之后你需要一部能连接上tello热点的电脑，可以给台式机配一个usb wifi dongle或者用一台笔记本。
 
 当然还要把Kittenblock更新到最新版本。
 
