@@ -12,10 +12,11 @@
     :maxdepth: 2
     :glob:
 
-    microbit/index
+    microbit/microbit_makecode/index
+    microbit/microbit_kittenblock/index
     minilfr/index
     kittenbot/index
     kittenblock/index
     python/index
     electronics/index
-	
+
