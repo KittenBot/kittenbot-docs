@@ -10,6 +10,7 @@ Python 教程
 
     01BeforeStart.md
     02MicrobitQuickStart.md
+    MicropythonRepl.md
     03LedMatrix.md
     04LedString.md
     05PythonBasic.md
@@ -17,3 +18,4 @@ Python 教程
     07ButtonsAndProcessControl.md
     08ProcessCtrlAdvanced.md
     09BuzzerMusic.md
+    10Accelerate.md
