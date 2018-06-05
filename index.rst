@@ -18,5 +18,6 @@
     kittenbot/index
     kittenblock/index
     python/index
+    mainboards/index
     electronics/index
 
