@@ -17,6 +17,7 @@
     minilfr/index
     kittenbot/index
     kittenblock/index
+    kblock/index
     python/index
     mainboards/index
     electronics/index
