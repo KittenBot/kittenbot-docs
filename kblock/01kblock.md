@@ -1,14 +1,5 @@
-
-<html>
-<head>
-<style>
-p{
-  font-size: 19px;
-}
-</style>
-
-<body>
 # kblock简介 #
+
 kblock是小喵科技出品可以在手机上进行图形化编程的APP，如同电脑端的kittenblock一样使用功能积木块搭建自己想要的程序。与电脑端的kittenblock图形化编程相比除了少了舞台那部分的积木编程，其他的逻辑编程和硬件编程，都保持了原汁原味，方便用户进行学习，无缝连接，减少学习成本。因此kblock的优势就体现在这里。   
 另外，kblock还有一个很重要的特点：
 作为“APP万能制作器”   
@@ -106,6 +97,3 @@ kblock这个万能的“APP万能制作器”应运而生：
 <p>④.显示启动指引：关闭的话开启kblock时自动跳出的wifi连接指引便不会出现
 ![](https://i.imgur.com/6KnSF5o.png)<br>
 
-<p><em style="color:#373; font-size:33px;">关于kblock的介绍就到这里了，若有什么疑问可以在下方留言~</em><br>
-</body>
-</html>
