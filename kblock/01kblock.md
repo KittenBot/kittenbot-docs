@@ -34,19 +34,20 @@ kblock这个万能的“APP万能制作器”应运而生：
  
 ![](https://i.imgur.com/2y4UdBM.png)
      
-wifi的连接:    
+**wifi的连接:**   
 按照如下插上wifi模块后，打开kblock参考指引教程  
   
-![](https://i.imgur.com/zf7qLvf.jpg)    
-![](https://i.imgur.com/v33spnE.jpg)    
+    
+![](https://i.imgur.com/TLYacL7.png) 
+![](https://i.imgur.com/K3bS20Q.png)  
 ![](https://i.imgur.com/Ldybf1M.png) 
 
 一切准备就绪后，出现如下wifi，点击连接  
 
 ![](https://i.imgur.com/KWYJ4Zo.png)    
  
-如果你手上有Microbit，蓝牙的连接请按照如下步骤：    
-进入makecode（makecode离线版） 新建一个项目   
+**如果你手上有Microbit，蓝牙的连接请按照如下步骤：**      
+进入makecode（makecode离线版）新建一个项目     
  
 ![](https://i.imgur.com/S3JmEbg.png)    
  
@@ -78,7 +79,7 @@ wifi的连接:
 
 ![](https://i.imgur.com/gcPoBVp.png)   
 
-提示：  
+**提示：**    
 如果你还想用Robotbit与蓝牙插件一起用可以这样操作：  
 添加Robotbit的独立插件pxt-robotbitnopixel（没有RGB灯，因为RGB灯会与和蓝牙冲突）  
 在添加包那里直接输入这个地址  
@@ -117,8 +118,8 @@ wifi的连接:
 
 在kittenblock上编好功能块后扫二维码的方式加载到手机端直接使用，但需要扫码时确保电脑与手机在同一wifi网络  
 
-![](https://i.imgur.com/am4J5t9.png)   
-![](https://i.imgur.com/j2budZv.jpg) 
+![](https://i.imgur.com/wMeaenF.png)
+![](https://i.imgur.com/5lUFD8W.png)
 
 ## kblock第二界面（快速编程界面介绍)  
 首先在已有的硬件中选择,以kittenbot为例  
