@@ -158,13 +158,13 @@ P0-P2支持数字读写和模拟读写，P8、P12-P15只支持数字读写
 
 ## 快速入门教程
 ### 把18650电池装到Robotbit上，注意正负
-![](./images/z1.gif)   
+![](./images/z1.GIF)   
 ### 把Microbit插到Robotbit上，注意插接方向
-![](./images/z4.gif)
+![](./images/z4.GIF)
 ### 点击电池激活按钮
-![](./images/z2.gif)   
+![](./images/z2.GIF)   
 ### 打开18650电池开关
-![](./images/z3.gif)   
+![](./images/z3.GIF)   
 ### 打开makecode的网址
 ![](./images/22.png)   
 ### 搜索robotbit
