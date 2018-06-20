@@ -1,11 +1,10 @@
 # IObit简介
 
 
-
 ## IObit硬件介绍：
 [![CQwl1e.jpg](https://s1.ax1x.com/2018/04/23/CQwl1e.jpg)](https://imgchr.com/i/CQwl1e)
 ### 电源指示灯
-Microbit上供电，指示灯亮红色，没供电不亮灯
+如果Microbit的usb口插上数据线供电后，指示灯亮红色，没供电不亮灯
 
 ----------
 
