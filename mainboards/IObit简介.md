@@ -1,6 +1,5 @@
 # IObit简介
 
-![](./IObit.jpg)
 
 
 ## IObit硬件介绍：
