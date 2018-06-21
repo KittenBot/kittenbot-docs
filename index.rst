@@ -21,4 +21,4 @@
     python/index
     mainboards/index
     electronics/index
-    suite/index
+    kittensuite/index
