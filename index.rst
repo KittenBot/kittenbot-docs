@@ -21,4 +21,4 @@
     python/index
     mainboards/index
     electronics/index
-    Suite/index
+    suite/index
