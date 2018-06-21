@@ -9,3 +9,4 @@
     :numbered: 2
 
     quanxiang.md
+    duojiaoshou.md
