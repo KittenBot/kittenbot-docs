@@ -2,19 +2,26 @@
 
 ## 材料
 
-原装风能怪物一盒  
-喵家风能怪物打印件一套  
-MICROBIT X 1  
-ROBOTBIT X1  
-18650锂电池 X1  
-TT马达电机（焊接好线） X2  
-乐高插销 X4  
-TT马达安装螺丝M3x25 X4  
-自攻螺丝十字圆头带垫M2.3x8 X14  
-喵家螺丝刀 X1  
+原装风能怪物一盒    
 
-编程： 	  
-MAKECODE+ROBOT：BIT EXTENSION PACKAGE  
+喵家风能怪物打印件一套   
+ 
+MICROBIT X 1    
+
+ROBOTBIT X1    
+
+18650锂电池 X1  
+
+TT马达电机（焊接好线） X2  
+
+乐高插销 X4  
+
+TT马达安装螺丝M3x25 X4  
+
+自攻螺丝十字圆头带垫M2.3x8 X14  
+
+喵家螺丝刀 X1  
+ 
 
 
 ## 组合过程
@@ -65,17 +72,18 @@ MAKECODE+ROBOT：BIT EXTENSION PACKAGE
 
 ## 编程  
 
-以下使用的是小喵科技出品的离线版Makecode无需网络  
+以下使用的是小喵科技出品的离线版Makecode无需网络    
+(Makecode+Robot:bit extension package)
 
-![](./images/m1.png)
+![](./images/dm1.png)
 
 下载链接：[http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=156&extra=page%3D1](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=156&extra=page%3D1)
     
 要使用TT电机编程，需要先在Makecode上安装Robotbit插件，安装方法如下：
 如图先在设置中找到添加包，找到robotbit单击即可    
 
-![](./images/m2.png) 
-![](./images/m3.png)  
+![](./images/dm2.png) 
+![](./images/dm3.png)  
 
 加载完后我们可以看到2组新增的编程积木    
 
