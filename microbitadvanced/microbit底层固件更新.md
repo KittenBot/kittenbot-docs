@@ -14,10 +14,10 @@
   
   
 ## 更新底层固件方法  
-    
-首先在这里下载需要更新的固件[https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/](https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/)  
  
-![](./images/x1.png)
+![](./images/x1.png)  
+  
+这里把超链接给你了，[直接点击下载需要更新的固件](https://mbed-media.mbed.com/filer_public/1d/fd/1dfd4113-9c05-43c3-9889-c021e1fb32ba/0243_kl26z_microbit_0x8000.hex) 
 
 拔掉USB线，按住Microbit的复位按钮，一直按住的同时插上USB线，如下图，原本的MICROBIT盘会变成MAINTENANCE即表明已经进入维护模式，此时才可以松开复位按钮  
 
