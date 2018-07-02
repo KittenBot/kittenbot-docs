@@ -39,7 +39,7 @@
 ![](arduino/x_fenlan1.png)![](arduino/x_fenlan2.png)      
   
   
-## 执行器积木块说明  
+## 执行器分栏积木块说明  
   
 **以下介绍Kittenblock中Arduino对应显示分栏的功能块，显示模块如8x8 RGB灯阵屏颜色为黄色，这也和小喵家研发出品的特色电子周边颜色对应** 
   
