@@ -22,3 +22,4 @@
     mainboards/index
     electronics/index
     kittensuite/index
+    microbitadvanced/index
