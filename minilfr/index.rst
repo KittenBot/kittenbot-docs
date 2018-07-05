@@ -8,7 +8,6 @@ MiniLFR 教程
     :maxdepth: 2
     :numbered: 2
 
-    catalog.md
     01开箱试玩一键巡线模式.md
     02开箱试玩一键超声波避障模式.md
     03安装Kittenblock图形化编程软件和驱动及恢复固件.md
