@@ -21,5 +21,3 @@ Kittenblock 教程
     连线引擎简介和使用.md
     Tello.md
     sayenglish.md
-    arduino介绍.md
-    arduino快速上手.md
