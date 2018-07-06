@@ -9,5 +9,5 @@ Microbit进阶教程
     :numbered: 2
 
     microbit底层固件更新.md
-    microbit级速度玩法.md
+    microbit加速度玩法.md
 
