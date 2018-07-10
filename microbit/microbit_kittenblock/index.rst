@@ -13,4 +13,5 @@ Microbit 教程
     03microbit使用在线调试模式.md
     04microbit与Scratch交互（小猫移动）.md
     05microbit与Scratch交互（火箭升空）.md
+    10microbit在Kittenblock中无法下载解决办法.md
 
