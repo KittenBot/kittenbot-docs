@@ -19,6 +19,7 @@
     kittenblock/index
     kblock/index
     python/index
+    arduino/index
     mainboards/index
     electronics/index
     kittensuite/index
