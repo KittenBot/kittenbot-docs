@@ -9,3 +9,4 @@ Kblock手机App 教程
     :numbered: 2
 
     01kblock.md
+    02新手引导.md
