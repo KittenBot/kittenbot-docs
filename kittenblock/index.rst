@@ -19,5 +19,3 @@ Kittenblock 教程
     08Kittenblock的python与帮助区.md
     Onlineandoffline.md
     连线引擎简介和使用.md
-    Tello.md
-    sayenglish.md

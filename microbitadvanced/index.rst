@@ -9,5 +9,4 @@ Microbit进阶教程
     :numbered: 2
 
     microbit底层固件更新.md
-    microbit玩转加速度计.md
-
+    sayenglish.md
