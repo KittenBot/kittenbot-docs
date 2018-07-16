@@ -1,4 +1,4 @@
-Microbit 教程
+Microbit在Kittenblock中 教程
 ====================
 
 这部分是Microbit在喵家Kittenblock图形化编程软件中的教程文档
