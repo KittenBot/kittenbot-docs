@@ -1,7 +1,7 @@
-Microbit 教程
+Microbit在Makecode中 教程
 ====================
 
-这部分是Microbit在喵家Kittenblock图形化编程软件中的教程文档
+这部分是Microbit在喵家Makecode软件中的教程文档
 
 
 .. toctree::
