@@ -8,11 +8,10 @@
 蓝牙适配器4.0 X1   
 
 ## 产品简介：   
-此蓝牙适配器是用于window电脑上，免驱usb的蓝牙4.0适配器。   
-它可实现电脑（只支持window系统电脑，不支持MacOS系统，Mac电脑本身自带蓝牙）与其他具有蓝牙协议的设备连接。如Microbit，Ev3主控、手机等等   
+此蓝牙适配器是用于电脑上，usb蓝牙4.0适配器。   
+它可实现电脑与其他具有蓝牙协议的设备连接。如Microbit，Ev3主控、手机等等
 
 ## 产品特色：   
-- 支持window系统免驱（部分ghost系统可能需要手动安装驱动）   
 - 支持Microbit的蓝牙通讯下载、乐高的EV3蓝牙通讯下载   
 - 标准蓝牙4.0规范，双模式传输，向下兼容蓝牙2.0、2.1、3.0规范   
 - 双模低功耗，低延迟，极速连接灯。   
@@ -38,6 +37,47 @@
 可连接硬件：Microbit、EV3主机    
 
 ## 具体使用方法：
+Dongle插上电脑本身会自动安装一个官方的驱动程序，但是这个驱动程序并不是我们需要的，我们需要替换成libusb兼容的过滤驱动。
+### 安装过滤驱动程序
+前往 [https://zadig.akeo.ie/](https://zadig.akeo.ie/) 下载最新的Zadig工具，它可以把usb设备替换成libusb兼容的驱动。
+
+在中间的下拉栏找到我们的usb dongle，注意USB ID一定是**0A12 0001**不然有可能把你的鼠标或键盘换成过滤驱动就用不了了。
+![](./bledongle/01.png)
+
+之后点击Install Driver就行了，静静等待它自动完成。
+这个过程只需要做一遍，如果更换usb端口后有可能windows又安装成官方的驱动，只需要重复上面步骤换成过滤驱动就行了。
+
+### 刷入MIT官方的microbit固件
+
+点击下面地址下载hex固件，并将其复制到microbit的u盘盘符上。
+[http://cdn.kittenbot.cn/microbit/scratch-microbit-1.0.hex](http://cdn.kittenbot.cn/microbit/scratch-microbit-1.0.hex)
+
+该固件由MIT官方开发，目前还没有开源。大家可以前往[https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit)查看最新更新情况。
+
+
+### Kittenblock内使用
+打开最新的Kittenblock (1.76+)
+如果驱动安装正确并插着电脑上，我们在通信接口下可以找到蓝牙dongle设备。
+注意蓝牙跟usb或wifi不一样，不需要先点击连接，而是交给不同的插件去连接。具体看后面描述~
+
+![](./bledongle/02.png)
+
+在Kittenblock左下角打开扩展插件，并在弹出的窗口中找到Micro:bit插件。这个插件由MIT官方提供和开发，我们只是在kittenblock内部对接了蓝牙dongle设备。
+
+![](./bledongle/03.png)
+
+加载插件后在插件顶端找到硬件连接按钮
+
+![](./bledongle/04.png)
+
+点击打开microbit设备搜索框，如果找不到microbit请点击刷新，前提是一定要刷MIT官方提供的microbit固件。
+
+![](./bledongle/05.png)
+
+连接上后可以试试拖动一些方块到工作区看看效果~
+
+![](./bledongle/blemicrobit.gif)
+
 
 ## 产品详细的学习资料地址：   
 
