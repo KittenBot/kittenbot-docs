@@ -22,17 +22,18 @@ KittenBot团队专为Microbit量身定做的优秀机器人扩展板。现还有
 - 小孔直径 ： 3.0mm   
 - 大孔直径 ： 4.8mm   
 - 净重（不含包装）:37.5g   
-
+![](./images/robotbitSize.png)   
 
 ### 功能性参数：   
-- 电池电压：3.7V   
+- 18650电池电压：3.7V   
 - USB输入电压：5V   
 - VM引脚最大：1A（在板载电池的支持下）   
-- 绿色端子电压：5V（外部电源输入，只支持5V输入，切勿接超5V的电压，一定会烧坏）   
-
-
+- 绿色端子电压(外部电源输入)：5V（只支持5V输入，切勿接超5V的电压，最大电流支持3V）   
 
 ## 软件支持：   
+编程方式：Kittenblock(基于Scratch3.0)/python（Mu editor）/Makecode   
+配套硬件：Microbit  
+
 ### MakeCode微软官方   
 ![](./images/04.png)   
 ### KittenBlock（小喵家图形化编程软件 基于Scratch 3.0）   
@@ -70,7 +71,6 @@ KittenBot团队专为Microbit量身定做的优秀机器人扩展板。现还有
 15. Microbit插槽   
 16. 4路全彩RGB   
 ![](./images/02.png)   
-
 17. 舵机驱动芯片   
 18. 电机驱动芯片   
 19. 标准KittenBot机器人底盘固定孔   
