@@ -7,18 +7,25 @@
 
 ## 萌熊MP3接线
 
+__直连接线__
+
 robotbit——MP3  
 
 - 5V——V
-- A1——A
+- P1——A
 - GND——G
-- A2——D
-  
-![](./mp3/jiexian1.png)  
+- P2——D
+ 
+![](./mp3/zhilian.png)  
 
-![](./mp3/jiexian2.png)  
+robotbit——转接板 
 
-![](./mp3/jiexian3.png)  
+- 5V——V
+- P1——2
+- GND——G
+- P2——1
+
+![](./mp3/zhuanjie.png) 
 
 ## 使用方法 
 

@@ -9,6 +9,9 @@
     :numbered: 2
 
     duojiaoshou.md
+    机械臂.md
     quanxiang.md
     Robotbit巡线避障.md
+    otto.md
+    Robotbit绘图.md
     Tello.md
