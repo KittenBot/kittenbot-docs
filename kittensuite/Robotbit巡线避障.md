@@ -143,7 +143,7 @@
 ![](./images/jinjie3.png)  
 ![](./images/jinjie4.png)  
 
-**注：**
+## 注意事项
 
 - 一切准备就绪后，插上电池，你需要做的第一件事情就是激活电源 
 ![](./images/jihuo.png)   
