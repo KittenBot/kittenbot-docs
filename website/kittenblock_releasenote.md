@@ -1,5 +1,7 @@
 # Kittenblock
 
+![](./images/kittenblock_main.png)
+
 ## 1.76更新笔记
 
 - 加入PC端蓝牙支持，现在可以直接在kittenblock内通过蓝牙控制microbit了
