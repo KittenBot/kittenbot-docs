@@ -1,5 +1,7 @@
 # KBlock APP
 
+![](./images/kblock_main.png)
+
 ## 最新app版本 **V2.31**
 - UI界面重新设计(不要在再吐槽难看了，我们没设计师的情况下只能做到这样了~)
 - 加入app内scratch3编程功能
