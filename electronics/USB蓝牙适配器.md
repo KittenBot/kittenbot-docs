@@ -115,7 +115,7 @@ http://learn.kittenbot.cn/zh_CN/latest/electronics/USB%E8%93%9D%E7%89%99%E9%80%8
 小喵教程集合地址：learn.kittenbot.cn   
 小喵论坛地址：kittenbot.cn/bbs   
 网易云课堂：搜索小喵科技   
-更多的实时讨论，请加入爱上小喵科技官方Qqun（淘宝不支持Qqun，具体请向客服索要）   
+更多的实时讨论，请加入爱上小喵科技官方Q群（淘宝不支持放Q群号，具体请向客服索要）   
 
 
 ## 注意事项：
