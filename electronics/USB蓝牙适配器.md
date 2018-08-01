@@ -119,7 +119,7 @@ http://learn.kittenbot.cn/zh_CN/latest/electronics/USB%E8%93%9D%E7%89%99%E9%80%8
 
 
 ## 注意事项：
-**在使用Kittenblock与喵家usb蓝牙适配器的过程中，请勿随意把掉usb蓝牙适配器，拔掉会导致Kittenblock软件程序崩溃。   
+**在使用Kittenblock与喵家usb蓝牙适配器的过程中，请勿随意拔掉usb蓝牙适配器，拔掉会导致Kittenblock软件程序崩溃。（嗯啊，就是这么娇气）   
 正确做法是，先保存程序后，关闭软件后再拔掉蓝牙适配器**
 
 本产品只适用于14岁以上的儿童进行独立使用，8~14岁儿童请在家长或者老师的陪同下进行使用。   
