@@ -10,6 +10,7 @@
 ## 下载地址
 
 windows： http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.7.6.exe
+
 mac: http://cdn.kittenbot.cn/mac/Kittenblock-1.6.5.dmg
 
 历史版本和改进意见请前往我们的bbs发布帖子，谢谢 ~
