@@ -8,6 +8,7 @@
     :maxdepth: 2
     :numbered: 2
 
+    Microbit.md
     Robotbitv2.0.md
     IObit简介.md
 
