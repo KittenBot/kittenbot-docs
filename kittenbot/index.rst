@@ -8,6 +8,7 @@ Kittenbot金属小车教程
     :maxdepth: 2
     :numbered: 2
 
+    00Kittenbot淘宝上架相关.md
     01Introduction.md
     02 Install Kittenblock and drivers.md
     03让电机转起来.md
