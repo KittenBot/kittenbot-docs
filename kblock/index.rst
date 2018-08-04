@@ -8,5 +8,7 @@ Kblock手机App 教程
     :maxdepth: 2
     :numbered: 2
 
-    01kblock.md
-    02新手引导.md
+    AppQuickStart.md
+    AppWifiGuide.md
+    ScanSB3Project.md
+    FAQ.md
