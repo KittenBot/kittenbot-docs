@@ -1,5 +1,9 @@
 # 30cm长USB数据线   
 
+## 购买链接
+
+__转到淘宝购买__----------→[30cm长USB数据线 ](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.81.2b25762eXEdWZ1&id=562787327479)
+
 ## 产品名称：   
 
 30cm 智能小车 Microbit 数据线   

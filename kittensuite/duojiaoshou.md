@@ -1,5 +1,9 @@
 # 多脚兽说明  
 
+## 购买链接
+
+__转到淘宝购买__----------→[micro:bit多脚兽套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.83.6563762eRKK2LD&id=570252252150)
+
 ## 产品名称
 
 microbit&robotbit多脚兽

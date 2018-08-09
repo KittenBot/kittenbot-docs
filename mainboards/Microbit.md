@@ -1,6 +1,10 @@
 # Microbit简介   
 ![](./images/microbit-front.png)   
 
+## 购买链接
+
+__转到淘宝购买__----------→[Microbit](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.38.1df7762exi5M0c&id=560184508682)
+
 ## 产品名称   
 Microbit   
 

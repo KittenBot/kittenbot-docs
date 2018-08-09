@@ -1,5 +1,9 @@
 # 玩转PS2手柄
 
+## 购买链接
+
+__转到淘宝购买__----------→[PS2手柄](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.36.4d38762ecmTQrB&id=555406931635)
+
 ## 适用人群
 
 拥有Arduino、Rosbot主控板的diy爱好者
