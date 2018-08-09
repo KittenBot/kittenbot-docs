@@ -34,6 +34,11 @@
     橡胶轮.md
     鳄鱼夹连接线.md
     十字螺丝刀.md
+    wifi.md
+    转接板.md
+    fengmingqi.md
+    button.md
+    18650充电电池座.md
 
 
 
