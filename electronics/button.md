@@ -1,4 +1,4 @@
-# Kittenbot按键模块说明
+# Kittenbot按键模块
 
 
 ## 购买链接
@@ -7,7 +7,7 @@ __转到淘宝购买__----------→[红蓝按钮](https://item.taobao.com/item.h
 
 ## 产品名称
 
-红蓝按钮
+Kittenbot按键模块
 
 ## 适用人群
 

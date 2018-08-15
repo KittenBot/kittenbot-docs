@@ -18,7 +18,9 @@ __转到淘宝购买__----------→[萌熊MP3](https://item.taobao.com/item.htm?
 
 ## 萌熊MP3示意图
 
-![](./mp3/resume.png)  
+![](./mp3/resume_1.png)  
+
+![](./mp3/resume_2.png) 
 
 ## 产品简介
 
