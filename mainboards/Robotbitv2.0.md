@@ -1,9 +1,16 @@
 # Robotbit V2.0详解   
 
-## 产品名称：RobotbitV2.0   
+## 购买链接
+
+__转到淘宝购买__----------→[Robotbit v2.0](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.23.1df7762exi5M0c&id=559862615142)
+
+## 产品名称：
+
+RobotbitV2.0   
 适用人群：小学生/培训机构/家长/爱好者 配套Microbit进行使用   
 
-配送清单：   
+## 配送清单
+
 RobotbitV2.0 X1   
 其他配套Microbit或者硅胶保护套、电池根据实际购买套餐配送   
 
@@ -16,6 +23,7 @@ KittenBot团队专为Microbit量身定做的优秀机器人扩展板。现还有
 支持扩展至KittenBot机器人底盘以及乐高标准孔。强大的驱动能力与自带电池可使DIY更加方便自由。   
 受到学校老师培训机构和个人爱好者的一致好评，microbit DIY作品选择Robotbit不会有错！
 ![](./images/01.png)
+
 ## 产品参数
 - 产品尺寸：78mm x 57mm x 23mm   
 - PCB板厚 ： 1.5mm   

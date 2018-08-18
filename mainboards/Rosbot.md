@@ -1,5 +1,9 @@
 # Rosbot简介   
 
+## 购买链接
+
+__转到淘宝购买__----------→[Rosbot主控板](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.56.3faf762eFB6CPG&id=551011963085)
+
 ## 产品名称   
 Rosbot主控板   
 

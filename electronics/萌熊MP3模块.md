@@ -1,4 +1,8 @@
-# 玩转萌熊MP3  
+# 萌熊MP3  
+
+## 购买链接
+
+__转到淘宝购买__----------→[萌熊MP3](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.48.470e762eXVoMC3&id=562567541574)
 
 ## 产品名称
 
@@ -14,7 +18,9 @@
 
 ## 萌熊MP3示意图
 
-![](./mp3/resume.png)  
+![](./mp3/resume_1.png)  
+
+![](./mp3/resume_2.png) 
 
 ## 产品简介
 

@@ -1,5 +1,9 @@
 # IObit简介
 
+## 购买链接
+
+__转到淘宝购买__----------→[IObit](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17001215033.32.1df7762exi5M0c&id=567838559503)
+
 ## 产品名称   
 IObit，IO是指（input、output），IObit从名字可以看出，它主要是做引脚转出的作用，适合一些狂热的DIY爱好者，希望能自主使用所有IO口。   
 ## 适合人群   
