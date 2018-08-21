@@ -24,3 +24,4 @@
     electronics/index
     kittensuite/index
     microbitadvanced/index
+    kittenblocklog/index
