@@ -12,3 +12,4 @@
 ## [喵家特色电子模块 教程](./electronics/)
 ## [喵家特色套件的介绍](./kittensuite/)
 ## [Microbit进阶教程](./microbitadvanced/)
+## [Kittenblock软件版本迭代更新记录](./kittenblocklog/)

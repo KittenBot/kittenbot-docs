@@ -1,4 +1,5 @@
 # MiniLFR 教程
+## [Mini Line Follower Robot](./00minilfr淘宝上架相关.md)
 ## [开箱试玩一键巡线模式](./01开箱试玩一键巡线模式.md)
 ## [开箱试玩一键超声波避障模式](./02开箱试玩一键超声波避障模式.md)
 ## [安装Kittenblock图形化编程软件和驱动及恢复固件](./03安装Kittenblock图形化编程软件和驱动及恢复固件.md)
