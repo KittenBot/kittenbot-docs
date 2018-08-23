@@ -9,4 +9,5 @@ Microbit在Makecode中 教程
     :numbered: 2
 
     microbit.md
+    v3extguide.md
 
