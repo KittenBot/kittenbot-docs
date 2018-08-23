@@ -14,6 +14,16 @@ Android用户也可以直接下载下面的apk进行安装：
 
 [http://cdn.kittenbot.cn/app/kblock_v2.31.apk](http://cdn.kittenbot.cn/app/kblock_v2.31.apk)
 
+## IPAD 版本
+
+Ipad版本跟手机app完全不一样，更加接近pc上的kittenblock版本，针对大屏幕设备做了很多优化。
+
+请在ipad设备上前往苹果商店搜索kittenbotHD就行了
+
+## 
+
 大家也可以前往我们论坛的app发布和讨论帖提出bug和修改建议：
 
 [论坛APP发布帖](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=241&extra=page%3D1)
+
+
