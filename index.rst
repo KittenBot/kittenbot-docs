@@ -20,6 +20,7 @@
     kblock/index
     python/index
     arduino/index
+    IoT/index
     mainboards/index
     electronics/index
     kittensuite/index
