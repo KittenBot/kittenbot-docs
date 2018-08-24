@@ -10,3 +10,5 @@
 ## [舞台python与帮助区](./08Kittenblock的python与帮助区.md)
 ## [在线模式和离线模式](./Onlineandoffline.md)
 ## [连线引擎简介和使用](./连线引擎简介和使用.md)
+## [Thing Speak使用介绍](./thingspaeak.md)
+## [Kittenblock插件开发指南 -- 01](./插件开发指南.md)

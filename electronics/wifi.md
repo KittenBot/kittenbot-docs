@@ -54,5 +54,57 @@ wifi模块 x1
 - WiFi @ 2.4GHz，支持WPA/WPA2模式
 - 工作温度范围-40°C-125°C
 
+## wifi模块固件更新教程
+
+目前wifi模块固件最新版本v2.8，如果您需要IOT功能请务必将wifi模块固件升级到最新版本。
+
+### 操作过程
+
+1、拨动wifi的设置开关，进入wifi固件更新模式，结果如下图
+
+![](./wifi/update01.png)
+
+2、拔掉Rosbot主控板跳帽，进行接线（上电钱请再三确实接线是否正确，非常容易接错）
+接线如图所示
+
+![](./wifi/update02.jpg)
 
 
+3、下载ESP8266的固件更新软件，[http://cdn.kittenbot.cn/flash-tool.zip](http://cdn.kittenbot.cn/flash-tool.zip)
+
+4、双击打开“ESPFlashDownloadTool.exe”
+
+5、按照如图所示操作
+
+在文件第一栏中加载压缩包内的固件bin文件（例如： **kbwifiV2.8.bin**）
+
+![](./wifi/update03.jpg)
+![](./wifi/update04.jpg)
+
+6、进行下载
+点击“START”
+
+![](./wifi/update05.jpg)
+
+7、出现红框提示后，wifi模块拔下来再重新插上
+
+**(这一步可以跳过，部分电脑不能自动进入下载流程才需要执行这一步)**
+ 
+![](./wifi/update06.jpg)
+
+![](./wifi/update07.jpg)
+
+![](./wifi/update08.jpg)
+
+8、等待成功提示，这样就成功更新完。
+
+![](./wifi/update09.jpg)
+  
+9、把wifi拔下来，开关拨动回去正常模式。**（90%的用户都会忘记）**
+
+10、Rosbot板子的跳帽插回去否则Rosbot不能正常使用**（90%的用户都会忘记）**
+  
+
+PS：如果更新失败了，请重新再尝试一下，检查下步骤是否错误或者是否遗漏。
+
+**实在更新不成功，可以联系我们的淘宝客服，把模块寄回来，帮你进行更新。**
