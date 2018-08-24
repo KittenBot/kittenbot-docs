@@ -1,4 +1,4 @@
-物联网IOT教程
+物联网IoT教程
 ====================
 
 这部分是物联网IoT教程使用相关的教程
@@ -9,5 +9,6 @@
     :numbered: 2
 
     什么是物联网.md
-
+    让Microbit加入IoT.md
+    让Rosbot加入IoT.md
 
