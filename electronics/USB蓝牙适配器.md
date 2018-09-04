@@ -63,7 +63,6 @@
 一定不能选错!   
 一定不能选错!   
 一定不能选错!   
-否则搞错驱动就会变砖，无法驱动了。   
 ![](./bledongle/08.png)   
 ![](./bledongle/01.png)   
 
@@ -73,41 +72,31 @@
 这个驱动安装只需要做一遍，如果后面你蓝牙设备更换usb口，有可能windows又安装成官方的驱动。
 不用担心，只需要重复上面步骤即可。   
 
-### 刷入MIT官方的microbit固件
 
-点击下面地址下载hex固件，并将其复制到microbit的u盘盘符上。
-[http://cdn.kittenbot.cn/microbit/scratch-microbit-1.0.hex](http://cdn.kittenbot.cn/microbit/scratch-microbit-1.0.hex)
+### Kittenblock内使用——Microbit蓝牙应用
+打开Kittenblock (1.78或以上版本)，选择硬件Microbit MIT
 
-该固件由MIT官方开发，目前还没有开源。大家可以前往[https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit)查看最新更新情况。   
+![](./bledongle/13.png)
 
-### 固件成功刷入现象   
-烧录了后，Microbit点阵屏会滚动一个字符串，这个就是你的蓝牙ID,不用记，没什么用的。
+恢复固件（刷入MIT蓝牙相关固件）
 
-### Kittenblock内使用
-打开最新的Kittenblock (1.76+)
-如果驱动安装正确并插着电脑上，我们在通信接口下可以看到蓝牙dongle设备。   
-（无需点击，因为点击了也不会有反应，只是软件提示你已经找到喵家usb蓝牙设备器）
+![](./bledongle/14.png)
 
+成功刷入后，Microbit显示一串英文，这串英文其实就是这块Microbit的蓝牙ID，如果你有多块板子，这个ID就是用来区分的。
 
-![](./bledongle/02.png)
+![](./bledongle/15.gif)
 
-在Kittenblock左下角打开扩展插件，并在弹出的窗口中找到Micro:bit插件。这个插件由MIT官方提供和开发，我们只是在kittenblock内部对接了蓝牙dongle设备。（Kittenblock是最勤奋的搬运工，给大家带来最新黑科技~）
+正式连接蓝牙，如果找不到蓝牙，请刷新下，对应选择你要连接的MICorbit（可以看到红线所示的ID就是与上方Microbit显示的是一致的，这样Microbit就对应上了）
 
-![](./bledongle/03.png)
+![](./bledongle/16.png)
 
-加载插件后在插件顶端找到硬件连接按钮
+连接成功，关闭窗口,一旦蓝牙连接上后。点阵屏滚动的字符串就会自动消失了。
 
-![](./bledongle/04.png)
-
-点击打开microbit设备搜索框。找出硬件后选择“connect”   
-如果找不到microbit请点击“Refresh”   
-如果找不到microbit请点击“Refresh”   
-如果找不到microbit请点击“Refresh”   
-如果找不到Microbit蓝牙，肯定是你没有刷MIT官方提供的microbit固件。回去上面看刷MIT固件的步骤   
-
-![](./bledongle/05.png)
+![](./bledongle/17.png)
 
 连接上后可以试试拖动一些方块到工作区看看效果~
+
+这时候的通讯已经是蓝牙通讯了。如果你有Robotbit板子，板上有电池给Microbit供电，你完全都可以不用连接数据线。
 
 ![](./bledongle/blemicrobit.gif)
 
@@ -124,10 +113,16 @@ http://learn.kittenbot.cn/zh_CN/latest/electronics/USB%E8%93%9D%E7%89%99%E9%80%8
 
 ## 注意事项：
 **在使用Kittenblock与喵家usb蓝牙适配器的过程中，请勿随意把掉usb蓝牙适配器，拔掉会导致Kittenblock软件程序崩溃。   
+
 正确做法是，先保存程序后，关闭软件后再拔掉蓝牙适配器**
 
 本产品只适用于14岁以上的儿童进行独立使用，8~14岁儿童请在家长或者老师的陪同下进行使用。   
+
 如使用前请按照小喵官方资料指导下进行使用，不要随便接插电路   
+
 注意不要在金属表面，或者导电的物体上使用，以免短路   
+
 请避免在潮湿和有水的地方使用，以免短路   
+
 电路板或者机械上含有细小物件请不要吞食，请放在儿童接触不到的地方妥善保管   
+
