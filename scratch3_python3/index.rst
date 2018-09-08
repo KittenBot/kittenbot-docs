@@ -9,3 +9,4 @@ Python 教程
 
     01prepare.md
     02basicdrawing.md
+    03pencontrol.md
