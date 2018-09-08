@@ -1,7 +1,7 @@
-Python 教程
+Micropython 教程
 ====================
 
-这部分是Kittenbot所有跟Python相关的教程，包括的kittenblock和舞台python和micropython
+这部分是Kittenbot所有跟Micropython相关的教程
 
 
 .. toctree::
