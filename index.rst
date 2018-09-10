@@ -18,7 +18,8 @@
     kittenbot/index
     kittenblock/index
     kblock/index
-    python/index
+    scratch3_python3/index
+    micropython/index
     arduino/index
     IoT/index
     mainboards/index
