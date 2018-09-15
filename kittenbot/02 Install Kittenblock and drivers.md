@@ -37,26 +37,40 @@ Window和Mac用户需要分别下载自己对的软件。
 ![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/095024rgg5jmqzxtwk55xt.jpg)
 
 ### 打开软件
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/095105ocjckawwwwo3uqeu.png)
-### 设置机器人类型
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/095142blnzjhegjn09zhmo.png)  
-### 设置串口(不插上小车，是不会显示COM口)
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/094801lpyhoyu0cz0apn4q.png)
 
-### 板子类型详解
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/094800e9kn3616vke9ku9n.png)
+![](./images/d01.png)
+
+### 设置机器人类型
+
+![](./images/d02.png)
+
+### 设置串口(不插上小车，是不会显示COM口)
+
+![](./images/d03.png)
+
+成功连接串口：
+
+![](./images/d04.png)
 
 ### 首次使用需要恢复出厂固件（确保固件最新）
-**方法1：**
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/094800jjtbtvsv7tt7jhhq.png)
-**方法2：（此方法也是下载普通程序或者自己编写程序的方法）**
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/094800x4vv1cpczks9i1ck.png)
+
+![](./images/d05.png)
 
 **下载中**
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/094801d6d8aahag9nh869a.png)
+
+![](./images/d06.png)
 
 下载完成
-![](http://kittenbot.cn/bbs/data/attachment/forum/201712/25/094801u1utq9qiqthhtmr3.png)
+
+![](./images/d07.png)
+
+## Kittenbot分栏下积木块列表
+
+大家可以大概预览下分栏积木类别的功能。接下来的章节我们针对性的进行学习
+
+![](./images/d08.png)
+![](./images/d09.png)
+![](./images/d10.png)
 
 ## 总结
 
