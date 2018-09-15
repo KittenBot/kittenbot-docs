@@ -11,4 +11,5 @@
     什么是物联网.md
     让Microbit加入IoT.md
     让Rosbot加入IoT.md
+    大服务器IoT控制面板.md
 
