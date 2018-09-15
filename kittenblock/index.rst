@@ -21,4 +21,5 @@ Kittenblock 教程
     连线引擎简介和使用.md
     thingspaeak.md
     插件开发指南.md
+    插件开发指南02.md
     
