@@ -8,6 +8,7 @@ Kittenblock 教程
     :maxdepth: 2
     :numbered: 2
 
+    00Kittenblock安装.md
     00Kittenblock界面结构.md
     01Kittenblock总述.md
     02Kittenblock软件快速上手.md
