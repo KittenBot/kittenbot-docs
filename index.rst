@@ -17,6 +17,7 @@
     minilfr/index
     kittenbot/index
     kittenblock/index
+    Tensorflow/index
     kblock/index
     scratch3_python3/index
     micropython/index
@@ -27,3 +28,4 @@
     kittensuite/index
     microbitadvanced/index
     kittenblocklog/index
+    
