@@ -12,6 +12,7 @@
     :maxdepth: 2
     :glob:
 
+    powerbrick/index
     microbit/microbit_makecode/index
     microbit/microbit_kittenblock/index
     minilfr/index
