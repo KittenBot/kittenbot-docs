@@ -1,7 +1,7 @@
-能量模块Powerbrick教程
+能量魔块Powerbrick教程
 ====================
 
-这部分是能量模块Powerbrick使用相关的教程
+这部分是能量魔块Powerbrick使用相关的教程
 
 
 .. toctree::
