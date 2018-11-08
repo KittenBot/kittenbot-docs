@@ -2,7 +2,7 @@
 
 ![](./images/06_04.png)
 
-模块利用超声波来检测与物体相距的距离。麦克风可检测环境的声音瞬时强弱情况。被誉为“千里眼与顺风耳”
+模块利用超声波来检测与物体相距的距离。麦克风可检测环境的声音瞬时强弱情况。被誉为“千里眼与顺风耳”,将超声波与麦克风融合为一个模块，简化了模块接线。
 
 ## 详细介绍
 
@@ -18,7 +18,7 @@
 
 对应Makecode编程界面：
 
-Makecode在线地址：https://makecode.microbit.org/beta#editor
+Makecode在线地址：https://makecode.microbit.org/
 
 加载Powerbrick插件地址：https://github.com/KittenBot/pxt-powerbrick
 
@@ -34,9 +34,13 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 
 ### 超声波传感器编程
 
+本程序通过读取超声波返回来的距离值，并把距离值显示在Microbit的点阵屏上
+
 ![](./images/06_02.png)
 
 ### 声音传感器编程
+
+本程序通过读取麦克风返回来的数值大小，通过Microbit的条形图点阵屏上,声音越大，点阵屏的点数越满
 
 ![](./images/06_03.png)
 

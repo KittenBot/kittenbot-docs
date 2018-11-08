@@ -2,7 +2,7 @@
 
 ![](./images/04_02.png)
 
-它是能量魔套套件的电源模块，用于Armourbit的供电，为Microbit与电机、舵机和各种能量魔块进行供电。支持5V充电，带短路过流保护电路。也可提供的USB 5V输出，为其它主控板进行供电。电池可拆卸，适配标准18650锂电池。
+它是能量魔块套件的电源模块，用于Armourbit的供电，为Microbit与电机、舵机和各种能量魔块进行供电。支持5V充电，带短路过流保护电路。另外也可提供的USB 5V输出，为其它主控板进行供电（如rosbot、arduino uno）。电池可拆卸，适配标准18650锂电池。
 
 ## 详细介绍
 
@@ -19,7 +19,8 @@
 
 
 对应Makecode编程界面：
-Makecode在线地址：https://makecode.microbit.org/beta#editor
+Makecode在线地址：https://makecode.microbit.org/
+
 加载Powerbrick插件地址：https://github.com/KittenBot/pxt-powerbrick
 
 ## 使用注意事项
@@ -33,7 +34,6 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 - 电池盒使用，尽量避免过冲过放，充电时候请放在有人看管的地方。
 - 电池盒如果过流或者是短路，保护电路会启动，断开电源。需要自行排查问题后，点击电池复位按键。
 
-
 ## 供电方式
 
 ### Armourbit专用供电方式
@@ -43,3 +43,5 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 ### 5V usb常规供电方法
 
 ![](./images/04_04.png)
+
+## 安装锂电池

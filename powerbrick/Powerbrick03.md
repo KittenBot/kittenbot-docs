@@ -4,6 +4,8 @@
 
 Microbit的一款扩展配件，是能量魔块体系的主控盒，打通Microbit与各种能量魔块的连接，采用4PIN防反接端子口，自带蜂鸣器，两路电机驱动，八路舵机驱动。对电路板进行全包裹，全方位保护更安全，适合编程教育的使用场景。
 
+Armour中文意思是指盔甲（读法arm 么~^^），喵家希望这个扩展盒能给予Microbit扩展板给予全方位的保护，更适合课堂的使用环境。
+
 ## 详细介绍
 
 ![](./images/03_01.png)
@@ -15,7 +17,8 @@ Microbit的一款扩展配件，是能量魔块体系的主控盒，打通Microb
 - 接口：PH2.0 4PIN端子 ，引脚服从GVAB排布
 - 
 对应Makecode编程界面：
-Makecode在线地址：https://makecode.microbit.org/beta#editor
+Makecode在线地址：https://makecode.microbit.org/
+
 加载Powerbrick插件地址：https://github.com/KittenBot/pxt-powerbrick
 
 
@@ -23,8 +26,8 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 
 ![](./images/03_02.png)
 
-- 新手用户无需记住Port口对应的引脚，只需记住对应port口使用即可。
-- 使用Port5-Port7口需关闭LED点阵屏功能（如图）才能进行使用
+- 新手用户无需记住Port口对应的引脚，只需记住port口使用即可。
+- 使用**Port5-Port7**口需关闭LED点阵屏功能（如下图）才能进行使用
 - Port4口没有模拟读取功能（温湿度的土壤水位魔块不能使用）
 
 （因为Port5-Port7引脚与Microbit点阵屏复用了）
@@ -36,27 +39,37 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 
 - 舵机接口只能使用蓝色的9g小舵机或Geekservo舵机，禁止插接大电流舵机。
 - 直流电机接口只适用于喵家TT电机或Geekservo电机，禁止插接大电流电机。
-- 蜂鸣器与Microbit的P0复用，使用时需检查底部的拨动开关是否打开。
-- 使用各个模块、电机、舵机，必须接Powerbrick电池盒，否则因为电流不足，导致模块使用不正常。
+- 蜂鸣器与Microbit的P0复用，使用时需检查底部的拨动开关是否打开。（到手蜂鸣器切换开关默认开启蜂鸣器）
+- 使用各个模块、电机、舵机，**必须接Powerbrick电池盒，否则因为电流不足，导致模块使用不正常。**
 
 ## 编程介绍
 
 ### 点阵屏编程
 
+与Microbit裸板操作一样
+
 ![](./images/03_04.png)
 
 ### 按键编程
+
+与Microbit裸板操作一样
 
 ![](./images/03_08.png)
 
 ### 蜂鸣器编程
 
+与Microbit裸板操作一样
+
 ![](./images/03_05.png)
 
 ### 直流电机编程
 
+注意电机接口M1、M2，编程对应进行控制
+
 ![](./images/03_06.png)
 
 ### 舵机编程
+
+注意舵机线序接法，注意舵机线序接口S1-S8，实物接线与程序编程需要对应。
 
 ![](./images/03_07.png)
