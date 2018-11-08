@@ -12,7 +12,11 @@
  
 ![](./arduino/caozuo1.png)   
     
-这时候COM口会自动连接，若没有请手动选择
+这时候需要连接COM口，第一次使用的用户请安装CH340串口驱动,再进行串口选择。
+  
+![](./arduino/qudong1.png)  
+  
+![](./arduino/qudong2.png)  
 
 ![](./arduino/caozuo2.png)  
   
@@ -28,20 +32,20 @@
   
 ## 传感器分栏积木块说明  
   
-**以下介绍Kittenblock中Arduino对应传感器分栏的功能块，传感器颜色为蓝色，这也和小喵家研发出品的特色电子周边颜色对应** 
+**以下介绍Kittenblock中Arduino对应传感器分栏的功能块** 
   
-![](./arduino/c_fenlan1.png)![](./arduino/c_fenlan2.png)    
+![](./arduino/c_fenlan1.png)
   
 ## 显示分栏积木块说明  
   
-**以下介绍Kittenblock中Arduino对应显示分栏的功能块，显示模块如8x8 RGB灯阵屏颜色为黄色，这也和小喵家研发出品的特色电子周边颜色对应** 
+**以下介绍Kittenblock中Arduino对应显示分栏的功能块** 
   
-![](arduino/x_fenlan1.png)![](arduino/x_fenlan2.png)      
+![](arduino/x_fenlan1.png)  
   
   
 ## 执行器分栏积木块说明  
   
-**以下介绍Kittenblock中Arduino对应显示分栏的功能块，显示模块如8x8 RGB灯阵屏颜色为黄色，这也和小喵家研发出品的特色电子周边颜色对应** 
+**以下介绍Kittenblock中Arduino对应显示分栏的功能块** 
   
 ![](arduino/z_fenlan.png)
 
