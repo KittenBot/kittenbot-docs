@@ -28,7 +28,8 @@
   
 ## Arduino分栏积木块说明  
    
-![](./arduino/fenlan2.png)![](./arduino/fenlan1.png)  
+![](./arduino/fenlan2.png)
+![](./arduino/fenlan1.png)  
   
 ## 传感器分栏积木块说明  
   
