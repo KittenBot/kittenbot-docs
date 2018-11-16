@@ -1,4 +1,4 @@
-# Microbit与串口屏交互  
+# Microbit与大屏幕（串口屏）交互  
 
 ![](./HMI/03.png)    
 前些天有Microbit用户在谈论说，不知道如何用Microbit控制大一点的屏幕，因为Microbit常规控制显示类的东西，几乎都被热心的老师写完了，大家也用起来了。这里特别感谢邵子扬老师、吕启刚老师的辛勤写的详细教程。CC喵所知的，Microbit现在已经可以控制4位数码管、I2C的1602液晶屏，I2C的OLED屏幕，8x8点阵屏。其他没有补充的麻烦知道的友友留言告知下。
@@ -193,8 +193,7 @@ printh 0a
 - 串口屏的素材
 - 串口工具
 
-打成一个压缩包了，请移步到喵家论坛进行下载~对应搜索关键字“串口屏”
+打成一个[压缩包(戳我)](http://kittenbot.cn/bbs/forum.php?mod=attachment&aid=MjU3MHwzODEyZDU5YnwxNTQyMzcxNzAwfDN8NDMz)了，或者请移步到[喵家论坛]((http://www.kittenbot.cn/bbs)进行下载~对应搜索关键字“串口屏”
 
-www.kittenbot.cn/bbs
 
 
