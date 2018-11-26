@@ -8,6 +8,7 @@ Microbit进阶教程
     :maxdepth: 2
     :numbered: 2
 
+    microbit出现MAINTENANCE问题.md
     microbit底层固件更新.md
     sayenglish.md
     TM1637.md
