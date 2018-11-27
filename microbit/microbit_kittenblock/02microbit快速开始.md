@@ -11,12 +11,15 @@
 ## 下载示例程序 ##
 硬件选择MicorBit Python，并选择COM口
 <!-- ![](./images/安装microbit3.gif)   --> 
-![](./images/选择硬件.bmp)
+
+![](./images/选择硬件.png)
    
 打开小喵官方例子——字符串显示如图   
 <!-- ![](./images/安装microbit4.gif)  -->  
- ![](./images/例子1.bmp)
- ![](./images/例子2.bmp)  
+
+![](./images/例子1.png)
+
+![](./images/例子2.png)  
    
 
 从舞台模式切换到代码模式   
