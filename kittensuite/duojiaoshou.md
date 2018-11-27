@@ -14,25 +14,16 @@ microbit&robotbit多脚兽
 
 ## 配送清单
 
-原装风能怪物一盒    
-
-喵家风能怪物打印件一套   
- 
-MICROBIT X 1    
-
-ROBOTBIT X1    
-
-18650锂电池 X1  
-
-TT马达电机（焊接好线） X2  
-
-乐高插销 X4  
-
-TT马达安装螺丝M3x25 X4  
-
-自攻螺丝十字圆头带垫M2.3x8 X14  
-
-喵家螺丝刀 X1  
+- 原装风能怪物一盒    
+- 喵家风能怪物打印件一套   
+- MICROBIT X 1    
+- ROBOTBIT X1    
+- 18650锂电池 X1  
+- TT马达电机（焊接好线） X2  
+- 乐高插销 X4  
+- TT马达安装螺丝M3x25 X4  
+- 自攻螺丝十字圆头带垫M2.3x8 X14  
+- 喵家螺丝刀 X1  
  
 ## 产品简介
 
@@ -91,7 +82,7 @@ TT马达安装螺丝M3x25 X4
 ![](./images/p10.png)
 ![](./images/p11.png) 
    
-7.TT电机与Robotbit接线如图     
+7.TT电机与Robotbit接线如图(红+ 黑-的原则均接在A)   
 
 ![](./images/p12.png)
 ![](./images/p13.png)  
@@ -104,14 +95,10 @@ TT马达安装螺丝M3x25 X4
   
 ![](./images/p15.png)    
 
-## 使用环境
-
-编程方式：Kittenblock(基于Scratch3.0)/Makecode可连接硬件：Microbit
-
 
 ## 使用方法  
 
-- 编程方式：Kittenblock(基于Scratch3.0)/Arduino/Makecode
+- 编程方式：Makecode/Kittenblock(基于Scratch3.0)/Mu
 - 兼容硬件（配合硬件，或者配套什么使用）：可配合两块microbit通过2.4G通讯使用
 - 小喵教程集合地址：learn.kittenbot.cn
 - 小喵论坛地址：kittenbot.cn/bbs
@@ -119,16 +106,17 @@ TT马达安装螺丝M3x25 X4
 - 更多的实时讨论，请加入爱上小喵科技官方Q群：568084773
 
 以下使用的是小喵科技出品的离线版Makecode无需网络    
-(Makecode+Robot:bit extension package)
+(Makecode+Robotbit扩展包)
 
 ![](./images/dm1.png)
 
-下载链接：[http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=156&extra=page%3D1](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=156&extra=page%3D1)
+**下载链接：**[点这里](http://kittenbot.cn/#/software)
     
 要使用TT电机编程，需要先在Makecode上安装Robotbit插件，安装方法如下：
 如图先在设置中找到添加包，找到robotbit单击即可    
 
 ![](./images/dm2.png) 
+
 ![](./images/dm3.png)  
 
 加载完后我们可以看到2组新增的编程积木    
@@ -136,59 +124,40 @@ TT马达安装螺丝M3x25 X4
 ![](./images/m4.png)    
 
 
-**简单的向前走**
+## 简单的2.4G遥控向前向后走 ##
 
-按照上述接线图解法。从Robotbit中拉出电机积木块   
- 
-![](./images/m5.png)    
+**遥控端microbit将搭建的程序**（无线组号可以自己定义，应避免其他设备干扰，这里取20） 
 
-点图中标识部分选择下拉框按如图选择   
- 
-![](./images/m6.png)  
-
-**有趣的玩法（基于2.4G控制多脚兽运动，需要两块microbit)**  
-
-从Radio中拉出如图所示积木块，并保持默认值1，并放置在开始执行下用以初始化    
-
-![](./images/m7.png)
-![](./images/m8.png)     
+![](./images/controler.png)
    
-分别从Input、Radio中拉出积木块并组合起来
+**多脚兽端microbit程序**  
+使用2.4G的发送数值来控制，那么接收端也需要在无线中找到接收数值的积木块来接收信号。
+放在这个积木块下的所有内容将在控制端发送了信息被接收端接收到后才进入执行。既然控制端发送的是0，1来分别作为前后的标志位，那么我们只需要判断接收到的值是0还是1来对应拉入电机积木块达到与控制目的一致的效果
 
-实现效果：按下microbit上A按钮通过2.4G发送字符串A  
- 
-![](./images/m9.png)
-![](./images/m10.png)
-![](./images/m11.png)   
+![](./images/controled.png)
    
-如图步骤取出积木块    
+## 复杂的2.4G体感控制多脚兽 ##
+  
+**端microbit将搭建的程序**
+  
+![](./images/fuza1.png)
+![](./images/fuza2.png)
+![](./images/fuza3.png)    
 
-![](./images/m12.png)
-![](./images/m13.png)
-![](./images/m14.png)
-![](./images/m15.png)    
+**多脚兽端程序搭建**
 
-准备好上述积木之后，配合之前已经熟悉过的电机积木块，组成如下图的程序块   
-
-![](./images/m16.png)    
-
-综上，下图所示就是一个简单的2.4G控制多脚兽向前走的一个小例子    
-
-![](./images/m17.png)    
-
-使用上述技巧，可以拓展多个方案  
-实现效果：按下A（前进）；按下B（后退）；A、B同时按下（停止）；控制端microbit左倾斜、右倾斜分别实现左转右转  
-    
-![](./images/m18.png)    
-
-上述程序中的倾斜事件积木块如下   
-
-![](./images/m19.png)
-![](./images/m20.png)    
+![](./images/fuza4.png)
+![](./images/fuza5.png) 
 
 ## 展示 
   
 ![](./images/s1.png)    
+
+##2.4G体感程序下载##
+
+
+[click here](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=446)
+
 
 ## 注意事项
 
@@ -196,11 +165,8 @@ TT马达安装螺丝M3x25 X4
 - TT电机接线必须按照范例，如需更改自行修改程序，请确保使用同一组接口如A+/A-  
 - 电机要运动起来speed绝对值最好在50-255间，且越大越快  
 - 2.4G的玩法需要两个microbit实现  
-- 更多的有关资料及有趣玩法请参照：  
+- 有任何问题欢迎加入小喵科技QQ群：568084773
 
-Robotbit：[http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=114&extra=page%3D1](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=114&extra=page%3D1)  
-
-Microbit： [http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=104&extra=page%3D1](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=104&extra=page%3D1)
 
 _本产品只适用于14岁以上的儿童进行独立使用，8~14岁儿童请在家长或者老师的陪同下进行使用。
 如使用前请按照小喵官方资料指导下进行使用，不要随便接插电路，切勿外接大电流舵机，大电流电机，以免烧毁电路板。
