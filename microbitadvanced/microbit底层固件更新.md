@@ -1,6 +1,6 @@
 # Microbit底层固件更新  
   
-关于Microbit底层固件需要更新是为了解决一些老板子经常性程序无法下载或失败的问题。目前的最新固件版本是0243，下面请按照步骤详细操作。  
+关于Microbit底层固件需要更新是为了解决一些老板子经常性程序无法下载或失败的问题。目前的较新固件版本是0250，下面请按照步骤详细操作。  
   
 ## 查看手中Microbit底层固件版本的方法    
    
@@ -17,7 +17,7 @@
  
 ![](./images/x1.png)  
   
-这里把超链接给你了，[直接点击下载需要更新的固件](https://mbed-media.mbed.com/filer_public/1d/fd/1dfd4113-9c05-43c3-9889-c021e1fb32ba/0243_kl26z_microbit_0x8000.hex) 
+这里把超链接给你了[点击到新固件下载地址](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=442&page=1&extra=#pid2029) 
 
 拔掉USB线，按住Microbit的复位按钮，一直按住的同时插上USB线，如下图，原本的MICROBIT盘会变成MAINTENANCE即表明已经进入维护模式，此时才可以松开复位按钮  
 
@@ -37,7 +37,7 @@
 
 如果操作不成功，请检查：  
 
-- 固件下载网址：[https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/](https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/)  
+
 - 是否串口正常
 - 是否成功进入了维护模式  
 

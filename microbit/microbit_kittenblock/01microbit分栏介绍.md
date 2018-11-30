@@ -26,7 +26,7 @@ Kittenblock中Microbit具有的优势：
 ![](./images/m1.bmp)   
 ![](./images/m2.bmp)   
 ![](./images/m3.bmp)   
-   
+  <!--  
 需要添加蓝牙插件，可以选择扩展件加载（蓝牙扩展件默认是不加载的）
 ![](./images/m4.bmp)   
-   
+    -->
