@@ -125,6 +125,10 @@ Microbit&Robotbit巡线壁障小车
 
 ![](./images/黑线检测3.png)
 
+接着点击设备的控制台进入观察数值 
+  
+![](./images/黑线检测4.png)
+
 - 第一步测量环境值
 
 ![](./images/黑线检测2.png)
