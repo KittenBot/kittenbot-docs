@@ -1,10 +1,23 @@
-# Arduino功能块介绍 
-  
+# 01Arduino功能块介绍 
+
+arduino相对其他单片机或者其他开发板对于普通人已经是一个非常友好的存在，也越来越多人用上了arduino。
+
+但是对于从来没有接触过代码，从来没接触过电路的友友来说，还是一个高门槛的存在。
+
+有时候，我们只是想实现某个简单的控制功能，控制简单的模块，而被告知，你要先学点C语言基础，你要看一下底层代码，绕了一大圈，最后目标没达到，反而产生了厌恶。
+
+所以小喵可以推出这个arduino图形化编程系列教程，希望能帮到那些想快速实现功能目标的友友，本教程只是讲解了arduino最基础的模块，全程不叽叽歪歪，只讲最核心的操作重点，如果你想了解更深入的技术底层，请自行查阅arduino相关书籍。如果你恰好有高级模块的需求，可以小喵科技家论坛与我们一起技术探讨。
+
+如果你觉得我们教程讲得不错，请帮我们传播，让更多的人受益~
+
+
 ## 简单的Arduino图形化编程环境搭建  
   
 **Kittenblock下载**  
+
+[http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115&extra=page%3D1](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115&extra=page%3D1)
   
-[Click here to Download](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115&extra=page%3D1)    
+
 
 **硬件选择**    
    
