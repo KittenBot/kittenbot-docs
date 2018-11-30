@@ -64,7 +64,7 @@ Microbit&Robotbit巡线壁障小车
 ## 组合过程    
   
 **零件拼装**  
- 
+
 1.将9g从背面顶上来，并用舵机包里的细长螺丝和螺母固定住  
 
 ![](./images/zuhe_1.png)  
@@ -116,21 +116,25 @@ Microbit&Robotbit巡线壁障小车
   
 ![](./images/b_show.gif)
 
-## 使用环境
-
-编程方式：Kittenblock(基于Scratch3.0)/Makecode可连接硬件：Microbit 
-
-## 使用方法  
-
-- 编程方式：Kittenblock(基于Scratch3.0)/Arduino/Makecode
-- 兼容硬件（配合硬件，或者配套什么使用）：各种arduino传感器
-- 小喵教程集合地址：learn.kittenbot.cn
-- 小喵论坛地址：kittenbot.cn/bbs
-- 网易云课堂：搜索小喵科技
--更多的实时讨论，请加入爱上小喵科技官方Q群：568084773
   
-**3路巡线编程**    
+## 3路巡线编程    
   
+**巡线阈值测定**
+
+首先接好线后将下列程序烧入板子
+
+![](./images/黑线检测3.png)
+
+- 第一步测量环境值
+
+![](./images/黑线检测2.png)
+
+- 第二步测量黑线值  
+
+![](./images/黑线检测1.png)
+
+**三路巡线编程**
+
 ![](./images/x_chengxu.png)  
 ![](./images/x_chengxu2.png)  
   
