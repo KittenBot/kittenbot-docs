@@ -4,17 +4,21 @@
 
 能量魔块所用的编程环境是微软Makecode。
 
-有两种选择：一可以选择在线编程（微软官方），二可以选择喵家离线版本（基于微软官方做的）。
+有两种选择：
 
-离线版本的能量魔块的插件基本与在线的一样，而在一些高级模块上。离线版本整合了一些插件，**更加方便更好用**。
+一可以选择在线编程（微软官方）
+
+二可以选择喵家离线版本（基于微软官方做的）。
+
+离线版本的能量魔块的插件基本与在线的一样，而在一些高级模块上。离线版本整合了一些插件(如全彩屏点阵编辑器)，**更加方便更好用**。
 
 ## 在线编程快速开始
 
 ### 浏览器加载Makecode最新版本
 
-这里的Makecode在线编程必须是最新版，旧版本是无法正确加载能量魔块插件。
+这里的Makecode在线编程**必须是最新版**，旧版本是无法正确加载能量魔块插件。
 
-建议直接复制地址到浏览器中
+建议将地址复制到浏览器中
 
 https://makecode.microbit.org
 
@@ -24,7 +28,7 @@ https://makecode.microbit.org
 
 https://github.com/KittenBot/pxt-powerbrick
 
-直接建议复制地址到makecode插件中
+建议将地址复制到makecode插件搜索栏中
 
 ![](./images/02_02.png)
 
@@ -38,7 +42,7 @@ https://github.com/KittenBot/pxt-powerbrick
 
 Windows：
 
-http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.3.0.exe
+[http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.4.0.exe](http://cdn.kittenbot.cn/makecode/win/Makecode Setup 3.4.0.exe)
 
 Mac：
 
@@ -52,6 +56,14 @@ http://cdn.kittenbot.cn/makecode/mac/Makecode-3.2.0.dmg
 ## 编程方式推荐
 
 长期使用建议下载离线版本
+
+优点：
+
+1、无需依靠网络 
+
+2、带串口调试
+
+3、全彩点阵编辑器
 
 ![](./images/02_04.png)
 

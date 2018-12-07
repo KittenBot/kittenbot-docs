@@ -21,8 +21,14 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 
 加载Powerbrick插件地址：https://github.com/KittenBot/pxt-powerbrick
 
+## 按键魔块插接演示
+
+![](./images/IMG_2569.GIF)
+
+
 ## 编程介绍
 
 ### 按键检测编程
 
 ![](./images/08_02.png)
+
