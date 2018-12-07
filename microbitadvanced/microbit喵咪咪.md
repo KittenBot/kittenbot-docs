@@ -11,27 +11,39 @@ Microbit喵咪咪是由Kittenbot团队个人推出的微信小程序，支持通
 选择硬件MicroBit Python-连上COM口-点击恢复固件 
 ![](./wechat/刷固件.png)  
 
-②.打开手机蓝牙 
+**固件恢复成功microbit屏幕会循环闪过几个字符，就是蓝牙的编号**  
+
+![](./wechat/固件.gif) 
+
+②.打开手机蓝牙  
  
 ![](./wechat/步骤1.png) 
 
-③.扫描蓝牙，并点击结果连接
+③.扫描蓝牙，找到对应蓝牙编号，并点击结果连接  
+
 ![](./wechat/步骤2.png)  
 
 ![](./wechat/步骤3.png)
 
-③.Microbit的点阵屏，Robotbit，发送显示字符串的功能
-![](./wechat/基本操作.png)
+## 小程序控制功能
 
-④.对应Robotbit电机控制，点入感叹号设置4个方向按钮的电机数值,电机数值上面为M1A，下面为M2A，均采用红+黑-的接线方法
+1.Microbit的点阵屏，Robotbit，发送显示字符串的功能
+
+![](./wechat/基本操作.png)  
+![](./wechat/小程序microbit.png)
+
+2.对应Robotbit电机控制，点入感叹号设置4个方向按钮的电机数值,电机数值上面为M1A，下面为M2A，均采用红+黑-的接线方法
 
 ![](./wechat/基本操作2.png)  
 ![](./wechat/控制电机.png)  
+![](./wechat/小程序电机.png)
  
-⑤.对应Robotbit舵机控制,目前支持9G小舵机的0-180°控制  
+3.对应Robotbit舵机控制,目前支持舵机的0-180°控制   
+
 ![](./wechat/控制舵机.png)   
-  
-以上就是小程序Microbit喵咪咪的操作内容。后续将持续更新
+![](./wechat/小程序舵机.png)    
+
+**以上就是小程序Microbit喵咪咪的操作内容。后续将持续更新**
 
 
 
