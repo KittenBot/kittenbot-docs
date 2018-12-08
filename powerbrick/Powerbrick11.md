@@ -61,7 +61,7 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 
 离线版本3.1以上都支持这个全彩点阵屏专门页面编辑。
 
-[离线版本3.3下载地址（点我）](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.3.0.exe)
+[离线版本3.4下载地址（点我）](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.4.0.exe)
 
 下载安装
 
@@ -185,4 +185,4 @@ NeoMatrix是喵家专门针对全彩点阵屏开发的Microbit扩展插件
 
 **我打不开点阵屏编辑页面？**
 
-点阵屏编辑界面是在喵家的服务服务器上，所以要求电脑必须连接网络。
+点阵屏编辑界面是在喵家的服务服务器上，所以要求**电脑必须连接网络**。
