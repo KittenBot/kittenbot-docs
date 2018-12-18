@@ -157,14 +157,14 @@ Microbit&Robotbit巡线壁障小车
   
 ![](./images/chaosheng.gif)  
   
-## 巡线避障进阶  
-  
-**一键开启关闭小车&一键切换巡线避障功能**  
-   
-![](./images/jinjie1.png)  
-![](./images/jinjie2.png)  
-![](./images/jinjie3.png)  
-![](./images/jinjie4.png)  
+## 巡线进阶版本
+* 原理
+
+![pic](https://s1.ax1x.com/2018/12/17/F0Zegg.jpg)
+
+* 程序
+
+[https://makecode.microbit.org/_UsWeYReAuAkF](https://makecode.microbit.org/_UsWeYReAuAkF)
 
 ## 注意事项
 

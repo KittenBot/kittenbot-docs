@@ -14,7 +14,7 @@ RobotbitV2.0
 RobotbitV2.0 X1   
 其他配套Microbit或者硅胶保护套、电池根据实际购买套餐配送   
 
-## 产品简介   
+Product Purpose## 产品简介   
 KittenBot团队专为Microbit量身定做的优秀机器人扩展板。现还有配套3D打印保护壳   
 
 ## 产品特色
