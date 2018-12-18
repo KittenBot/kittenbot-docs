@@ -10,6 +10,7 @@ Microbit进阶教程
 
     microbit出现MAINTENANCE问题.md
     microbit底层固件更新.md
+    microbit串口安装.md
     sayenglish.md
     TM1637.md
     makecodev1.md
