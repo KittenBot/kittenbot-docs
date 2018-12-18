@@ -3,6 +3,9 @@
 
 Microbit喵咪咪是由Kittenbot团队个人推出的微信小程序，支持通过手机蓝牙链接Microbit进行无线控制。
 
+微信搜索框中，搜索microbit
+![](./wechat/01.png) 
+
 ## 使用步骤
 
 ①.需要使用1.80版本以上的kittenblock刷入Microbit固件，如果没有Kittenblock的小伙伴推荐先下载一个[kittenblock下载链接](http://www.kittenbot.cn/#/software)  
@@ -15,7 +18,7 @@ Microbit喵咪咪是由Kittenbot团队个人推出的微信小程序，支持通
 
 ![](./wechat/固件.gif) 
 
-②.打开手机蓝牙  
+②.打开手机蓝牙（这个你手机的蓝牙，很多新手都忘记打开自己手机蓝牙，然后就说没有搜索到Microbit）  
  
 ![](./wechat/步骤1.png) 
 
@@ -27,12 +30,16 @@ Microbit喵咪咪是由Kittenbot团队个人推出的微信小程序，支持通
 
 ## 小程序控制功能
 
-1.Microbit的点阵屏，Robotbit，发送显示字符串的功能
+1.Microbit的点阵屏——支持对5x5点阵屏进行涂鸦
+
+最顶上4个小方格就是制定Robotbit前面4个RGB灯，只要对齐进行点击，就会进行颜色轮换
+
+另外也可以对Microbit点阵屏进行发送字符串
 
 ![](./wechat/基本操作.png)  
 ![](./wechat/小程序microbit.png)
 
-2.对应Robotbit电机控制，点入感叹号设置4个方向按钮的电机数值,电机数值上面为M1A，下面为M2A，均采用红+黑-的接线方法
+2.对应Robotbit电机控制，点入“感叹号图标”设置4个方向按钮的电机数值,电机数值上面为M1A，下面为M2A（Robotbit上的M1A与M2A），均采用红+黑-的接线方法
 
 ![](./wechat/基本操作2.png)  
 ![](./wechat/控制电机.png)  
@@ -43,7 +50,7 @@ Microbit喵咪咪是由Kittenbot团队个人推出的微信小程序，支持通
 ![](./wechat/控制舵机.png)   
 ![](./wechat/小程序舵机.png)    
 
-**以上就是小程序Microbit喵咪咪的操作内容。后续将持续更新**
+**以上就是小程序Microbit喵咪咪的操作内容。小程序的功能会持续更新**
 
 
 
