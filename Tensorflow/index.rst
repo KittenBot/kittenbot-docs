@@ -8,11 +8,11 @@ Tensorflow 教程
     :maxdepth: 2
     :numbered: 2
 
-    IntroductionToTF.md
-    TFQuickStart.md
-    IrisTrainig.md
-    MnistTraining.md
-    MnistLoad.md
-    MobileNetModel.md
-    TransferLearning.md
+    01IntroductionToTF.md
+    02TFQuickStart.md
+    03IrisTrainig.md
+    04MnistTraining.md
+    05MnistLoad.md
+    06MobileNetModel.md
+    07TransferLearning.md
     永远猜不赢机器人.md
