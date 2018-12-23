@@ -84,11 +84,15 @@ Geekservo motor
 
 ## Geekservo电机编程
 
+Armourbit上一共有两个直流电机接口，分别是M1和M2。使用时，注意程序与实物接线要对应。
+
 （如果你使用Robotbit或者Rosbot主控板，只需要把Geekservo电机插接到电机接口，对应编程使用即可）
 
 ![](./images/13_02.png)
 
 ## Geekservo舵机编程
+
+Armourbit上一共有八个舵机接口，分别是S1-S8。使用时，注意程序与实物接线要对应。
 
 （如果你使用Robotbit或者Rosbot主控板，只需要把Geekservo舵机插接到舵机接口，对应编程使用即可）
 

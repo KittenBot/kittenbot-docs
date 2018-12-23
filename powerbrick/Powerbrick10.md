@@ -48,11 +48,34 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 
 ## 编程介绍
 
+RFID模块必须接到**I2C接口**上！因为它属于高级模块！
+
+RFID模块必须接到**I2C接口**上！因为它属于高级模块！
+
+RFID模块必须接到**I2C接口**上！因为它属于高级模块！
+
+
 ### RFID写入编程
+
+将hello写在RFID卡中的S1区的B0块中
 
 ![](./images/10_01.png)
 
 ### RFID读出编程
 
+读取RFID卡中的S1区的B0块中的数据
 ![](./images/10_02.png)
 
+### 读取RFID卡的“身份”——UUID
+
+每个人手上的RFID卡的UUID都不一样，读出你手上的UUID，并记录下来
+
+![](./images/10_06.png)
+
+### 判别UUID
+
+由于每张RFID卡的UUID都不一样，一般我们可以用做识别卡的作用，程序如下
+
+一般普通的什么会员卡，低端的卡的RFID卡是可以被我们模块读到的，一些高级卡则不能（协议格式不一样）。
+
+![](./images/10_07.png)
