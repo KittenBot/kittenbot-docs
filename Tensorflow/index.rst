@@ -15,4 +15,4 @@ Tensorflow 教程
     05MnistLoad.md
     06MobileNetModel.md
     07TransferLearning.md
-    永远猜不赢机器人.md
+    08永远猜不赢机器人.md
