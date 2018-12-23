@@ -7,7 +7,11 @@
 选择右上角齿轮——Microbit COM，下一步下一步确认安装完毕   
 ![](./images/安装microbit1.gif)   
 ![](./images/安装microbit2.gif)   
-   
+
+如果安装无反应，应该是你电脑是win10系统的权限问题。
+
+[解决方法请戳我](http://learn.kittenbot.cn/zh_CN/latest/microbitadvanced/microbit%E4%B8%B2%E5%8F%A3%E5%AE%89%E8%A3%85.html)
+
 ## 下载示例程序 ##
 硬件选择MicorBit Python，并选择COM口
 <!-- ![](./images/安装microbit3.gif)   --> 
