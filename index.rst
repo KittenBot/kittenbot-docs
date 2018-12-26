@@ -13,6 +13,7 @@
     :glob:
 
     powerbrick/index
+    powerbrick_KB
     microbit/microbit_makecode/index
     microbit/microbit_kittenblock/index
     minilfr/index

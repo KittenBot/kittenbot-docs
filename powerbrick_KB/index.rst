@@ -8,5 +8,8 @@
     :maxdepth: 2
     :numbered: 2
 
-    00Kittenblock安装.md
+    01Kittenblock安装.md
+    02Powerbrick在Kittenblock中优势.md
+    03Powerbrick硬件介绍.md
+    04Microbit相关编程.md
 
