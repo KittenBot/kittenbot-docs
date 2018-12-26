@@ -2,20 +2,29 @@
 
 ![](./images/kittenblock_main.png)
 
-## 最新版本V1.80 下载地址
+## 最新版本V1.81 下载地址
 
-windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.0.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.0.exe)
-
-mac: [http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg](http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg)
+windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.1.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.1.exe)
 
 历史版本和改进意见请前往我们的bbs发布帖子，谢谢 ~
 
 http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115
 
+# V1.81 更新笔记
+- TensorFlow插件进行稳定更新
+- Microbit底层代码重构，使在线交互更加稳定
+- Microbit固件可分为Serial与Ble，众所周知，Microbit的蓝牙与2.4G无法同时使用，所以如果你要使用2.4G，请选择Serial
+
+----------
+
 # V1.80 更新笔记
 - TensorFlow插件稳定版本，导入TensorFlow插件后可以按`~`打开控制台
 - 扩展插件本地化，大家可以更加方便地添加自己的硬件和扩展插件，所有硬件插件代码都放在我们的github仓库
 - Micropython在线固件重构，现在支持蓝牙模式，并且小程序也是使用这个固件（大家可以在微信小程序中搜索microbit）
+
+windows： [http://cdn.kittenbot.cn/win/Kittenblock Setup 1.8.0.exe](http://cdn.kittenbot.cn/win/Kittenblock%20Setup%201.8.0.exe)
+
+mac: [http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg](http://cdn.kittenbot.cn/mac/Kittenblock-1.8.0.dmg)
 
 # V1.78 Kittenblock迭代说明   
 
