@@ -1,4 +1,4 @@
-# 03Powerbrick硬件介绍与快速开始
+# Powerbrick硬件介绍与快速开始
 
 ## Powerbrick简介
 

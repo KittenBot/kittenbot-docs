@@ -1,4 +1,4 @@
-# 01Powerbrick在Kittenblock中编程的优势
+# Powerbrick在Kittenblock中编程的优势
 
 ## 前言
 

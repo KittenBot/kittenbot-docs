@@ -1,4 +1,4 @@
-# 04Microbit相关编程
+# Microbit相关编程
 
 能量魔块的编程，本质上Microbit与特色传感器的编程，所以硬件选择powerbrick,microbit这个插件分栏也会自动加载进来。我们试一试在线模式控制Microbit的
 
