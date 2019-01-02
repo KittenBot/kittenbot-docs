@@ -185,6 +185,35 @@ printh 0a
 
 至于Microbit如何把数据发送给串口屏，我们下次有时间再讲，怕文章太长大家看了都打瞌睡。
 
+## 补充——Microbit如何发送16进制
+
+    function send() {
+    let buf = pins.createBuffer(3);
+    buf[0] = 255
+    buf[1] = 255
+    buf[2] = 255
+    serial.writeBuffer(buf)
+    }
+    input.onButtonPressed(Button.A, function () {
+    send()
+    })
+    input.onButtonPressed(Button.B, function () {
+    serial.writeString("hello")
+    })
+    basic.forever(function () {
+     
+    })
+
+将以上的代码复制在Makecode的js代码编程界面中，然后再点击转换成block，就可以看到生成一个send的积木块函数了。虽然有些指令没有翻译，但是这个是没有关系的。
+
+这个Send就是对应串口屏的通讯指令结束命令（发送3个0xff）。16进制转10进制，大家可以用电脑计算机计算，或者直接上网查，0xff换算成10进制就是255，所以按下A就是连续发送3个0xff
+
+![](./HMI/22.png)
+
+这里用了广州某老师的程序图，可以控制串口屏显示不同颜色，实测OK
+
+![](./HMI/23.png)
+
 ## 大礼包
 
 
@@ -193,7 +222,7 @@ printh 0a
 - 串口屏的素材
 - 串口工具
 
-打成一个[压缩包(戳我)](http://kittenbot.cn/bbs/forum.php?mod=attachment&aid=MjU3MHwzODEyZDU5YnwxNTQyMzcxNzAwfDN8NDMz)了，或者请移步到[喵家论坛]((http://www.kittenbot.cn/bbs)进行下载~对应搜索关键字“串口屏”
+打成一个[压缩包(戳我)](http://bbs.kittenbot.cn/forum.php?mod=attachment&aid=MjU3MHw2YWU5ODk0Y3wxNTQ2MzkzODMzfDN8NDMz)了，或者请移步到[喵家论坛](bbs.kittenbot.cn/)进行下载~对应搜索关键字“串口屏”
 
 
 
