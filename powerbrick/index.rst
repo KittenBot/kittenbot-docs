@@ -1,7 +1,7 @@
-能量魔块Powerbrick教程
+能量魔块Powerbrick在Makecode中教程
 ====================
 
-这部分是能量魔块Powerbrick使用相关的教程
+这部分是能量魔块Powerbrick在Makecode中相关的使用教程
 
 
 .. toctree::
