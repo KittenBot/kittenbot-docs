@@ -1,4 +1,4 @@
-# 喵星人不一样的解读——MIT Scratch 3.0
+ian # 喵星人不一样的解读——MIT Scratch 3.0
 
 ![](./scratch/04.png)
 
@@ -50,19 +50,19 @@ Scratch也算是一门编程语言，2018年全球的编程语言排行26：
 
 ![](./scratch/09.png)
 
-### setp2：打开软件，扩展件添加选择Microbit
+### step2：打开软件，扩展件添加选择Microbit
 
 然后我遇到一个问题就是...需要安装Scratch Link和蓝牙
 
 ![](./scratch/08.png)
 
-### setp3：那就安装Scratch Link吧
+### step3：那就安装Scratch Link吧
 
 点击帮助，跳转，安装，好吧，Scratch Link只支持win10 并且要求你的电脑设备需要有蓝牙4.0，无奈只能转战我的小米笔记本电脑继续操作。将以上的步骤重做一遍。
 
 ![](./scratch/10.png)
 
-### setp4：给Microbit下载一个对应MIT固件
+### step4：给Microbit下载一个对应MIT固件
 
 ![](./scratch/11.png)
 
@@ -70,7 +70,7 @@ Scratch也算是一门编程语言，2018年全球的编程语言排行26：
 
 ![](./scratch/12.png)
 
-### setp5：Scratch连接Microbit
+### step5：Scratch连接Microbit
 
 假设你的电脑Scratch Link和 蓝牙都OK了，如下图：
 
@@ -84,7 +84,7 @@ Scratch也算是一门编程语言，2018年全球的编程语言排行26：
 
 ![](./scratch/14.png)
 
-### setp6：进行测试控制Microbit吧
+### step6：进行测试控制Microbit吧
 
 拖拽了2个点阵屏相关的积木，点击一下，Microbit立马有反应，scratch与Microbit通讯这个还是没有问题的。
 
