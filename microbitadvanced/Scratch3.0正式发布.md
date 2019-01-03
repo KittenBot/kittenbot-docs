@@ -1,4 +1,4 @@
-ian # 喵星人不一样的解读——MIT Scratch 3.0
+# 喵星人不一样的解读——MIT Scratch 3.0
 
 ![](./scratch/04.png)
 
