@@ -28,9 +28,8 @@ IObit X1
 净重：16.4g   
 ![](./images/iobitSize.png)   
 
-## 技术参数   
-- 技术参数：   
-- 供电方式：   供电从Microbit的usb口供入，或者Microbit的电池座供入   
+## 技术参数    
+- 供电方式：供电从Microbit的usb口供入，或者Microbit的电池座供入   
 - 工作电压：3V   
 - 输出电流：40ma（不要用IO口驱动大电流器件，容易烧坏Microbit，如果要驱动大电流器件请使用RobotbitV2.0）   
 - 串口引出：串口可进行IO口映射   
