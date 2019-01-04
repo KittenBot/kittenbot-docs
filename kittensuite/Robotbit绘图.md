@@ -97,7 +97,7 @@ __安装好的整体__
   - 编程方式：Kittenblock(基于Scratch3.0)/Arduino/Makecode   
   - 兼容硬件：猫头避障电子模块   
   - 小喵教程集合地址：learn.kittenbot.cn   
-  - 小喵论坛地址：kittenbot.cn/bbs   
+  - 小喵论坛地址：bbs.kittenbot.cn   
   - 网易云课堂：搜索小喵科技   
   - 更多的实时讨论，请加入爱上小喵科技官方Qqun: 568084773
 

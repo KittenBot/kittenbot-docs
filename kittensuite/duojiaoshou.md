@@ -39,17 +39,17 @@ Microbit & Robotbit多脚兽
 
 ## 产品参数
 
-- 长x宽x高：  225mm x 160mm x 180mm
+- 长x宽x高： 225mm x 160mm x 180mm
 - 净重： 262.6g
-- 毛重：根据包裹最终大小决定
+- 毛重： 根据包裹最终大小决定
 
 ## 技术参数
 
-- 电压：额定5V
+- 电压：5V
 - 电流：1A
 - 板载全彩可编程RGB灯
 - 可编程蜂鸣器
-- 18650-3.7V可充锂电池
+- 18650:3.7V可充锂电池
 
 ## 组合过程
 
@@ -96,12 +96,12 @@ Microbit & Robotbit多脚兽
 ![](./images/p15.png)    
 
 
-## 使用方法  
+## 使用方法 
 
 - 编程方式：Makecode/Kittenblock(基于Scratch3.0)/Mu
 - 兼容硬件（配合硬件，或者配套什么使用）：可配合两块microbit通过2.4G通讯使用
 - 小喵教程集合地址：learn.kittenbot.cn
-- 小喵论坛地址：kittenbot.cn/bbs
+- 小喵论坛地址：bbs.kittenbot.cn
 - 网易云课堂：搜索小喵科技
 - 更多的实时讨论，请加入爱上小喵科技官方Q群：568084773
 
