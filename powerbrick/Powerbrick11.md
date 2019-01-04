@@ -45,7 +45,7 @@ Makecode在线地址：https://makecode.microbit.org/beta#editor
 
 ![](./images/11_25.png)
 
-![](./images/11_01.png)
+![](./images/11_26.png)
 
 ## 多屏拼接示例
 
