@@ -4,7 +4,7 @@
 
 大家可以提前体验[新版的在线版](https://makecode.microbit.org/beta "https://makecode.microbit.org/beta")。过几天就会正式上线，到时我们访问https://makecode.microbit.org/就会直接跳转到新版界面。
 
-当然你也可以下载喵家[最新的离线版本V3.3](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.3.0.exe)，是基于新版makecode做的。如果之前没有安装过喵家离线版本makecode，需要多下载一个[microbit串口驱动](http://kittenbot.cn/bbs/forum.php?mod=attachment&aid=MjUyNXxiZDFkMTBhYnwxNTQwMjYwNDM3fDB8MTU2)。当然有用户说微软win10用户商店有microbit官方离线版本下载，喵家程序猿测试了，还是需要网络的，大家也可以测试下。
+当然你也可以下载喵家[最新的离线版本V3.3](http://cdn.kittenbot.cn/makecode/win/Makecode%20Setup%203.3.0.exe)，是基于新版makecode做的。如果之前没有安装过喵家离线版本makecode，需要多下载一个[microbit串口驱动](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=MjUyNXxiZDFkMTBhYnwxNTQwMjYwNDM3fDB8MTU2)。当然有用户说微软win10用户商店有microbit官方离线版本下载，喵家程序猿测试了，还是需要网络的，大家也可以测试下。
 
 之前也有些帖子介绍过新版makecode，这篇帖子从CC喵理解的角度重新介绍下这个新版Makecode。
 

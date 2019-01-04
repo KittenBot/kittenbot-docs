@@ -192,7 +192,7 @@ _https://github.com/KittenBot/pxt-robotbitnopixel_
 ![](./huitu/shoujiduan_7.png)
 
 
-这里直接给出绘图小车及蓝牙绘图小车的示例程序以供参考：[程序入口](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=366&extra=page%3D1)
+这里直接给出绘图小车及蓝牙绘图小车的示例程序以供参考：[程序入口](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=366&extra=page%3D1)
 
  
 
@@ -206,7 +206,7 @@ _https://github.com/KittenBot/pxt-robotbitnopixel_
 - 如果app中为发现microbit蓝牙，那么请检查microbit端的hex烧录前蓝牙的项目设定选项是否与上述说明一致
 - 手机扫码请确保与电脑在同一wifi网络
 - kblock手机app请到小喵科技交流群下载 568084773
-- kittenblock和makecode离线版请到小喵科技论坛下载[论坛](http://kittenbot.cn/bbs/forum.php?mod=forumdisplay&fid=37)
+- kittenblock和makecode离线版请到小喵科技论坛下载[论坛](https://bbs.kittenbot.cn/forum.php?mod=forumdisplay&fid=37)
 
 如果通过上述教程还有无法实现的部分请加入小喵科技交流群咨询：568084773
 

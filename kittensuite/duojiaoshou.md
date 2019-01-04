@@ -156,7 +156,7 @@ microbit&robotbit多脚兽
 ##2.4G体感程序下载##
 
 
-[click here](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=446)
+[click here](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=446)
 
 
 ## 注意事项

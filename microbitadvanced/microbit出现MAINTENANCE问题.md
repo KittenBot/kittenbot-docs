@@ -15,7 +15,7 @@
 
 在固件丢失的这种情况下，我们只需要重新烧入固件即可恢复
 都给你提供好了，是比较新的固件，进到论坛下载即可：    
-[固件连接](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=442&page=1&extra=#pid2029)
+[固件连接](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=442&page=1&extra=#pid2029)
 
 
 **烧入方法**

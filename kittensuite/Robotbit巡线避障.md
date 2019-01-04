@@ -164,7 +164,7 @@ Microbit&Robotbit巡线壁障小车
 
 * 程序
 
-[https://makecode.microbit.org/_UsWeYReAuAkF](https://makecode.microbit.org/_UsWeYReAuAkF)
+[点这](https://makecode.microbit.org/_UsWeYReAuAkF)
 
 ## 注意事项
 

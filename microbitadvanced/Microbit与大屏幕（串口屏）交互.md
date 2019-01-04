@@ -193,7 +193,7 @@ printh 0a
 - 串口屏的素材
 - 串口工具
 
-打成一个[压缩包(戳我)](http://kittenbot.cn/bbs/forum.php?mod=attachment&aid=MjU3MHwzODEyZDU5YnwxNTQyMzcxNzAwfDN8NDMz)了，或者请移步到[喵家论坛]((http://www.kittenbot.cn/bbs)进行下载~对应搜索关键字“串口屏”
+打成一个[压缩包(戳我)](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=MjU3MHwzODEyZDU5YnwxNTQyMzcxNzAwfDN8NDMz)了，或者请移步到[喵家论坛](http://www.kittenbot.cn/bbs)进行下载~对应搜索关键字“串口屏”
 
 
 

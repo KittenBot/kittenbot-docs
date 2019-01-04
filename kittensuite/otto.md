@@ -128,7 +128,7 @@ __首先写在前面的一个要点是，每个舵机的安装前应确保初始
 
 这里给出一个现成的2.4G控制OTTO向前向后走的程序（针对不同的舵机安装误差角度，运动起来会稍有偏差，可以自行调整程序中数组中的数值）
 
-[程序点这](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=365)
+[程序点这](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=365)
 
 
 

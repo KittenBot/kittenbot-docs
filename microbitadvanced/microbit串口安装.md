@@ -3,7 +3,7 @@
 ## 串口安装方式
 
 ### 如果你只使用Makecode
-那么你直接下载，[Microbit串口驱动](http://kittenbot.cn/bbs/forum.php?mod=attachment&aid=MjUyNnxiM2ZjZTU1OXwxNTQ1MTI0NTI0fDN8NDA0)，
+那么你直接下载，[Microbit串口驱动](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=MjUyNnxiM2ZjZTU1OXwxNTQ1MTI0NTI0fDN8NDA0)，
 **插上Microbit后**，再双击进行安装
 
 ### 如果你已经安装Kittenblock
