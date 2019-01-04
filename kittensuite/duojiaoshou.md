@@ -6,7 +6,7 @@ __转到淘宝购买__----------→[micro:bit多脚兽套件](https://item.taoba
 
 ## 产品名称
 
-microbit&robotbit多脚兽
+Microbit & Robotbit多脚兽
 
 ## 适用人群 
 
