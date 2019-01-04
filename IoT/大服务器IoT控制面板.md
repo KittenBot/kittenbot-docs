@@ -16,7 +16,7 @@ www.kittenbot.cn  右上角有登录图标
 
 ![](./images/serve03.png)
 
-输入你的账号密码，账号密码就是喵家论坛的账号密码（如果你没有请自行注册 www.kittenbot.cn/bbs/）
+输入你的账号密码，账号密码就是喵家论坛的账号密码（如果你没有请自行注册 bbs.kittenbot.cn）
 
 ![](./images/serve04.png)
 

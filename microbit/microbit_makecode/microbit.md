@@ -11,9 +11,9 @@
 ##Microbit图文教程   
 ![](./images/m2.png)   
 
-[跳转到喵家论坛Microbit教程](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=104&extra=page%3D1)
+[跳转到喵家论坛Microbit教程](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=104&extra=page%3D1)
    
 ##Robotbit图文教程   
 ![](./images/m3.png)   
    
-[跳转到喵家论坛Microbit教程](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=114&extra=page%3D1)
+[跳转到喵家论坛Microbit教程](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=114&extra=page%3D1)

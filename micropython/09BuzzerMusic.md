@@ -6,7 +6,7 @@
 
 这里顺便推广下小喵家的makecode离线版本：
 
-[http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=156&extra=page%3D1](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=156&extra=page%3D1)
+[click](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=156&extra=page%3D1)
 
 - 不受网络限制
 - 可以直接下载hex到microbit上面，不用每次弹出下载窗口并选择microbit

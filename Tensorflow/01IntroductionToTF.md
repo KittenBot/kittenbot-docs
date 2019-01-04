@@ -64,7 +64,7 @@ Kittenblock在1.79版本更新也集成了TensorFlowjs引擎，并且将其重�
 
 ### 注意
 
-由于我们的TensorFlow引擎才刚刚移植到Kittenblock中，难免有各种bug或者内存泄漏的情况，大家如果碰到bug或者有任何建议都可以在我们QQ群 568084773，我们的论坛[http://kittenbot.cn/bbs](http://kittenbot.cn/bbs),或者直接在我们的Kittenblock软件内报告bug。
+由于我们的TensorFlow引擎才刚刚移植到Kittenblock中，难免有各种bug或者内存泄漏的情况，大家如果碰到bug或者有任何建议都可以在我们QQ群 568084773，我们的[论坛](https://bbs.kittenbot.cn),或者直接在我们的Kittenblock软件内报告bug。
 
 * 由于TensorFlow使用了GPU进行计算，请确保你的电脑配置还过的去，部分太老的电脑或者集成显卡的电脑可能因为资源限制会有部分例子无法正常完成。
 * 其实TensorFlow移植的早在Google发布tfjs第二天我们就列入开发计划了，但是因为我们团队实在太小了，各种项目花式优先级排序才拖了这么久。另外在重申一下正确提需求方式是要不停地骚扰我们的产品经理CC喵，而且是要组团骚扰，念叨地多了就自然落地了。

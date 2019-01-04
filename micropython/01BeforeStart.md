@@ -36,7 +36,7 @@ Micropython是运行在微处理器上的python语言。学习过Arduino的同�
  
 Kittenblock最新版本可以在我们的社区论坛下载：
 
-[小喵家社区 Kittenblock最新版本](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115)
+[小喵家社区 Kittenblock最新版本](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=115)
 
 安装完成后界面如下
 

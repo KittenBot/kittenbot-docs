@@ -8,7 +8,7 @@
 
 如果大家使用Makecode学习Microbit或者想了解相关历史的可以看看我们社区相关的帖子
 
-[小喵家社区：Micro:bit教程汇总目录](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=104&extra=page%3D1)
+[小喵家社区：Micro:bit教程汇总目录](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=104&extra=page%3D1)
 
 ### 主板功能模块
 
