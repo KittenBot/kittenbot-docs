@@ -119,7 +119,7 @@ IObit X1
 
 
 ## IObit编程使用：
-如果你Microbit还没入入门,先入门Microbit，这个是操作前提。小喵科技已经为你准备好贴心的[Microbit手把手入门视频教程](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=201&highlight=Microbit%2B%CA%D3%C6%B5)
+如果你Microbit还没入入门,先入门Microbit，这个是操作前提。小喵科技已经为你准备好贴心的[Microbit手把手入门视频教程](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=201&highlight=Microbit%2B%CA%D3%C6%B5)
 
 ### P0蜂鸣器
 在Makecode中直接使用音乐积木块即可
