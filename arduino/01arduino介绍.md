@@ -15,7 +15,7 @@ arduino相对其他单片机或者其他开发板对于普通人已经是一个�
   
 **Kittenblock下载**  
 
-[http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115&extra=page%3D1](http://kittenbot.cn/bbs/forum.php?mod=viewthread&tid=115&extra=page%3D1)
+[click](https://bbs.kittenbot.cns/forum.php?mod=viewthread&tid=115&extra=page%3D1)
   
 
 
