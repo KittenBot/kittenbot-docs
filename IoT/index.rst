@@ -11,6 +11,7 @@
     什么是物联网.md
     IOT理论基础.md
     Kittenblock中快速上手IOT.md
+    Kittenblock中IOT温度推送.md
     喵家IOT服务器快速入门.md
     让Microbit加入IoT.md
     让Rosbot加入IoT.md
