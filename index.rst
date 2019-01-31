@@ -24,6 +24,7 @@
     scratch3_python3/index
     micropython/index
     arduino/index
+    AI/index
     IoT/index
     mainboards/index
     electronics/index
