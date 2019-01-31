@@ -4,7 +4,7 @@
 
 Thingspeak是Mathworks在物联网(Internet of Things)大潮下的一个产品线，它是物联网的数据收集和数据分析的云平台。大多数使用Thingspeak的用户都是Maker,也叫做创客，他们有工程和硬件方面的经验，开发和使用可联网的硬件收集数据，并把数据传向云端，Thingspeak扮演的角色是物联网的后端，即 免费 存储硬件所收集的数据，以及提供 免费的在线使用MATLAB 分析这些数据的功能。
 
-![](./images/c05_01.png)
+![](./images/C05_01.png)
 
 ## Thingspeak的准备
 
@@ -12,37 +12,37 @@ Thingspeak是Mathworks在物联网(Internet of Things)大潮下的一个产品�
 
 注册完毕后，我们需要建立Channels,把ID与Write API Key记下来，编程需要用到。
 
-![](./images/c05_02.png)
+![](./images/C05_02.png)
 
 ## 硬件接线
 
 这里用了能量魔块作为演示（你也可以用Microbit+Robotbit+wifi模块），接线如下，注意电池盒一定要接上，否则wifi模块会因为电流不足工作不正常。wifi模块接在Port3口，当然你也可以选用（Port1、2、4）
 
-![](./images/c05_03.png)
+![](./images/C05_03.png)
 
 ## 程序编程
 
 ### 加载wifi插件
 
-![](./images/c05_04.png)
+![](./images/C05_04.png)
 
-![](./images/c05_05.png)
+![](./images/C05_05.png)
 
 ### wifi插件版本更新
 
 Makecode离线版本3.5的wifi插件还没有更新，需要自己手动更新，操作如下：
 
-![](./images/c05_06.png)
+![](./images/C05_06.png)
 
 切换回去编程界面
 
-![](./images/c05_07.png)
+![](./images/C05_07.png)
 
 如图所示，更改成0.1.8
 
-![](./images/c05_08.png)
+![](./images/C05_08.png)
 
-![](./images/c05_09.png)
+![](./images/C05_09.png)
 
 ### 编写程序
 
@@ -54,7 +54,7 @@ Makecode离线版本3.5的wifi插件还没有更新，需要自己手动更新�
 
 把888888和XXXXXXXXXXXXXXXX改为你Thingspeak对应账号的信息
 
-![](./images/c05_10.png)
+![](./images/C05_10.png)
 
 ## 程序提升
 
@@ -64,9 +64,9 @@ Makecode离线版本3.5的wifi插件还没有更新，需要自己手动更新�
 
 程序如下：
 
-![](./images/c05_11.png)
+![](./images/C05_11.png)
 
-![](./images/c05_12.png)
+![](./images/C05_12.png)
 
 
 ## 后话
