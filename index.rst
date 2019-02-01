@@ -12,6 +12,7 @@
     :maxdepth: 2
     :glob:
 
+    meowbit/index
     powerbrick/index
     powerbrick_KB/index
     microbit/microbit_makecode/index
