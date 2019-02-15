@@ -17,19 +17,19 @@
     powerbrick_KB/index
     microbit/microbit_makecode/index
     microbit/microbit_kittenblock/index
-    minilfr/index
-    kittenbot/index
+    mainboards/index
+    electronics/index
+    kittensuite/index
     kittenblock/index
-    Tensorflow/index
     kblock/index
     scratch3_python3/index
     micropython/index
     arduino/index
     AI/index
+    Tensorflow/index
     IoT/index
-    mainboards/index
-    electronics/index
-    kittensuite/index
+    minilfr/index
+    kittenbot/index
     microbitadvanced/index
     kittenblocklog/index
     
