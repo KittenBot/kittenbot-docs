@@ -13,7 +13,7 @@
 [解决方法请戳我](http://learn.kittenbot.cn/zh_CN/latest/microbitadvanced/microbit%E4%B8%B2%E5%8F%A3%E5%AE%89%E8%A3%85.html)
 
 ## 下载示例程序 ##
-硬件选择MicorBit Python，并选择COM口
+硬件选择MicorBit Python——Serial，
 <!-- ![](./images/安装microbit3.gif)   --> 
 
 ![](./images/选择硬件.png)
