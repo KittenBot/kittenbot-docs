@@ -117,7 +117,9 @@ Microbit&Robotbit巡线壁障小车
 ![](./images/b_show.gif)
 
   
-## 3路巡线编程    
+## 3路巡线编程   
+
+在测阈值前，[你需要提前安装Mirobit的串口驱动，串口驱动安装方法在这里 ](http://learn.kittenbot.cn/zh_CN/latest/microbitadvanced/microbit%E4%B8%B2%E5%8F%A3%E5%AE%89%E8%A3%85.html)
   
 **巡线阈值测定**
 

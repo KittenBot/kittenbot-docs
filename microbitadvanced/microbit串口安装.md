@@ -1,5 +1,13 @@
 # Microbit串口驱动安装
 
+## 问题现象
+
+![](./installerror/install00.png)
+
+弹出mbed Serial Port找不到驱动，这个驱动其实是不影响Microbit下载的，但是如果你Microbit进阶一定会用到。
+
+[具体如何使用Microbit串口，可以戳我](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=202&highlight=%B4%AE%BF%DA)
+
 ## 串口安装方式
 
 ### 如果你只使用Makecode
