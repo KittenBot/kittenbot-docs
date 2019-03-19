@@ -115,7 +115,6 @@ Microbit&Robotbit巡线壁障小车
 **整品展示**   
   
 ![](./images/b_show.gif)
-
   
 ## 3路巡线编程   
 
@@ -125,19 +124,19 @@ Microbit&Robotbit巡线壁障小车
 
 首先接好线后将下列程序烧入板子
 
-![](./images/黑线检测3.png)
+![](./images/black3.png)
 
 接着点击设备的控制台进入观察数值 
   
-![](./images/黑线检测4.png)
+![](./images/black4.png)
 
 - 第一步测量环境值
 
-![](./images/黑线检测2.png)
+![](./images/black2.png)
 
 - 第二步测量黑线值  
 
-![](./images/黑线检测1.png)
+![](./images/black1.png)
 
 **三路巡线编程**
 
