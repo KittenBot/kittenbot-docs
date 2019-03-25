@@ -32,11 +32,11 @@ Microbit恢复固件后，在程序中编写一个Scratch橘猫与Microbit传感
    
 编写完成后，点击绿旗子积木块执行 
   
-![](./images/安装microbit9.gif)   
+![](./images/az_microbit9.gif)   
    
 左右摆动下Microbit板子观察下实验现象
    
-![](./images/安装microbit10.gif)   
+![](./images/az_microbit10.gif)   
     
 是不是很有趣？您还在等什么？   
    
