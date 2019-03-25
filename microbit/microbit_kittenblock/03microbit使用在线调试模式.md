@@ -38,7 +38,7 @@
 
 鼠标点击左侧的Microbit积木，板子就有对应反应。（保证串口已经连接，否则没反应）
 ）   
-![](./images/安装microbit7.gif) 
+![](./images/az_microbit7.gif) 
 
 ----------
   
@@ -88,7 +88,7 @@
 
 当由于发送指令太快，Microbit进入死机不执行状态，这时候先点击一下正在执行的指令（此操作是为了取消指令发送）
    
-![](./images/安装microbit8.gif)   
+![](./images/az_microbit8.gif)   
 
 
 然后重新按一下Microbit上的复位按键
