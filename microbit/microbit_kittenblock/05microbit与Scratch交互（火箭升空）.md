@@ -34,7 +34,7 @@ Microbit恢复固件后，在程序中编写一个Scratch火箭与Microbit传感
 编写完成后，点击绿旗子积木块执行   
 
 按下按键A观察下实验现象   
-![](./images/安装microbit11.gif)   
+![](./images/az_microbit11.gif)   
     
 是不是很有趣？您还在等什么？   
    

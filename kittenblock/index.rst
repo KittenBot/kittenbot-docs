@@ -23,4 +23,5 @@ Kittenblock 教程
     thingspaeak.md
     插件开发指南.md
     插件开发指南02.md
+    自动化插件生成系统.md
     
