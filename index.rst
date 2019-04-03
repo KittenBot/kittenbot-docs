@@ -17,6 +17,7 @@
     powerbrick_KB/index
     microbit/microbit_makecode/index
     microbit/microbit_kittenblock/index
+    JoyFrog/index
     mainboards/index
     electronics/index
     kittensuite/index
