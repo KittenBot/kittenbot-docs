@@ -14,5 +14,7 @@
     c03.md
     c04.md
     c05.md
+    c06.md
+    c07.md
     c08.md
 
