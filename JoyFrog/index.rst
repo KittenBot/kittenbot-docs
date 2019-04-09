@@ -12,5 +12,7 @@
     c01.md
     c02.md
     c03.md
+    c04.md
+    c05.md
     c08.md
 
