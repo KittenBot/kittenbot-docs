@@ -171,6 +171,6 @@ Kittenblock内的数据保存使用了Scratch的列表变量（list）完成，�
 
 #### PS2
 
-本系列中的所有教程的sb3文件我们都共享到了我们的仓库中，大家如果在任何地方卡主了都可以到我们仓库下载示例的程序。
+本系列中的所有教程的sb3文件我们都共享到了服务器，大家可以直接下载
 
-[https://github.com/KittenBot/kittenbot-docs/tree/master/Tensorflow/data](https://github.com/KittenBot/kittenbot-docs/tree/master/Tensorflow/data)
+[http://cdn.kittenbot.cn/TensorFlow.rar](http://cdn.kittenbot.cn/TensorFlow.rar)
