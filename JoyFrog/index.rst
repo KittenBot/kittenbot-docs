@@ -11,7 +11,15 @@
     c00.md
     c01.md
     c02.md
-    c03.md
+    c03_01.md
+    c03_02.md
+    c03_03.md
+    c03_04.md
+    c03_05.md
+    c03_06.md
+    c03_07.md
+    c03_08.md
+    c03_09.md
     c04.md
     c05.md
     c06.md
