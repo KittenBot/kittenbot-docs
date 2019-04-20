@@ -21,7 +21,7 @@ Kittenblock 教程
     Onlineandoffline.md
     连线引擎简介和使用.md
     thingspaeak.md
+    自动化插件生成系统.md
+    add-guide.md
     插件开发指南.md
     插件开发指南02.md
-    自动化插件生成系统.md
-    
