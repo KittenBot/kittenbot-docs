@@ -20,6 +20,7 @@
     c03_07.md
     c03_08.md
     c03_09.md
+    c09.md
     c04.md
     C09.md
     c05.md
