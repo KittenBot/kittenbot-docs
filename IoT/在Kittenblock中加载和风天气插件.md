@@ -1,16 +1,19 @@
 # 在Kittenblock中加载和风天气插件
 
+此插件无需依赖硬件，纯软操作，只需要有通畅的网络即可
+
+
 ## 加载插件
 
 ### 打开软件
 
 左下方，插件加载
 
-![](./images/C10_01.png)
+![](./images/c10_01.png)
 
 点击加号，进行网络插件加载
 
-![](./images/C10_02.png)
+![](./images/c10_02.png)
 
 ### 输入和风插件地址
 
@@ -18,22 +21,22 @@
 
 github链接：https://github.com/KittenBot/s3ext-hfweather
 
-![](./images/C10_03.png)
+![](./images/c10_03.png)
 
 点击下载按钮，然后下载完毕后，软件会自动重启。
 
-![](./images/C10_04.png)
+![](./images/c10_04.png)
 
 
 ### 成功加载
 
 软件重启后，重新选择插件加载
 
-![](./images/C10_05.png)
+![](./images/c10_05.png)
 
 加载成功如下图：
 
-![](./images/C10_06.png)
+![](./images/c10_06.png)
 
 ## 快速上手
 
@@ -41,11 +44,11 @@ github链接：https://github.com/KittenBot/s3ext-hfweather
 
 这里我手动填写了“深圳”，意思是读取深圳当天的天气情况。
 
-![](./images/C10_07.png)
+![](./images/c10_07.png)
 
 以下这个数值返回，使用方式一样，这几个数值返回也是我们平时比较关注的天气点
 
-![](./images/C10_08.png)
+![](./images/c10_08.png)
 
 ### 预测未来天气
 
@@ -53,9 +56,9 @@ github链接：https://github.com/KittenBot/s3ext-hfweather
 
 后面的数值为，未来的第几天，对应可以查询天气情况和温度。
 
-![](./images/C10_09.png)
+![](./images/c10_09.png)
 
-![](./images/C10_10.png)
+![](./images/c10_10.png)
 
 
 
