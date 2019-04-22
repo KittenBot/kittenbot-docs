@@ -17,5 +17,4 @@
     让Rosbot加入IoT.md
     服务器IoT控制面板详解.md
     Microbit在Thingspeak中应用.md
-    加载和风天气插件.md
-
+    在Kittenblock中加载和风天气插件.md
