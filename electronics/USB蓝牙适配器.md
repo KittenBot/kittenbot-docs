@@ -48,11 +48,11 @@
 如果没有提示安装硬件，这个也没有关系。（因为下一步我们要用其他驱动来替换这个驱动）   
 
 ### 替换驱动
-下载此 [https://zadig.akeo.ie/](https://zadig.akeo.ie/downloads/zadig-2.4.exe) 工具   
+下载此[zadig-2.4](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=Mjg0MnwyNWU1NDU5MXwxNTU2MDc1MzQ0fDN8NTc1)工具   
 如果你电脑安装了杀毒软件，杀毒软件会将它识别为病毒...你记得找回来，或者下载前先关闭杀毒软件。
 
 ### 设置更新驱动
-下载完成后，双击打开   
+下载完成后，解压，双击打开   
 ![](./bledongle/12.png)   
 打开后的界面如图   
 ![](./bledongle/06.png)   
