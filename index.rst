@@ -27,6 +27,7 @@
     micropython/index
     arduino/index
     AI/index
+    machinelearning/index
     Tensorflow/index
     IoT/index
     minilfr/index
