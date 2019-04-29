@@ -9,6 +9,7 @@
     :numbered: 2
 
     c00.md
+    c10.md
     c01.md
     c02.md
     c03_01.md
