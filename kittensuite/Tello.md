@@ -1,16 +1,37 @@
 # Tello 无人机编程
 
-在广大老师和同学的强烈要求下我们在1.73版本迭代中加入了tello无人机的支持，多个tello无人机可以组合成编队飞行了。
+在广大老师和同学的强烈要求下我们在1.73版本迭代中加入了tello无人机的支持，Tello是大疆家的，小喵没收广告费，如果你想打赏喵家，可以在淘宝店购买喵家的其他产品。
 
 ## 必要的准备工作
 
-由于Tello无人机出厂的时候不一定是最新的版本，需要用大疆tello的app将无人机固件更新到最新版本。
+1. 由于Tello无人机出厂的时候不一定是最新的版本，需要用大疆tello的app将无人机固件更新到最新版本。（一般不需要操作，可以先按照往下操作，如果连接不上，再回来更新最新版本）
 
 ![](./images/telloapp.png)
 
-之后你需要一部能连接上tello热点的电脑，可以给台式机配一个usb wifi dongle或者用一台笔记本。
+2. 需要一部能连接上tello热点的电脑（如台式电脑机配一个USB wifi设备器或者用一台笔记本）
 
-当然还要把Kittenblock更新到最新版本。
+3. Kittenblock更新到最新版本。
+
+## 加载tello插件
+
+Kittenblock最新版本，由于体积的问题，没有集成tello的插件，所以需要自己手动加载。
+
+Tello插件连接地址：
+
+https://github.com/KittenBot/s3ext-tello
+
+![](./images/tello6.png)
+
+![](./images/tello7.png)
+
+![](./images/tello8.png)
+
+插件加载后，软件会自动重启。
+
+重启后，重新进入到扩展里面，可以看到Tello飞机的图标了，点击加载，即可成功加载Tello插件
+
+![](./images/tello9.png)
+
 
 ## Hello Tello
 
@@ -24,17 +45,23 @@
 
 ![](./images/tello2.png)
 
-要控制飞机，我们要明确地发一个控制飞机的指令。就像大家玩四轴的时候将两个遥杆向内搬一下表示我要控制你了。
+要控制飞机，我们要明确地发一个控制飞机的指令。就像大家玩四轴的时候将两个遥杆向内扳一下表示我要控制你了。
 
 这个方块要在所有的方块前面，并且每个程序只需要执行一次。
+
+![](./images/tello10.png)
 
 ![](./images/tello3.png)
 
 控制飞机之后就是要起飞喽~
 
+![](./images/tello11.png)
+
 ![](./images/tello4.png)
 
 接下来我们玩自动巡航：
+
+![](./images/tello12.png)
 
 ![](./images/tello5.png)
 
