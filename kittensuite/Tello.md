@@ -14,9 +14,13 @@
 
 ## Hello Tello
 
-将你的电脑连接上Tello的wifi热点，具体可以参考tello app内的方法。使用USB线插在电脑上只能给Tello充电，连系统都不会开机。
+1. 首先将Tello电源打开（请自行查看说明书），Tello就会产生一个wifi热点，名字就叫TelloXXXX类似的
 
-之后打开Kittenblock在硬件栏找到Tello, 之后在通信接口选择**192.168.10.1**，这个是固定地址不要选错了。
+2. 再在电脑上的无线wifi上选择连接Tello这个热点。
+
+3. 再打开Kittenblock在硬件栏找到Tello, 在通信接口选择**192.168.10.1**，这个是固定地址不要选错了。
+
+必须严格按照以上步骤，否则在Kittenblock中搜索不出来
 
 ![](./images/tello2.png)
 
