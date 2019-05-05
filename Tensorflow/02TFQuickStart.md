@@ -1,4 +1,4 @@
-# TensorFlow快速开始
+# TensorFlow快速开始(程序包集合)
 
 请先下载Kittenblock1.79或以上版本，点击左下角的扩展插件之后可以在列表中找到TensorFlow的插件。
 
@@ -169,8 +169,12 @@ Kittenblock内的数据保存使用了Scratch的列表变量（list）完成，�
 
 大家可以按键盘的Esc下的“~”按键，调出调试窗口，TensorFlow的模型建立，数据导入，模型训练的情况都会显示在调试窗口上。
 
+![](./images/c02_30.png)
+
 #### PS2
 
 本系列中的所有教程的sb3文件我们都共享到了服务器，大家可以直接下载
 
-[http://cdn.kittenbot.cn/TensorFlow.rar](http://cdn.kittenbot.cn/TensorFlow.rar)
+[https://www.kittenbot.cn/newsinfo/969082.html?no-cache=1](https://www.kittenbot.cn/newsinfo/969082.html?no-cache=1)
+
+![](./images/c02_29.png)
