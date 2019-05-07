@@ -18,6 +18,8 @@ Kittenblock 教程
     06Kittenblock舞台展示区.md
     07Kittenblock角色与舞台参数编辑区.md
     08Kittenblock的python与帮助区.md
+    09书包功能（程序之间复制）.md
+    10列表导入导出功能.md
     Onlineandoffline.md
     连线引擎简介和使用.md
     thingspaeak.md
