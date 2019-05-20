@@ -27,3 +27,4 @@ Kittenblock 教程
     add-guide.md
     插件开发指南.md
     插件开发指南02.md
+    12软件中界面翻译与插件翻译.md
