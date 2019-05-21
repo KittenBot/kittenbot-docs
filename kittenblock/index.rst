@@ -20,11 +20,12 @@ Kittenblock 教程
     08Kittenblock的python与帮助区.md
     09书包功能（程序之间复制）.md
     10列表导入导出功能.md
+    11护眼模式主题切换.md
     Onlineandoffline.md
     连线引擎简介和使用.md
     thingspaeak.md
     自动化插件生成系统.md
+    12软件中界面翻译与插件翻译.md
     add-guide.md
     插件开发指南.md
     插件开发指南02.md
-    12软件中界面翻译与插件翻译.md
