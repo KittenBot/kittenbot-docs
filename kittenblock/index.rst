@@ -25,7 +25,7 @@ Kittenblock 教程
     连线引擎简介和使用.md
     thingspaeak.md
     自动化插件生成系统.md
-    12软件中界面翻译与插件翻译.md
+    12软件界面翻译与插件翻译.md
     add-guide.md
     插件开发指南.md
     插件开发指南02.md
