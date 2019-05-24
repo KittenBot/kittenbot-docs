@@ -104,9 +104,9 @@ LED灯：5V电源指示灯
 
 ## 编程实例
 
-总程序包下载：
+总程序包下载：(请转到论坛下载)
 
-
+https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=599&page=1&extra=#pid2439
 
 图片太小了，具体下载程序包后，打开hex文件，自己学习程序
 
