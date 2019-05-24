@@ -57,6 +57,8 @@ https://github.com/KittenBot/pxt-rjbit
 
 64mmx36mmx24mm
 
+![](./rj_images/rj1.jpg)
+
 ### 接口
 
 4组RJ25接口
@@ -99,7 +101,7 @@ LED灯：5V电源指示灯
 
 通过4颗配套铆钉，将Robotbit的底座固定在金属车架上
 
-> 截图一张铆钉固定在车架上的图
+![](./rj_images/rj2.jpg)
 
 
 ## 编程实例
