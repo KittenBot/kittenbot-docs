@@ -1,18 +1,18 @@
-# RJbit简介
+# mBridge简介
 
 ## 简介
 
-RJbit是小喵科技推出一款简单易用兼容RJ25传感器模块的扩展板。
+mBridge是小喵科技推出一款简单易用兼容RJ25传感器模块的扩展板。
 
-它简单易用，RJbit需要插在robotbit上使用，microbit作为主控板，RJbit专为RJ25传感器模块而设计。
+它简单易用，mBridge需要插在robotbit上使用，microbit作为主控板，mBridge专为RJ25传感器模块而设计。
 
 让用户在makecode平台下也能使用RJ25传感器模块。
 
-RJbit不能单独使用，必须配搭microbit和robotbit进行使用！
+mBridge不能单独使用，必须配搭microbit和robotbit进行使用！
 
 ## 建议配搭套餐
 
-1、RJbit
+1、mBridge
 
 2、Microbit
 
@@ -34,16 +34,16 @@ RJbit不能单独使用，必须配搭microbit和robotbit进行使用！
 
 - 已有Robotbit的用户无需为了用RJ25模块，再另买一块差不多性质的Microbit扩展板，只需在Robotbit上扩展即可。
 
-- 支持Makecode，有RJbit插件，驱动RJbit的同时，不影响Robotbit上的编程资源（RGB灯、电机、舵机等等）
+- 支持Makecode，有mBridge插件，驱动mBridge的同时，不影响Robotbit上的编程资源（RGB灯、电机、舵机等等）
 
 
 ## 在Makecode中的编程
 
 在Makecode中编程，现已经支持RJ25的大部分传感器，用户只需要像往常一样简单的拖拽积木块对microbit编程就可以DIY出效果。
 
-Rjbit对应的Makecode扩展地址：
+mBridge对应的Makecode扩展地址：
 
-https://github.com/KittenBot/pxt-rjbit
+https://github.com/KittenBot/pxt-mBridge
 
 ![](./rj_images/c01_03.png)
 
