@@ -216,16 +216,14 @@ printh 0a
 
 ## 大礼包
 
-
 - Microbit程序
 - 对应串口屏的程序
 - 串口屏的素材
 - 串口工具
 
+打成一个[压缩包(戳我)](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=MjU3MHwzODEyZDU5YnwxNTQyMzcxNzAwfDN8NDMz)
 
-打成一个[压缩包(戳我)](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=MjU3MHwzODEyZDU5YnwxNTQyMzcxNzAwfDN8NDMz)了，或者请移步到[喵家论坛](http://www.kittenbot.cn/bbs)进行下载~对应搜索关键字“串口屏”
-=======
-打成一个[压缩包(戳我)](http://bbs.kittenbot.cn/forum.php?mod=attachment&aid=MjU3MHw2YWU5ODk0Y3wxNTQ2MzkzODMzfDN8NDMz)了，或者请移步到[喵家论坛](bbs.kittenbot.cn/)进行下载~对应搜索关键字“串口屏”
+或者请移步到[喵家论坛](http://www.kittenbot.cn/bbs)进行下载~对应搜索关键字“串口屏”
 
 
 
