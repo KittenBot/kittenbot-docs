@@ -15,6 +15,8 @@
     喵家IOT服务器快速入门.md
     让Microbit加入IoT.md
     让Rosbot加入IoT.md
+    让能量魔块加入IoT.md
     服务器IoT控制面板详解.md
+    onenet.md
     Microbit在Thingspeak中应用.md
     在Kittenblock中加载和风天气插件.md
