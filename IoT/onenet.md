@@ -79,6 +79,8 @@
 - Powerbrick 温湿度魔块（接->Port2）
 - 连接线
 
+[wifi模块固件更新V2.8.4方法](http://learn.kittenbot.cn/zh_CN/latest/electronics/wifi2.html)
+
 ## Makecode上正式编程
 
 ### 加入OneNET插件与Powerbrick插件（本实验是基于Powerbrick进行）
