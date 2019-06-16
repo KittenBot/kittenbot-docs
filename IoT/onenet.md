@@ -75,6 +75,7 @@
 - Powerbrick Armourbit
 - Powerbrick 电池盒
 - Powerbrick WIFI魔块（接->Port3）
+- **Powerbrick WIFI魔块固件V2.8.4**
 - Powerbrick 温湿度魔块（接->Port2）
 - 连接线
 
