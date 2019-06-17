@@ -2,7 +2,7 @@
 
 适用于wifi模块固件V2.8以上的版本
 
-wifi模块固件下载地址，点我
+[wifi模块固件下载地址，点我](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=Mjk1OXwwYzkxYWU3MnwxNTYwNzM1OTIwfDN8NjI5)
 
 
 ## 利用wifi固件的网页给自己刷固件
