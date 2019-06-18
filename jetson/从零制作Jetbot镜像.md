@@ -7,7 +7,7 @@
 
 以下所有文档来自于Nv官方，如有变动以官方的为准：
 [https://github.com/NVIDIA-AI-IOT/jetbot/wiki/Create-SD-Card-Image-From-Scratch](https://github.com/NVIDIA-AI-IOT/jetbot/wiki/Create-SD-Card-Image-From-Scratch)
-# NUMPY安装
+## NUMPY安装
 在命令行下依次运行以下命令，除了最后numpy需要重新编译一堆东西耗时比较长外，其他应该没毛病～
 ```
 sudo apt-get update
@@ -15,7 +15,7 @@ sudo apt install python3-pip python3-pil
 sudo pip3 install --upgrade numpy 
 ```
 
-# SDK和tensorflow的安装
+## SDK和tensorflow的安装
 
 首先我们来安装Nv的SDK Manager
 当前面的numpy安装完后，我们需要安装对应的sdk。jetson nano的ubuntu安装完后桌面有一个developer zone的快捷链接，在chromium打开后找到download那个按钮进入下载链接。
@@ -107,7 +107,7 @@ jupyter lab --generate-config
 jupyter notebook
 ```
 
-# 安装jetbot项目
+## 安装jetbot项目
 弄了这么久我们只是在为jetbot项目准备开发环境，接下来才是主线任务～
 
 ```

@@ -7,7 +7,7 @@
 
 jetson-inference正如其名只是调用现有训练好的模型进行计算，并不存在数据采集训练的过程，也不需要安装tensorflow或caffe等库。jetson nano的镜像已经内置安装好了cuda，cudnn和opencv等
 
-# 克隆项目到jetson
+## 克隆项目到jetson
 由于github比较卡，我们将项目挪到国内gitee上了～
 ```
 cd ～
