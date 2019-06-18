@@ -24,7 +24,7 @@ sudo pip3 install --upgrade numpy
 
 找到Nvidia SDK Manager并且点击下载，默认下载到 ~/Downloads 目录。
 
-![图片](https://uploader.shimo.im/f/c7jV6jKJiX83qU4d.png!thumbnail)
+![图片](https://uploader.shimo.im/f/c7jV6jKJiX83qU4d.png)
 
 下载完成后使用命令行安装：
 
@@ -75,7 +75,6 @@ python3
 >>>import tensorflow
 ```
 
-![图片](https://uploader.shimo.im/f/Hj2aRakF7FUFN2fe.png!thumbnail)
 如果 import没报错，那么就安装ok了 ～
 
 ### 安装pytorch
