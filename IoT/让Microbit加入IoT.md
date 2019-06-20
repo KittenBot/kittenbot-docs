@@ -20,35 +20,37 @@ MQTT核心采用订阅/发布模式，为推送而生。
 
 如果这个过程你不理解，你就想想你订阅微信公众号，假如你和小明一起订阅了同一个微信公众号（假设你俩之间互不认识，不是好友），你们可以在微信公众号下面的留言板进行聊天（笑Cry）这样你们就可以相互通讯了。
 
-## 让Microbit加入Iot
+## 注册服务器账号
 
-服务器你将直接用喵家的服务器
+登录[bbs.kittenbot.cn](https://bbs.kittenbot.cn/) 喵家论坛注册一个账号。
 
-联网设备就是你的Microbit+wifi模块
-
-### 注册喵星云IoT服务器账号，并创建话题
-
-1.登录www.kittenbot.cn/bbs 喵家论坛注册一个账号。
+配图可能有所变动，请根据实际情况为准
 ![](./images/Microbit_IoT01.png)
 
-2.十分钟后（所以你提前拥有喵家账号是有好处的），用你的账号密码登录
-www.kittenbot.cn
+## 登录IOT
+
+稍等片刻（所以你提前拥有喵家账号是有好处的），用你的账号密码登录
+
+[iot.kittenbot.cn](http://iot.kittenbot.cn/)
+
 ![](./images/Microbit_IoT02.png)
 
-3.选择IoT控制面板
+## 添加话题
+
+IoT控制面板主界面，新建话题
+
 ![](./images/Microbit_IoT03.png)
 
-4.这就是IoT控制面板主界面，我们新建一个话题
-![](./images/Microbit_IoT04.png)
-
-5.输入话题名称，格式一般为/+英文，例如/CCFIVE,记住话题是全服务器唯一的，如果申请不成功，有可能你申请的话题已经被其他人用了，请更换另外一个。
+输入话题名称，格式一般为/+英文，例如/CCFIVE,记住话题是全服务器唯一的，如果申请不成功，有可能你申请的话题已经被其他人用了，请更换另外一个名称。
 
 ![](./images/Microbit_IoT05.png)
 
-6.话题成功创建
+话题成功创建,记住这个话题名称，后面编程需要用到。
+
 ![](./images/Microbit_IoT06.png)
 
-### 电路板连线
+
+## 电路板连线
 
 材料准备：
 
@@ -85,31 +87,19 @@ Robotbit上的电源开关记得打开
 
 ![](./images/Microbit03.png)
 
-### 编程准备
+## 软件准备
 
+首先你Microbit需要入门，知道一些Microbit的基本操作，如果还没入门的朋友，请先看[喵家网易云课堂的Microbit教程](https://study.163.com/course/courseMain.htm?courseId=1005485001&share=2&shareId=400000000501010)
 
-- 首先你Microbit需要入门，知道一些Microbit的基本操作，如果还没入门的朋友，请先看[喵家网易云课堂的Microbit教程](https://study.163.com/course/courseMain.htm?courseId=1005485001&share=2&shareId=400000000501010)
+- 请使用Makecode离线版本V3.5
 
-
-
-- 浏览器中打开Makecode最新版本
-
-浏览器中打开Makecode最新版本
-
-浏览器中打开Makecode最新版本
-
-复制粘贴网址：
-[https://makecode.microbit.org/alpha#editor](https://makecode.microbit.org/alpha#editor)
-![](./images/Microbit_IoT07.png)
-
-
-
+- 或者在线版本V1：[https://makecode.microbit.org/v1](https://makecode.microbit.org/v1)
 
 - 加载喵家wifi积木块插件
 https://github.com/KittenBot/pxt-kittenwifi
 
-
 ![](./images/Microbit_IoT08.png)
+
 ![](./images/Microbit_IoT09.png)
 
 ### 积木块介绍
@@ -122,10 +112,13 @@ https://github.com/KittenBot/pxt-kittenwifi
 
 黄色是你必须更改的内容（因为我的路由器wifi名字、密码和你家的不一样。另外我们定义的话题名称也不一样）
 
-下载到Microbit上，等待心形出现（这个过程时间长久跟你的网络环境有关，如果你网络环境好，一般十多秒就可以连上了）（如果你重新下载了程序或者在下载程序后才插上wifi模块或打开电源。你需要等待一下再按下microbit复位键让程序重新运行）
+下载到Microbit上，等待心形出现（这个过程时间长久跟你的网络环境有关，如果你网络环境好，一般十多秒就可以连上了）
+
+如果没什么反应，可以重新microbit复位键让程序重新运行（确保你的电池已经打开了）
+
 这时候可以随意按下，A键 或者 B键。
 
-登录[喵家的IoT控制面板](http://www.kittenbot.cn/vvv/#/dashboard)，就可以看到对应话题收到的消息
+登录[喵家IOT服务器](http://iot.kittenbot.cn/)，就可以看到对应话题收到的消息
 
 ![](./images/Microbit_IoT12.png)
 
@@ -141,8 +134,13 @@ https://github.com/KittenBot/pxt-kittenwifi
 
 ### IoT网页调试
 
-在喵星云IoT控制面板，最下方有个调试窗口，连接后，就可以对话题发送信息。这时候如果话题有内容更新，wifi模块也会检测到的。
+在喵家IoT控制面板，有个调试窗口，连接后，就可以对话题发送信息。这时候如果话题有内容更新，wifi模块也会检测到的。
+
 ![](./images/Rosbot_IoT14.png)
+
+这里可以看到收到信息
+
+![](./images/Rosbot_IoT15.png)
 
 
 ## IoT常见问题与解答
@@ -183,6 +181,6 @@ Robotbit板子上的电源没有开
 
 路由器名称不能有空格
 
-_希望重新再看一遍帖子检查下步骤，如果还是解决不了，到喵家Q群求助，配上你的高清接线图，程序截图，或者实验小视频，以便喵家技术人员帮你快速解答。_
+**希望重新再看一遍帖子检查下步骤，如果还是解决不了，到喵家Q群求助，配上你的高清接线图，程序截图，或者实验小视频，以便喵家技术人员帮你快速解答。**
 
 
