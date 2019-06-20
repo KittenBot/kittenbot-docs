@@ -1,5 +1,12 @@
 # 中国移动Onenet物联网使用
 
+
+为了帮助用户直接入门OneNET的IOT，我们针对能量魔块WIFI（接在Port3口）写了一个程序下载：
+
+[microbit-Onenet_iot_Publish1.hex](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=Mjk3NnwwZTc2NWFmZHwxNTYxMDIyNTkxfDF8NjQw)
+
+请在离线版本打开，或者这个旧版的的在线版本：[https://makecode.microbit.org/v1](https://makecode.microbit.org/v1)
+
 ## 注册OneNET账号
 
 注册账号这个过程很简单，要求有个手机号接受验证码就可以了
