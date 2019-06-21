@@ -24,7 +24,7 @@ sudo pip3 install --upgrade numpy
 
 找到Nvidia SDK Manager并且点击下载，默认下载到 ~/Downloads 目录。
 
-![pic](./image/j2_1.png)
+![](./image/j2_1.png)
 
 下载完成后使用命令行安装：
 
@@ -75,7 +75,7 @@ python3
 >>>import tensorflow
 ```
 
-![pic](./image/j2_2.png)
+![](./image/j2_2.png)
 
 如果 import没报错，那么就安装ok了 ～
 
