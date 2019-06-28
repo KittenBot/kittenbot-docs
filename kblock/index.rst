@@ -5,8 +5,8 @@ Kblock手机App 教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     AppQuickStart.md
     AppWifiGuide.md

@@ -5,20 +5,20 @@
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
-
-    01Kittenblock安装.md
-    02Powerbrick在Kittenblock中优势.md
-    03Powerbrick硬件介绍与快速开始.md
-    04Microbit相关编程.md
-    05温湿度模拟魔块.md
-    06雨滴水位与电容式土壤魔块.md
-    07两路巡线魔块.md
-    08两路按键魔块.md
-    09颜色手势魔块.md
-    10RFID魔块.md
-    11全彩点阵魔块.md
-    12MP3魔块.md
-    13Geekservo舵机电机.md
+    :maxdepth: 1
+    :glob:
+    
+    Kittenblock安装.md
+    Powerbrick在Kittenblock中优势.md
+    Powerbrick硬件介绍与快速开始.md
+    Microbit相关编程.md
+    温湿度模拟魔块.md
+    雨滴水位与电容式土壤魔块.md
+    两路巡线魔块.md
+    两路按键魔块.md
+    颜色手势魔块.md
+    RFID魔块.md
+    全彩点阵魔块.md
+    MP3魔块.md
+    Geekservo舵机电机.md
     Powerbrick_API.md

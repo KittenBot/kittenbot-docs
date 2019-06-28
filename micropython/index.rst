@@ -5,9 +5,9 @@ Micropython 教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
-
+    :maxdepth: 1
+    :glob:
+    
     01BeforeStart.md
     02MicrobitQuickStart.md
     MicropythonRepl.md

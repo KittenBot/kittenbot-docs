@@ -5,27 +5,27 @@ Kittenblock 教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
-    00Kittenblock安装.md
-    00Kittenblock界面结构.md
-    01Kittenblock总述.md
-    02Kittenblock软件快速上手.md
-    03Kittenblock常用工具栏.md
-    04Kittenblock编程积木分栏.md
-    05Kittenblock编程工作区.md
-    06Kittenblock舞台展示区.md
-    07Kittenblock角色与舞台参数编辑区.md
-    08Kittenblock的python与帮助区.md
-    09书包功能（程序之间复制）.md
-    10列表导入导出功能.md
-    11护眼模式主题切换.md
+    Kittenblock安装.md
+    Kittenblock界面结构.md
+    Kittenblock总述.md
+    Kittenblock软件快速上手.md
+    Kittenblock常用工具栏.md
+    Kittenblock编程积木分栏.md
+    Kittenblock编程工作区.md
+    Kittenblock舞台展示区.md
+    Kittenblock角色与舞台参数编辑区.md
+    Kittenblock的python与帮助区.md
+    书包功能（程序之间复制）.md
+    列表导入导出功能.md
+    护眼模式主题切换.md
     Onlineandoffline.md
     连线引擎简介和使用.md
     thingspaeak.md
     自动化插件生成系统.md
-    12软件界面翻译与插件翻译.md
+    软件界面翻译与插件翻译.md
     add-guide.md
     插件开发指南.md
     插件开发指南02.md

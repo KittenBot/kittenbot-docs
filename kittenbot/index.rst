@@ -1,13 +1,13 @@
-Kittenbot金属小车教程
+Kittenbot钣金小车 教程
 ========================
 
 这部分是Kittenbot套件和其他移动机器人的教程文档
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
-
+    :maxdepth: 1
+    :glob:
+    
     00Kittenbot淘宝上架相关.md
     01Introduction.md
     02 Install Kittenblock and drivers.md

@@ -1,12 +1,12 @@
-JetSon 系列教程
+JetSon 系列 教程
 ====================
 
 这是Jetson nano和小喵家结合的教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     Jetson nano快速上手.md
     Jetson AI第一课.md

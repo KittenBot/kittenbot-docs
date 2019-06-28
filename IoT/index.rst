@@ -5,8 +5,8 @@
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     什么是物联网.md
     IOT理论基础.md

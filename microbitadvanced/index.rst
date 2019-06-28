@@ -5,8 +5,8 @@ Microbit进阶教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     microbit出现MAINTENANCE问题.md
     microbit底层固件更新.md

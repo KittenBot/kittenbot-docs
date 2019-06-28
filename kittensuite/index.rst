@@ -5,8 +5,8 @@
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     duojiaoshou.md
     机械臂.md

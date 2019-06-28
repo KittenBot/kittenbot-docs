@@ -1,4 +1,4 @@
-人工智能教程
+人工智能 教程
 ====================
 
 如果说Scratch2.0主打硬件交互，那么Scratch3.0就是主打人工智能。
@@ -6,8 +6,8 @@
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     人工智能学习前言.md
     文字朗读.md

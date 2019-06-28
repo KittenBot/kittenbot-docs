@@ -5,8 +5,8 @@
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     Microbit.md
     Robotbitv2.0.md

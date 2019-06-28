@@ -5,8 +5,8 @@ MiniLFR 教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     00minilfr淘宝上架相关.md
     01开箱试玩一键巡线模式.md

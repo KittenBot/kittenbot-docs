@@ -5,8 +5,8 @@ Microbit在Makecode中 教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     microbit.md
     v3extguide.md

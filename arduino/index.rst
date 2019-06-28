@@ -5,21 +5,20 @@ Arduino
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
 
-    00arduino上架相关.md
-    01arduino介绍.md
-    02arduino快速上手.md
-    03led使用.md
-    04rgb使用.md
-    05无源蜂鸣器使用.md
-    06声音传感器使用.md
-    07旋转与滑动电位器使用.md
-    08震动传感器使用.md
-    09人体红外热释电传感器使用.md
-    10碰撞传感器使用.md
-    11火焰传感器使用.md
-    12光敏传感器使用.md
-    13DHT11温湿度传感器使用.md
+    arduino上架相关.md
+    arduino介绍.md
+    arduino快速上手.md
+    led使用.md
+    rgb使用.md
+    无源蜂鸣器使用.md
+    声音传感器使用.md
+    旋转与滑动电位器使用.md
+    震动传感器使用.md
+    人体红外热释电传感器使用.md
+    碰撞传感器使用.md
+    火焰传感器使用.md
+    光敏传感器使用.md
+    DHT11温湿度传感器使用.md
 

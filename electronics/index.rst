@@ -5,8 +5,8 @@
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     80乐高积木舵机电机.md
     360度连续舵机.md
@@ -33,7 +33,7 @@
     18650锂电池组充电器.md
     红外接收器.md
     乐高转杜邦数据线.md
-    橡胶轮.md
+    橡胶轮.md   
     鳄鱼夹连接线.md
     十字螺丝刀.md
     wifi.md

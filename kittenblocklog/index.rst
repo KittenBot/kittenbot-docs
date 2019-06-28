@@ -7,8 +7,8 @@ Kittenblock作为国内一款具有强大生命力的图形化编程软件，软
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
     V1.77.md
     V1.78.md

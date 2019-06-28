@@ -5,13 +5,13 @@ Microbit在Kittenblock中 教程
 
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+    :maxdepth: 1
+    :glob:
 
-    01microbit分栏介绍.md
-    02microbit快速开始.md
-    03microbit使用在线调试模式.md
-    04microbit与Scratch交互（小猫移动）.md
-    05microbit与Scratch交互（火箭升空）.md
-    10microbit在Kittenblock中无法下载解决办法.md
+    microbit分栏介绍.md
+    microbit快速开始.md
+    microbit使用在线调试模式.md
+    microbit与Scratch交互（小猫移动）.md
+    microbit与Scratch交互（火箭升空）.md
+    王校长吃热狗.md
 
