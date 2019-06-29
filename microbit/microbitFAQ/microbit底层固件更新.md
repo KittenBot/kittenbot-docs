@@ -15,9 +15,10 @@
   
 ## 更新底层固件方法  
  
-![](./images/x1.png)  
+![](./images/x1.png)     
+
+小喵为你准备好了：[点击下载](http://cdn.kittenbot.cn/microbit/0253_kl26z_microbit_0x8000.hex)
   
-这里把超链接给你了[点击到新固件下载地址](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=442&page=1&extra=#pid2029) 
 
 拔掉USB线，按住Microbit的复位按钮，一直按住的同时插上USB线，如下图，原本的MICROBIT盘会变成MAINTENANCE即表明已经进入维护模式，此时才可以松开复位按钮  
 

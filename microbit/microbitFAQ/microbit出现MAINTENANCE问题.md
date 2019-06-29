@@ -13,9 +13,9 @@
 - 在使用bit的拔插过程中固件丢失（无法自动回到正常状态）
 
 
-在固件丢失的这种情况下，我们只需要重新烧入固件即可恢复
-都给你提供好了，是比较新的固件，进到论坛下载即可：    
-[固件连接](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=442&page=1&extra=#pid2029)
+在固件丢失的这种情况下，我们只需要重新烧入固件即可恢复  
+    
+小喵为你准备好了：[点击下载](http://cdn.kittenbot.cn/microbit/0253_kl26z_microbit_0x8000.hex)
 
 
 **烧入方法**
