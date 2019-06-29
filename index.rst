@@ -11,7 +11,7 @@
 .. toctree::
     :maxdepth: 1
     :glob:
-
+    IoT/index
     meowbit/index
     arduino/index   
     kblock/index
