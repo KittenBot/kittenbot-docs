@@ -1,4 +1,4 @@
-能量魔块Powerbrick在Makecode中教程
+Makecode中使用Powerbrick能量魔块
 ====================
 
 这部分是能量魔块Powerbrick在Makecode中相关的使用教程

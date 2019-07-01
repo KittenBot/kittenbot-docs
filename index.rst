@@ -12,26 +12,26 @@
     :maxdepth: 1
     :glob:
     
-    IoT/index
     meowbit/index
     arduino/index   
     kblock/index
 
 .. toctree::
     :maxdepth: 1
-    :caption: Micro:bit
+    :caption: Micro:bit 教程
 
     microbit/microbit_makecode/index
     microbit/microbit_kittenblock/index
-    microbit/microbitFAQ/index
     microbit/microbitadvanced/index
     micropython/index
+    microbit/microbitFAQ/index
     
 
 .. toctree::
     :maxdepth: 1
-    :caption: 喵家特色产品
-
+    :caption: 喵家特色产品 教程
+    powerbrick/index
+    powerbrick_KB/index
     JoyFrog/index
     mainboards/index
     electronics/index
@@ -41,18 +41,25 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: Powerbrick能量魔块
-
-    powerbrick/index
-    powerbrick_KB/index
-
-.. toctree::
-    :maxdepth: 1
-    :caption: AI人工智能
+    :caption: AI人工智能 教程
 
     AI/index
     machinelearning/index
     Tensorflow/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: IoT物联网 教程
+
+    IoT/什么是物联网/
+    IoT/IOT理论基础/index
+    IoT/Kittenblock中快速上手IOT
+    IoT/Kittenblock中IOT温度推送
+    IoT/喵家IOT服务器快速入门
+    IoT/让Microbit加入IoT
+    IoT/让Rosbot加入IoT
+    IoT/onenet
+    IoT/Microbit在Thingspeak中应用
 
 .. toctree::
     :maxdepth: 1

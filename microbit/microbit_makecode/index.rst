@@ -1,4 +1,4 @@
-Microbit在Makecode中 教程
+Microbit在Makecode中
 ====================
 
 这部分是Microbit在喵家Makecode软件中的教程文档

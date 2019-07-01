@@ -1,4 +1,4 @@
-机器学习TensorFlow 教程
+机器学习TensorFlow
 ====================
 
 这部分是基于Kittenblock的TensorFlow机器学习插件的教程文档

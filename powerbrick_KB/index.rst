@@ -1,4 +1,4 @@
-能量魔块Powerbrick在Kittenblock中教程
+Kittenblock中使用Powerbrick能量魔块
 ====================
 
 这部分是能量魔块Powerbrick在Kittenblock中教程

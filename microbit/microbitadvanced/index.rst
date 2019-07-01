@@ -1,4 +1,4 @@
-Microbit进阶 教程
+Microbit进阶用法
 ====================
 
 这里是Microbit进阶教程
@@ -11,7 +11,6 @@ Microbit进阶 教程
     neomatrix.md
     sayenglish.md
     TM1637.md
-    makecodev1.md
     Microbit与串口屏幕交互.md
     Microbit控制器.md
     Scratch3.0正式发布.md
