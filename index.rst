@@ -29,7 +29,8 @@
 
 .. toctree::
     :maxdepth: 1
-    :caption: 喵家特色产品 教程
+    :caption: 喵家特色产品 教程 
+    
     powerbrick/index
     powerbrick_KB/index
     JoyFrog/index
