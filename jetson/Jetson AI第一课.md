@@ -41,7 +41,7 @@ make
 sudo make install
 ```
 
-如果编译没错的话，会在build/aarch64/bin生产各个程序的可执行文件。接下来基本就可以照着 [https://github.com/dusty-nv/jetson-inference/](https://github.com/dusty-nv/jetson-inference/blob/master/docs/imagenet-console-2.md)一步步尝试jetson nano的ai能力了～
+如果编译没错的话，会在build/aarch64/bin生产各个程序的可执行文件。接下来基本就可以照着 [https://github.com/dusty-nv/jetson-inference/blob/master/README.md](https://github.com/dusty-nv/jetson-inference/blob/master/README.md)一步步尝试jetson nano的ai能力了～
 
 ![](./image/j3_1.png)
 例如：
