@@ -14,7 +14,7 @@
 }
 
 .version{
-    color:#202020;
+    display: none !important;
 }
 
 .wy-side-nav-search input[type=text]{
@@ -58,4 +58,12 @@
 .wy-nav-content{
     max-width:1000px;
     padding:2em 4em;
+}
+
+.wy-nav-content-wrap{
+    background-color: #202020;
+}
+
+div#rtd-p5t93tfj{
+    display: none !important;
 }
