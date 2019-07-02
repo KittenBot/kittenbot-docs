@@ -26,6 +26,7 @@
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #
+
 needs_sphinx = '1.6.5'
 
 # Add any Sphinx extension module names here, as strings. They can be
@@ -47,6 +48,7 @@ templates_path = ['_templates']
 
 from recommonmark.parser import CommonMarkParser
 
+
 source_parsers = {
     '.md': CommonMarkParser,
 }
@@ -57,7 +59,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'kittenbot docs'
-copyright = '2018, kittenbot team'
+copyright = '2019, kittenbot team'
 author = 'kittenbot team'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -106,6 +108,7 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_style = 'css/my_style.css' 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
@@ -203,6 +206,4 @@ texinfo_documents = [
      author, 'kittenbotdocs', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
 
