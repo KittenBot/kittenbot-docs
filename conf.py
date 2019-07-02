@@ -56,8 +56,8 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Kittenbot小喵科技专业文档'
-copyright = '2019, 小喵科技团队'
+project = 'kittenbot docs'
+copyright = '2018, kittenbot team'
 author = 'kittenbot team'
 
 # The version info for the project you're documenting, acts as replacement for
