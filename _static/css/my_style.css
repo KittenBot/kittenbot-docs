@@ -27,15 +27,15 @@
 
 ::selection {
     background:#fad21b; 
-    color:#fbfbfb;
+    color:#202020;
 }
 ::-moz-selection {
     background:#fad21b; 
-    color:#fbfbfb;
+    color:#202020;
 }
 ::-webkit-selection {
     background:#fad21b; 
-    color:#fbfbfb;
+    color:#202020;
 }
 
 .wy-menu-vertical a{
