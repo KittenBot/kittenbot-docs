@@ -77,6 +77,10 @@ div#rtd-p5t93tfj{
         background:#fcfcfc;
     }
     .wy-nav-top{
-        background:#fad21b; 
+        background:#fad21b !important; 
+        color: #202020 !important;
+    }
+    .wy-nav-top a{
+        color: #202020; 
     }
 }
