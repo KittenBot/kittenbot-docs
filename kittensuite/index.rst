@@ -12,7 +12,6 @@
     机械臂.md
     quanxiang.md
     Robotbit巡线避障.md
-    麦克纳姆轮小车.md
     otto.md
     Tello.md
     打靶机.md
