@@ -60,9 +60,9 @@
 ![](./bledongle/07.png)   
 
 在中间的下拉栏找到我们的喵家特色蓝牙设备器CSR8510...，它对应的USB ID一定是**0A12 0001**   
-一定不能选错!   
-一定不能选错!   
-一定不能选错!   
+
+不要选错
+ 
 ![](./bledongle/08.png)   
 ![](./bledongle/01.png)   
 
@@ -73,32 +73,51 @@
 不用担心，只需要重复上面步骤即可。   
 
 
-### Kittenblock内使用——Microbit蓝牙应用
-打开Kittenblock (1.78或以上版本)，选择硬件Microbit MIT
+## Kittenblock内使用——Microbit蓝牙
 
-![](./bledongle/13.png)
+### 给Microbit通电
 
-恢复固件（刷入MIT蓝牙相关固件）
+打开Robotbit电源，可给Microbit供电。或者插上USB给Microbit供电
 
-![](./bledongle/14.png)
+### 打开Kittenblock
+
+(1.78或以上版本)，选择硬件Microbit Python-ble
+
+ble!
+
+ble!
+
+ble!
+
+![](./bledongle/18.png)
+
+### 恢复固件
+
+![](./bledongle/19.png)
 
 成功刷入后，Microbit显示一串英文，这串英文其实就是这块Microbit的蓝牙ID，如果你有多块板子，这个ID就是用来区分的。
 
 ![](./bledongle/15.gif)
 
-正式连接蓝牙，如果找不到蓝牙，请刷新下，对应选择你要连接的MICorbit（可以看到红线所示的ID就是与上方Microbit显示的是一致的，这样Microbit就对应上了）
+### 搜索蓝牙连接
 
-![](./bledongle/16.png)
+如果搜索不出来，请检查：1、蓝牙驱动是否正确安装。2、Microbit是否正确恢复了固件。
 
-连接成功，关闭窗口,一旦蓝牙连接上后。点阵屏滚动的字符串就会自动消失了。
+![](./bledongle/20.png)
 
-![](./bledongle/17.png)
+### 连接成功
 
-连接上后可以试试拖动一些方块到工作区看看效果~
+关闭窗口。
 
-这时候的通讯已经是蓝牙通讯了。如果你有Robotbit板子，板上有电池给Microbit供电，你完全都可以不用连接数据线。
+一旦蓝牙连接上后，Microbit点阵屏就会显示一个红心
 
-![](./bledongle/blemicrobit.gif)
+![](./bledongle/21.png)
+
+连接上后可以试试拖动一些方块到工作区，点击看看效果~
+
+## 视频演示
+
+[这里给大家录制了一个视频操作，如果对以上操作有疑问，可以戳我看看](https://www.bilibili.com/video/av46253904)
 
 
 ## 产品详细的学习资料地址：   
