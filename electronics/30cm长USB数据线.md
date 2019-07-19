@@ -16,7 +16,7 @@ __转到淘宝购买__----------→[30cm长USB数据线 ](https://item.taobao.co
 ## 配送清单：   
 30cm usb数据线 x 1   
 
-![](./chicun/usb cable.png)   
+![](./chicun/cable.png)   
 
 
 ## 产品简介：   
