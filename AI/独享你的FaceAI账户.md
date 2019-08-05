@@ -10,7 +10,7 @@
 
 如果你人工智能是重度使用用户，很简单，创建自己的一个独立账号，这样就不会受到喵家其他用户的影响，下面就手把手教大家如何进行创建你的独立账号
 
-![](G:\kittenbot-docs\AI\API\06.png)
+![](API/06.png)
 
 
 
@@ -25,31 +25,31 @@
 - 注册需要手机验证码，自备手机。
 - 选择个人开发者
 
-![](G:\kittenbot-docs\AI\API\01.png)
+![](API/01.png)
 
 
 
 点击——创建我的第一个应用
 
-![02](G:\kittenbot-docs\AI\API\02.png)
+![](API/02.png)
 
 
 
 点击查看具体 API详情
 
-![03](G:\kittenbot-docs\AI\API\03.png)
+![](API/03.png)
 
 
 
 把API Key和Secret复制下来，准备粘贴到Kittenblock的积木上
 
-![04](G:\kittenbot-docs\AI\API\04.png)
+![](API/04.png)
 
 
 
 粘贴到积木块上，然后点击一下积木块即可。这个过程只需要设置一次，之后只要你软件重装了或者FaceAI这个插件有更新，才需要重新设置下。后面这个积木块可以不用管了。
 
-![05](G:\kittenbot-docs\AI\API\05.png)
+![](API/05.png)
 
 
 
