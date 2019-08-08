@@ -96,6 +96,16 @@ CC喵手上没有xp系统的电脑，麻烦有条件的老师测试下~win7上�
 
 在makecode，你可以学图形化！可也学JavaScript！可以学Python！你在这里完美找到！
 
+![](makecodev5/07.png)
+
+![](makecodev5/08.png)
+
+![](makecodev5/09.png)
+
+
+
+选择后，Python就会出现在主的编程界面中。
+
 ![](makecodev5/06.png)
 
 
