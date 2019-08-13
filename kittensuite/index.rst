@@ -8,6 +8,7 @@
     :maxdepth: 1
     :glob:
 
+    人工智能垃圾分类套件.md
     duojiaoshou.md
     机械臂.md
     quanxiang.md
