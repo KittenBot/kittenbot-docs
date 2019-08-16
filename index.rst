@@ -47,6 +47,7 @@
     AI/index
     machinelearning/index
     Tensorflow/index
+    AI_project/index
 
 .. toctree::
     :maxdepth: 1
