@@ -1,4 +1,4 @@
-# 喵家全彩点阵屏在Makecode中的使用
+# 全彩点阵屏在Makecode中的使用
 
 [程序下载，戳我](https://bbs.kittenbot.cn/forum.php?mod=viewthread&tid=627&extra=page%3D1)
 

@@ -14,7 +14,27 @@
     
     meowbit/index
     arduino/index   
-    kblock/index
+    kblock/index  
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 喵家特色产品 教程 
+    
+    powerbrick/index
+    powerbrick_KB/index
+    JoyFrog/index
+    mainboards/index
+    kittensuite/IObitSuite/index
+    kittensuite/RobotbitSuite/index
+    kittensuite/人工智能垃圾分类套件
+    electronics/index
+    kittensuite/Robotbit巡线避障
+    kittensuite/otto
+    kittensuite/机械臂
+    kittensuite/duojiaoshou
+    kittensuite/quanxiang
+    minilfr/index
+    kittenbot/index
 
 .. toctree::
     :maxdepth: 1
@@ -25,20 +45,6 @@
     microbit/microbitadvanced/index
     micropython/index
     microbit/microbitFAQ/index
-    
-
-.. toctree::
-    :maxdepth: 1
-    :caption: 喵家特色产品 教程 
-    
-    powerbrick/index
-    powerbrick_KB/index
-    JoyFrog/index
-    mainboards/index
-    electronics/index
-    kittensuite/index
-    minilfr/index
-    kittenbot/index
 
 .. toctree::
     :maxdepth: 1
@@ -52,8 +58,8 @@
     :maxdepth: 1
     :caption: IoT物联网 教程
 
-    IoT/什么是物联网/
-    IoT/IOT理论基础/index
+    IoT/什么是物联网
+    IoT/IOT理论基础
     IoT/Kittenblock中快速上手IOT
     IoT/Kittenblock中IOT温度推送
     IoT/喵家IOT服务器快速入门
