@@ -10,6 +10,9 @@
 
 用IObit控制舵机角度只能用脉冲的方法控制，600us为-45度，1500us为90度，2400为225度
 
-![](https://s2.ax1x.com/2019/09/02/nC8mTO.jpg)
+![](https://s2.ax1x.com/2019/09/02/nPSU61.jpg)
 
-注意：用IObit驱动Geekservo舵机是需要外接一个USB供电
+注意：  
+ 
+- 用IObit驱动Geekservo舵机是需要外接一个USB供电  
+- 脉冲的功能只有makecode上有，所以是建议用makecode平台完成
