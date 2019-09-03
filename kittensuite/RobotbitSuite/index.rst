@@ -8,6 +8,7 @@ Robotbit大班教学套件是一款综合知识层面较广的电子套件，所
     :maxdepth: 1
     :glob:
 
+    00 Robotbit电子套件介绍.md
     01 RobotbitShell介绍.md
     02 新版猫头超声波.md
     03 TT电机.md
