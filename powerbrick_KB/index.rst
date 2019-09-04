@@ -21,4 +21,5 @@ Kittenblock能量魔块十合一
     全彩点阵魔块.md
     MP3魔块.md
     Geekservo舵机电机.md
-    Powerbrick_API.md
+    wifi魔块.md
+    Powerbrick_API.md 
