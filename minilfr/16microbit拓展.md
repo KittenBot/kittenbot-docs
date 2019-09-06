@@ -75,9 +75,16 @@ miniLFR是一款Arduino小车，它能够使用kittenblock，Arduino IDE进行�
 
 - 编程演示：microbit按键控制车头灯和RGB点亮 
 
-![](https://s2.ax1x.com/2019/09/06/nKlIlq.jpg)  
+![](https://s2.ax1x.com/2019/09/06/nKlIlq.jpg)   
 
-`注意：` 
+
+## 扩展应用  
+
+你可以使用另外一块microbit对其进行遥控，实现遥控小车的效果，同样也可以使用呱比特手柄提升遥控体验。  
+
+`这里有2.4G无线遥控的体验程序可供下载`   [点击下载](https://cdn.kittenbot.cn/microbitEx/minilfr%E6%96%B0%E7%89%88makecode%E7%A8%8B%E5%BA%8F.rar)
+
+## 注意：
 
 - 编程时一定要将【初始化】积木块放在开机下 
 - 如果发现其他步骤都没问题，下载了程序后操作没反应，试一下重开miniLFR电源  
