@@ -8,6 +8,7 @@
     :maxdepth: 1
     :glob:
 
+    局域网云变量.md
     什么是物联网.md
     IOT理论基础.md
     Kittenblock中快速上手IOT.md
