@@ -1,4 +1,4 @@
-# 01 Robotbit Shell扩展板介绍
+# 01 Robotbit Sheild扩展板介绍
 
 ![](https://s2.ax1x.com/2019/09/02/n9x6wF.jpg)
 
