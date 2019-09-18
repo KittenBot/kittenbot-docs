@@ -59,6 +59,7 @@
     :maxdepth: 1
     :caption: IoT物联网 教程
 
+    IoT/局域网云变量
     IoT/什么是物联网
     IoT/IOT理论基础
     IoT/Kittenblock中快速上手IOT
