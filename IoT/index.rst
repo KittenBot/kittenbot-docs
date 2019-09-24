@@ -19,3 +19,4 @@
     onenet.md
     Microbit在Thingspeak中应用.md
     在Kittenblock中加载和风天气插件.md
+    手机控制Microbit.md

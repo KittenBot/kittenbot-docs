@@ -69,6 +69,7 @@
     IoT/让Rosbot加入IoT
     IoT/onenet
     IoT/Microbit在Thingspeak中应用
+    IoT/手机控制Microbit.md
 
 .. toctree::
     :maxdepth: 1
