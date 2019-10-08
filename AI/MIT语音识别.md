@@ -1,6 +1,12 @@
-# 语音识别2(MIT语音识别)
+# 语音识别2(MIT语音识别 不推荐使用)
 
 ![](./images/c03_13.png)
+
+
+
+MIT的语音识别服务器在国外，国内使用一般网络是有问题的，**这里不推荐使用**！如果你要实现语音识别，推荐使用[百度大脑的语音识别](http://learn.kittenbot.cn/zh_CN/latest/AI/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.html)！
+
+
 
 ## 简介
 
@@ -100,7 +106,7 @@ http://learn.kittenbot.cn/ 的Kittenblock教程分栏
 如果你对能量魔块不熟悉，可以访问http://learn.kittenbot.cn/ 的能量魔块分栏
 
 ![](./images/c03_15.png)
- 
+
 选择Powerbrick硬件，恢复固件后，连接串口（[如果这里遇到问题，请在learn的相关页面进行学习](http://learn.kittenbot.cn/zh_CN/latest/powerbrick_KB/index.html)）
 
 访问 http://learn.kittenbot.cn/ 的能量魔块分栏的快速开始
