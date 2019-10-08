@@ -195,3 +195,8 @@ Nanobit上**没有集成锂电充电电路**，因此锂电包充电需要外部
 ![](Nanobit/08.png)
 
 ![](Nanobit/15.png)
+
+## 关于仿真器
+
+仿真器是通用的cmsis-dap仿真器设备，自动usb串口设备功能。可用于一般通用开发，例如keil和gdb。
+目前拖拽式下载功能只支持目标硬件nrf51822 (micro:bit的mcu)
