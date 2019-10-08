@@ -34,7 +34,7 @@ Nanobit硬件参数主控芯片：nRF51822  ARM Cortex-M0
 
 可编程LED灯（P15）
 
-可编程A/B引脚（用于接按键）
+可编程A/B按键
 
 可编程IO口
 
@@ -47,6 +47,14 @@ I2C接口
 
 
 - 支持USB 盘符形式下载程序
+
+
+
+![](Nanobit/16.png)
+
+![17](Nanobit/17.png)
+
+
 
 
 
