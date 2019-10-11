@@ -74,8 +74,8 @@
     :caption: kittenblock
 
     kittenblock/index
-    kittenblocklog/index
     scratch3_python3/index
+    kittenblock_item/index
 
 .. toctree::
     :maxdepth: 1
