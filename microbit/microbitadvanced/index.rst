@@ -16,5 +16,6 @@ Microbit进阶用法
     Scratch3.0正式发布.md
     makecodev1.md
     MakecodeV5.md
+    makecodev5update.md
 
 
