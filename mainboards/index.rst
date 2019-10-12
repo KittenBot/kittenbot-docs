@@ -15,3 +15,4 @@
     Rosbot.md
     mBridge.md
     Nanobit.md
+    Bridge.md
