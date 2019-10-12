@@ -1,8 +1,10 @@
 # wifi模块固件更新方法(V2.8以上的版本)
 
-适用于wifi模块固件V2.8以上的版本
+适用于wifi模块固件为V2.8以上的版本  
 
-[wifi模块固件下载地址，点我](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=Mjk1OXwwYzkxYWU3MnwxNTYwNzM1OTIwfDN8NjI5)
+*  目前最新版本v2.85
+
+[wifi最新固件点我下载](https://cdn.kittenbot.cn/wifiBIN/wifiV285.zip)
 
 
 ## 利用wifi固件的网页给自己刷固件
@@ -31,8 +33,6 @@ PC端电脑 无线连接搜索出ESP_XXXXX,这个是wifi模块的热点
 ![](./wifi2/01.png) 
 
 ## 打开Kittenblock，选择wifi模块热点
-
-一般都是192.168.4.1！！！
 
 ![](./wifi2/02.png) 
 
