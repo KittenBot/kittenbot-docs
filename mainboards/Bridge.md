@@ -92,10 +92,42 @@ Microbit金手指接口
 
 ## 编程平台
 
+暂时推荐使用Makecode Arcade平台，使用方式与喵比特一致，点击下载时，选择D5主控板，如图
+
+https://arcade.makecode.com/#editor
+
+![](Bridge/06.png)
+
+
+
+maker makecode平台
+
+http://maker.kittenbot.cn/
+
+
+
+新建项目，选择Kittenbot-Bridge板子
+
+![](Bridge/07.png)
+
+
+
+编程界面如下
+
+![](Bridge/08.png)
+
+
+
+这里编写了一个控制板子自带的RGB灯的程序，点击下载即可。
+
+![](Bridge/09.png)
+
+
+
+## Arduino 使用
+
 待续~
 
+心急的用户可以参考Arduin的D51板子使用
 
-
-## 具体使用
-
-待续~
+https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/setup
