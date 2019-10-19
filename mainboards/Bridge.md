@@ -110,7 +110,7 @@ Microbit金手指接口
 
 引脚接口和板子形状尺寸兼容UNO，支持UNO的扩展板
 
-支持多个平台编程，Makecode Arcade平台、Makecode Maker平台Aruduino IED上使用
+支持多个平台编程，Makecode Arcade平台、Makecode Maker平台、Arduino IDE上使用
 
 加上Arcade Shield可扩展为 Arcade平台的游戏机
 
