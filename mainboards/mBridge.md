@@ -2,13 +2,15 @@
 
 ## 简介
 
-mBridge是小喵科技推出一款简单易用兼容RJ25传感器模块的扩展板。
+mBridge是小喵科技推出一款简单易用兼容RJ25传感器模块的**扩展板**。
 
 它简单易用，mBridge需要插在robotbit上使用，microbit作为主控板，mBridge专为RJ25传感器模块而设计。
 
 让用户在makecode平台下也能使用RJ25传感器模块。
 
 mBridge不能单独使用，必须配搭microbit和robotbit进行使用！
+
+
 
 ## 建议配搭套餐
 
