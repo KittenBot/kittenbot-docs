@@ -35,6 +35,7 @@
     kittensuite/quanxiang
     minilfr/index
     kittenbot/index
+    MakerMarathon/index
 
 .. toctree::
     :maxdepth: 1
