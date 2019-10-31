@@ -17,5 +17,6 @@ Microbit进阶用法
     makecodev1.md
     MakecodeV5.md
     makecodev5update.md
+    uploadPairing.md
 
 
