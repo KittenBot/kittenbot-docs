@@ -58,7 +58,6 @@ extensions = [
     'sphinx_js',
     'recommonmark',
     'sphinx.ext.todo',
-    'sphinx_search.extension',
     'sphinxcontrib.httpdomain',
     "sphinx_rtd_theme"
 ]
