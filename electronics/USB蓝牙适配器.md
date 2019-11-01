@@ -38,33 +38,46 @@
 - 工作湿度要求：10%——90%   
 - 技术认证：RoHS、CE、FCC、BQB   
 
+
+
 ## 使用环境：
 编程方式：Kittenblock(基于Scratch3.0)/Makecode   
 可连接硬件：Microbit   
 
 ## 具体使用方法：
 ### 喵家蓝牙设备器插上电脑
-会提示你安装新硬件，确认安装即可。   
+会提示你安装新硬件，确认安装。（稍后需要替换驱动）
+
 如果没有提示安装硬件，这个也没有关系。（因为下一步我们要用其他驱动来替换这个驱动）   
+
+
 
 ### 替换驱动
 下载此[zadig-2.4](https://bbs.kittenbot.cn/forum.php?mod=attachment&aid=Mjg0MnwyNWU1NDU5MXwxNTU2MDc1MzQ0fDN8NTc1)工具   
+
 如果你电脑安装了杀毒软件，杀毒软件会将它识别为病毒...你记得找回来，或者下载前先关闭杀毒软件。
 
 ### 设置更新驱动
-下载完成后，解压，双击打开   
-![](./bledongle/12.png)   
-打开后的界面如图   
+下载完成后，解压，双击打开 
+![](./bledongle/12.png)  
+
+打开后的界面如图 
+
 ![](./bledongle/06.png)   
+
 选择Options——List ALL Devives   
 ![](./bledongle/07.png)   
+
+
 
 在中间的下拉栏找到我们的喵家特色蓝牙设备器CSR8510...，它对应的USB ID一定是**0A12 0001**   
 
 不要选错
- 
+
 ![](./bledongle/08.png)   
 ![](./bledongle/01.png)   
+
+
 
 之后点击Install Driver就行了，静静等待它自动完成。   
 ![](./bledongle/10.png)   
@@ -73,11 +86,22 @@
 不用担心，只需要重复上面步骤即可。   
 
 
+
 ## Kittenblock内使用——Microbit蓝牙
+
+### 开启蓝牙功能
+
+新版的Kittenblock默认是不启动蓝牙功能（有部分电脑启动蓝牙后，电脑休眠会导致，软件兰屏），我们需要手动进行开启。
+
+![](bledongle/22.png)
+
+
 
 ### 给Microbit通电
 
 打开Robotbit电源，可给Microbit供电。或者插上USB给Microbit供电
+
+
 
 ### 打开Kittenblock
 
@@ -91,6 +115,8 @@ ble!
 
 ![](./bledongle/18.png)
 
+****
+
 ### 恢复固件
 
 ![](./bledongle/19.png)
@@ -101,9 +127,11 @@ ble!
 
 ### 搜索蓝牙连接
 
-如果搜索不出来，请检查：1、蓝牙驱动是否正确安装。2、Microbit是否正确恢复了固件。
+如果搜索不出来，请检查：1、软件是否启动蓝牙。2、蓝牙驱动是否正确安装。3、Microbit是否正确恢复了固件。
 
 ![](./bledongle/20.png)
+
+
 
 ### 连接成功
 
@@ -113,7 +141,11 @@ ble!
 
 ![](./bledongle/21.png)
 
+
+
 连接上后可以试试拖动一些方块到工作区，点击看看效果~
+
+
 
 ## 视频演示
 
@@ -123,11 +155,15 @@ ble!
 ## 产品详细的学习资料地址：   
 http://learn.kittenbot.cn/zh_CN/latest/electronics/USB%E8%93%9D%E7%89%99%E9%80%82%E9%85%8D%E5%99%A8.html
 
+
+
 ## 其他教程   
 小喵教程集合地址：learn.kittenbot.cn   
 小喵论坛地址：kittenbot.cn/bbs   
 网易云课堂：搜索小喵科技   
 更多的实时讨论，请加入爱上小喵科技官方Q群（淘宝不支持放Q群号，具体请向客服索要）   
+
+
 
 
 ## 注意事项：
