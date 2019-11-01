@@ -1,15 +1,1 @@
-# 欢迎来到Kittenbot的文档与教程
-# 目录:
-## [Microbit在Makecode中 教程](./microbit/microbit_makecode/)
-## [Microbit在Kittenblock中 教程](./microbit/microbit_kittenblock/)
-## [MiniLFR 教程](./minilfr/)
-## [Kittenbot金属小车教程](./kittenbot/)
-## [Kittenblock 教程](./kittenblock/)
-## [Kblock手机App 教程](./kblock/)
-## [Python 教程](./python/)
-## [Arduino](./arduino/)
-## [主控板与扩展板的介绍](./mainboards/)
-## [喵家特色电子模块 教程](./electronics/)
-## [喵家特色套件的介绍](./kittensuite/)
-## [Microbit进阶教程](./microbitadvanced/)
-## [Kittenblock软件版本迭代更新记录](./kittenblocklog/)
+http://learn.kittenbot.cn
