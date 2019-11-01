@@ -3,48 +3,34 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到Kittenbot的文档与教程
+欢迎来到Kittenbot的文档与教程，这里包含了喵家在售产品、喵家软件、应用项目、人工智能、物联网等一些列教程资料
 ==========================================
-目录:
 ^^^^^
 
 .. toctree::
-    :maxdepth: 1
-    :glob:
-    
-    meowbit/index
-    arduino/index   
-    kblock/index  
+    :maxdepth: 2
+    :caption: 主控/扩展板 说明&教程
 
-.. toctree::
-    :maxdepth: 1
-    :caption: 喵家特色产品 教程 
-    
-    powerbrick/index
-    powerbrick_KB/index
-    JoyFrog/index
     mainboards/index
-    kittensuite/IObitSuite/index
-    kittensuite/RobotbitSuite/index
-    kittensuite/人工智能垃圾分类套件
+    exboards/index
+
+.. toctree::
+    :maxdepth: 2
+    :caption: 电子零件/套件 说明&教程
+    :glob:
+
     electronics/index
-    kittensuite/Robotbit巡线避障
-    kittensuite/otto
-    kittensuite/机械臂
-    kittensuite/duojiaoshou
-    kittensuite/quanxiang
-    minilfr/index
-    kittenbot/index
+    kits/index
 
 .. toctree::
     :maxdepth: 1
-    :caption: Micro:bit 教程
+    :caption: kittenblock
 
-    microbit/microbit_makecode/index
-    microbit/microbit_kittenblock/index
-    microbit/microbitadvanced/index
-    micropython/index
-    microbit/microbitFAQ/index
+    kittenblock/firstStep/index
+    kittenblock/parts/index
+    kittenblock/scratchPython3/index
+    kittenblock/projects/index
+    kittenblock/advanced/index
 
 .. toctree::
     :maxdepth: 1
@@ -56,31 +42,32 @@
     AI_project/index
 
 .. toctree::
-    :maxdepth: 1
-    :caption: IoT物联网 教程
+    :maxdepth: 2
+    :caption: 移动端app 使用教程
 
-    IoT/局域网云变量
-    IoT/什么是物联网
-    IoT/IOT理论基础
-    IoT/Kittenblock中快速上手IOT
-    IoT/Kittenblock中IOT温度推送
-    IoT/喵家IOT服务器快速入门
-    IoT/让Microbit加入IoT
-    IoT/让Rosbot加入IoT
-    IoT/onenet
-    IoT/Microbit在Thingspeak中应用
-    IoT/手机控制Microbit.md
+    app/kblock/index
+    app/weapp/index
+
 
 .. toctree::
     :maxdepth: 1
-    :caption: kittenblock
+    :caption: IoT物联网 教程
 
-    kittenblock/index
-    scratch3_python3/index
-    kittenblock_item/index
+    IoT/intro/index
+    IoT/intranet/index
+    IoT/meowIoT/index
+    IoT/otherIoT/index
 
 .. toctree::
     :maxdepth: 1
     :caption: 高端玩家
 
-    jetson/index
+    jetson/index 
+
+.. toctree::
+    :maxdepth: 1
+    :caption: 近期用户常见问题解决
+
+    recently/makecodeV5英文问题
+    recently/makecode在xp中使用
+    recently/喵家软件下载地址

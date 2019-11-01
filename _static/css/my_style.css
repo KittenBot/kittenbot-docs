@@ -1,12 +1,22 @@
 
 @import url("theme.css");
 
+
+body{
+    color: #111111;
+}
+
+.fa:before{
+    color: #111111;
+}
+
 .wy-nav-side{
-    background: #202020;
+    background: #111111;
 }
 
 .wy-side-nav-search{
-    background-color: #fad21b !important;
+    background: #39CCCC;
+    padding-bottom: 20px;
 }
 
 .wy-side-nav-search>a{
@@ -15,6 +25,7 @@
 
 .version{
     display: none !important;
+    
 }
 
 .wy-side-nav-search input[type=text]{
@@ -22,20 +33,28 @@
 }
 
 .wy-menu-vertical p.caption{
-    color: #fad21b;
+    color: #39CCCC;
+    font-size: 90% !important;
+}
+
+a:visited{
+    color: #2A7EFF;
+}
+
+span.toctree-expand:before{
+    color: #666 !important;
 }
 
 ::selection {
-    background:#fad21b; 
-    color:#202020;
-}
+    background: #111111;
+    color: #fbfbfb;}
 ::-moz-selection {
-    background:#fad21b; 
-    color:#202020;
+    background: #111111;
+    color: #fbfbfb;
 }
 ::-webkit-selection {
-    background:#fad21b; 
-    color:#202020;
+    background: #111111;
+    color: #fbfbfb;
 }
 
 .wy-menu-vertical a{
@@ -48,7 +67,9 @@
 }
 
 .wy-nav-content a{
-    color: rgb(43, 180, 243); 
+    color: #2A7EFF;
+    padding: 0.1rem;
+    line-height: 1.6;
 }
 
 .wy-nav-content h2{
@@ -68,6 +89,15 @@ div#rtd-p5t93tfj{
     display: none !important;
 }
 
+.wy-breadcrumbs li a:first-child{
+    display: none;
+}
+
+.fa-plus-square-o:before, .wy-menu-vertical li span.toctree-expand:before{
+    color: #e6e6e6;
+}
+
+
 @media screen and (min-width:768px) {
     .wy-nav-content-wrap {
         background:rgba(0,0,0,0.05);
@@ -77,10 +107,10 @@ div#rtd-p5t93tfj{
         background:#fcfcfc;
     }
     .wy-nav-top{
-        background:#fad21b !important; 
+        background: linear-gradient(to bottom,#4ECDC4, #556270) !important; 
         color: #202020 !important;
     }
     .wy-nav-top a{
-        color: #202020; 
+        color: white; 
     }
 }
