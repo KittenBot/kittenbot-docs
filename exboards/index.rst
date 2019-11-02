@@ -9,4 +9,5 @@
 
     iobit/IObit
     robotbit/Robotbit
+    armourbit/armourbit
     mbridge/mBridge
