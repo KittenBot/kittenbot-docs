@@ -70,10 +70,14 @@ Analog  I/O 模拟输入/输出端:A0-A5
 
 串口功能:支持转出外部   
 
+
+
 ## 使用方式
 编程方式：Makecode/Kittenblock(基于Scratch3.0)   
 
-产品详细的学习资料地址：
+
+
+
 
 ## 具体使用   
 请参考Learn中的Kittenbot使用教程（因为它使用的主板是Rosbot），新手建议从网易云课堂的Arduino视频教程学起
