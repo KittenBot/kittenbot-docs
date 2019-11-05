@@ -66,6 +66,12 @@
 
 .. toctree::
     :maxdepth: 1
+    :caption: 喵家创客马拉松
+
+    MakerMarathon/index 
+
+.. toctree::
+    :maxdepth: 1
     :caption: 近期用户常见问题解决
 
     recently/makecodeV5英文问题

@@ -12,5 +12,6 @@ Microbit进阶应用
     sayenglish.md
     TM1637.md
     Microbit与串口屏幕交互.md
+    uploadPairing.md
 
 
