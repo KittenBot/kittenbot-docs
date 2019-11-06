@@ -3,9 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到Kittenbot的文档与教程，这里包含了喵家在售产品、喵家软件、应用项目、人工智能、物联网等一些列教程资料
+小喵科技产品文档
 ==========================================
 ^^^^^
+
+欢迎来到Kittenbot的文档与教程，这里包含了喵家在售产品、喵家软件、应用项目、人工智能、物联网等一些列教程资料
 
 .. toctree::
     :maxdepth: 2
@@ -57,6 +59,7 @@
     IoT/intranet/index
     IoT/meowIoT/index
     IoT/otherIoT/index
+    IoT/局域网云变量
 
 .. toctree::
     :maxdepth: 1

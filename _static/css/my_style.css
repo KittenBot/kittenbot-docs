@@ -28,6 +28,10 @@ body{
     
 }
 
+.fa:before{
+    color: #fdfdfd;
+}
+
 .wy-side-nav-search input[type=text]{
     border:1px solid #202020;
 }
@@ -107,7 +111,7 @@ div#rtd-p5t93tfj{
         background:#fcfcfc;
     }
     .wy-nav-top{
-        background: linear-gradient(to bottom,#4ECDC4, #556270) !important; 
+        background: #111111 !important; 
         color: #202020 !important;
     }
     .wy-nav-top a{
