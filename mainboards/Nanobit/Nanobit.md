@@ -226,6 +226,10 @@ Nanobit上有些引脚如Row3、Row2..等等，这些引脚在Microbit的引脚�
 
 ## Nanobit配合扩展板使用注意要点
 
+
+
+
+
 因为喵家把Nanobit本身定位一个极客的主控板，因此没有特意给Nanobit做个专门的扩展板。但是我们可以用Arduino Nano的扩展板。由于Arduino Nano的IO电压为5V，因此使用上和喵家Nano（3.3V）稍有区别。
 
 - 外部DC头插入的电压不能超过5V。注意Nanobit的板子IO电压为3.3V，如果你使用Nano的扩展板，外部DC头插入的电压不能超过5V，如果超过5V会烧坏Nanobit。
