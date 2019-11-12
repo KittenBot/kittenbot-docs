@@ -26,3 +26,4 @@
     百度大脑写诗写对联.md
     百度大脑识别不同物体.md
     独享你的FaceAI账户.md
+    MultipleCameras.md
