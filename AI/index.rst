@@ -27,3 +27,4 @@
     百度大脑识别不同物体.md
     独享你的FaceAI账户.md
     MultipleCameras.md
+    baiduOCR.md
