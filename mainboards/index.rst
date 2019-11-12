@@ -11,6 +11,6 @@
     Microbit/index
     Nanobit/Nanobit
     Rosbot/Rosbot
-    Bridge/Bridge
+    Bridge/index
     Meowbit/Meowbit
     JoyFrog/index
