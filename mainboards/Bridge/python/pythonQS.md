@@ -15,7 +15,7 @@ micropython的编程我们选择Mu edito软件，由于软件含有REPL，一键
 ![](images/python_1.png)
 
 - 将上面下载的固件.uf2文件拖入bridge盘符内，不出意外可能电脑自动安装驱动后，会出现如下盘符 
-![](images/python_1.png)
+![](images/python_2.png)
 
 
  ## 开始编程 
