@@ -39,8 +39,7 @@
     橡胶轮.md   
     鳄鱼夹连接线.md
     十字螺丝刀.md
-    wifi.md
-    wifi2.md
+    wifi/index
     转接板.md
     fengmingqi.md
     button.md
