@@ -23,6 +23,8 @@
     视觉识别04特定人脸辨认.md
     视觉识别05识别车牌.md
     视觉识别06识别印刷体文字.md
+    独享你的FaceAI账户.md
     百度大脑写诗写对联.md
     百度大脑识别不同物体.md
-    独享你的FaceAI账户.md
+    baiduOCR.md
+    MultipleCameras.md
