@@ -60,6 +60,7 @@ Rosbot插上USB线，准备进行编程
 再把程序下载到Rosbot板上 
 
 ```hint:: 如果没有按键的朋友可以直接将按键发送部分改成发送数字并且加上延时，让板子自动每个一定时间给IoT发消息，再观察服务器上的消息接收
+```
 
 ![](./images/Rosbot_IoT12_1.png) 
 ![](./images/Rosbot_IoT12_2.png)
