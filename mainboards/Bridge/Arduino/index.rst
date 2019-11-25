@@ -11,3 +11,6 @@ bridge的Arduino环境编程教程，教程请顺序观看
     arduinoQS
     pioReady
     pioStart
+    mpu6050
+    neopixel
+    stepperMotor
