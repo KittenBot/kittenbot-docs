@@ -88,15 +88,15 @@
 
 
 
-2、在 C:\Windows\System32\DriverStore\FileRepository\ 路 径 下 ， 新 建 一 个mdmcpq.inf_amd64_neutral_b53453733bd795bc（这个根据你上图的错误信息的提示修改）文件夹
+2、在 C:\Windows\System32\DriverStore\FileRepository\ 路 径 下 ， 新 建 一 个mdmcpq.inf_amd64_neutral_b53453733bd795bc（**这个根据你上图的错误信息的提示修改**）文件夹
 
-（有时候你需要管理员权限才能新建，右键获得管理员权限）
+（有时候你需要管理员权限才能新建，右键FileRepository文件夹获得管理员权限）
 
-![](images/driverInstall03.png)
+![](images/driverInstall03.png)****
 
 
 
-3、将丢失文件拷贝到刚新建的文件下后，重新安装驱动，不出意外可以安装成功 
+3、将丢失文件拷贝到刚新建的文件下后，重新安装驱动，不出意外可以安装成功 。
 
 缺失驱动文件在百度网盘下载：
 
