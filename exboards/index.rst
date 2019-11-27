@@ -7,7 +7,8 @@
     :maxdepth: 1
     :glob:
 
-    iobit/IObit
-    robotbit/Robotbit
-    armourbit/armourbit
-    mbridge/mBridge
+    iobit/intro
+    robotbit/intro
+    armourbit/intro
+    mbridge/intro
+    arcadeShield/intro

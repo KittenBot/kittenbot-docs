@@ -2,9 +2,11 @@
 
 ## 快速开始视屏   
 
-<div style="text-align: center; margin-bottom: 2em;">
+<!-- <div style="text-align: center; margin-bottom: 2em;">
 <iframe src="https://player.bilibili.com/player.html?aid=7234706&cid=11828175&page=1" scrolling="no" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 460px; max-width: 100%"> </iframe>
-</div>  
+</div>   -->
+
+
 
 ## 主界面简介
 
