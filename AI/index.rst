@@ -25,6 +25,7 @@
     视觉识别06识别印刷体文字.md
     独享你的FaceAI账户.md
     百度大脑写诗写对联.md
+    独享你的百度大脑账户.md
     百度大脑识别不同物体.md
     baiduOCR.md
     MultipleCameras.md
