@@ -62,7 +62,7 @@
 在中间的下拉栏找到我们的喵家特色蓝牙设备器CSR8510...，它对应的USB ID一定是**0A12 0001**   
 
 不要选错
- 
+
 ![](./bledongle/08.png)   
 ![](./bledongle/01.png)   
 
@@ -73,15 +73,26 @@
 不用担心，只需要重复上面步骤即可。   
 
 
-## Kittenblock内使用——Microbit蓝牙
+
+## Kittenblock内使用
+
+## 软件中启动蓝牙功能
+
+Kittenblock中的蓝牙功能默认是不启动，需要用户在小齿轮设置中，自主启动！(大部分用户经常忘记启动蓝牙)
+
+![](bledongle/22.png)
+
+
 
 ### 给Microbit通电
 
 打开Robotbit电源，可给Microbit供电。或者插上USB给Microbit供电
 
+
+
 ### 打开Kittenblock
 
-(1.78或以上版本)，选择硬件Microbit Python-ble
+(1.78或以上版本)，选择硬件Microbit Python-ble（如果你是能量魔块，你就选Powerbrick-ble）
 
 ble!
 
@@ -131,9 +142,11 @@ http://learn.kittenbot.cn/zh_CN/latest/electronics/USB%E8%93%9D%E7%89%99%E9%80%8
 
 
 ## 注意事项：
-**在使用Kittenblock与喵家usb蓝牙适配器的过程中，请勿随意把掉usb蓝牙适配器，拔掉会导致Kittenblock软件程序崩溃。   
+- 在使用Kittenblock与喵家usb蓝牙适配器的过程中，请勿随意把掉usb蓝牙适配器，拔掉会导致Kittenblock软件程序崩溃。   正确做法是，先保存程序后，关闭软件后再拔掉蓝牙适配器。
 
-正确做法是，先保存程序后，关闭软件后再拔掉蓝牙适配器**
+- 当在软件中启动了蓝牙功能后，强烈建议电脑调成不休眠状态，否则电脑休眠会使软件崩溃蓝屏。（因为蓝牙线程问题）
+
+
 
 本产品只适用于14岁以上的儿童进行独立使用，8~14岁儿童请在家长或者老师的陪同下进行使用。   
 
