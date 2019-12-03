@@ -119,7 +119,7 @@
 
 ![](images/update01.png)
 
-2、拔掉Rosbot主控板跳帽，RX就对应RX,TX对应TX进行接线 
+2、拔掉Rosbot主控板跳帽，RX就对应TX,TX对应RX进行接线 
 （上电钱请再三确实接线是否正确，非常容易接错）
 
 ![](images/update02.jpg)
