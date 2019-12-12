@@ -2,7 +2,8 @@
 
 ## 电机  
 
-`robotbit.motot(电机序号， 速度， 运行时间)` 
+`robotbit.motot(电机序号， 速度， 运行时间)`   
+
 ```python
 import robotbit
 robotbit.motor(0, 255, 0)  
@@ -12,6 +13,7 @@ robotbit.motor(0, 255, 0)
 ```  
 
 `robotbit.motorstop(电机序号)` 
+
 ```python
 import robotbit
 robotbit.motorstop(0)
@@ -20,30 +22,33 @@ robotbit.motorstop(0)
 
 ## 舵机 
 
-`robotbit.servo(舵机序号， 舵机角度)` 
-```python
-import robotbit
-robotbit.servo(0, 90) 
-# 多继续好：0~7分别对应S1~S8
+`robotbit.servo(舵机序号， 舵机角度)`  
+
+```python  
+import robotbit 
+robotbit.servo(0, 90)  
+# 舵机序号：0~7分别对应S1~S8  
 # 舵机角度：0~180 对应的是普通9g小舵机(180°转程的那种)
 # 如果使用的是喵家geekservo(-45~225°)和2KG(0~360°舵机)参照下述
 
-# geekservo
+# geekservo 
 robotbit.servo(0, int((舵机角度-90)/1.5+90)) 
 
-# 2KG
-robotbit.servo(0, int((舵机角度-180)*50/9+1500))
+# 2KG  
+robotbit.servo(0, int((舵机角度-180)*50/9+1500))  
+
 ```
 
 ## 步进电机  
 
 `robotbit.stepper(步进电机M1角度，步进电机M2角度)`  
 
-```python
+```python   
 import robotbit
 robotbit.stepper(0, 360) 
 # 步进电机在达到设定角度的运转时间内，程序会卡死在这里
-# 360表示步进电机转动一圈360°，这里的步进电机参照为28byj
+# 360表示步进电机转动一圈360°，这里的步进电机参照为28byj  
+
 ``` 
 
 ## 超声波 
@@ -55,12 +60,13 @@ robotbit.stepper(0, 360)
 import microbit
 import robotbit
 robotbit.sonar(microbit.pin1)
-#  超声波(兼容喵家的猫耳朵超声波，一般的HC-04超声波请把TRIG和ECHO短接)
+#  超声波(兼容喵家的猫耳朵超声波，一般的HC-04超声波请把TRIG和ECHO短接)  
+
 ```
 
 ## RGB 
 
-```python
+```python   
 import microbit  
 import neopixel 
 
@@ -83,10 +89,11 @@ np.show()
 
 [点击下载频率音调对照表](https://kittenbot.oss-cn-shanghai.aliyuncs.com/ToneList.txt) 
 
-```python 
+```python   
 import music 
 music.pitch(262， 500) 
-# 这是中音区的DO，响500ms 
+# 这是中音区的DO，响500ms  
+
 ```
 
 `music.play(note)   # note = NOTE[octave][:duration]`  
@@ -97,7 +104,8 @@ music.play('c4:4')
 # c4:1对应的是octave:duration(八度：持续时间)，影响持续时间的因素有2点：ticks和bpm
 # 默认的duration的系数 = 600000/bpm/ticks ，而默认bpm = 120，ticks = 4， 所以c4:1为第四八度DO响500ms
 # 如果music.play('c')效果是跟c4:4一样的，原因是默认的octave=4， duration=4
-# 当然music库内还内置了一些编好的旋律，比如music.play(music.FUNK) 
+# 当然music库内还内置了一些编好的旋律，比如music.play(music.FUNK)  
+
 ```  
 
 可供选择的内置旋律有：  
@@ -124,7 +132,8 @@ notes = [
     'g3', 'b', 'd4', 'g', 'b', 'd', 'g', 'b', 'g3', 'b3', 'd4', 'g', 'b', 'd', 'g', 'b'
 ]
 
-music.play(notes)
+music.play(notes)  
+
 ```
 
 

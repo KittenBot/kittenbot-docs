@@ -22,7 +22,7 @@ RobotbitV2.2
 - 支持扩展至KittenBot机器人底盘以及乐高标准孔。强大的驱动能力与自带电池可使DIY更加方便自由。      
 - 受到学校老师培训机构和个人爱好者的一致好评，microbit教学/diy选择Robotbit不会有错！  
 
-![](./images/01.png)
+![](./images/01.jpg)
 
 ## 产品参数 
 
