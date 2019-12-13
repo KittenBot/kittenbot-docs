@@ -1,4 +1,4 @@
-# API 
+# MicroPython-API 
 
 ## 电机  
 
@@ -24,20 +24,18 @@ robotbit.motorstop(0)
 
 `robotbit.servo(舵机序号， 舵机角度)`  
 
-```python  
+```python
 import robotbit 
 robotbit.servo(0, 90)  
 # 舵机序号：0~7分别对应S1~S8  
 # 舵机角度：0~180 对应的是普通9g小舵机(180°转程的那种)
-# 如果使用的是喵家geekservo(-45~225°)和2KG(0~360°舵机)参照下述
+# 如果使用的是喵家geekservo(-45~225°)和2KG(0~360°舵机)参照下述  
 
 # geekservo 
 robotbit.servo(0, int((舵机角度-90)/1.5+90)) 
-
 # 2KG  
 robotbit.servo(0, int((舵机角度-180)*50/9+1500))  
-
-```
+``` 
 
 ## 步进电机  
 
