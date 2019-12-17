@@ -10,6 +10,7 @@
 
     pb_makecode/index
     pb_kittenblock/index
+    AIoT/index
     12In1Kit/index
     robotbitKit/index
     iobitKit/index
