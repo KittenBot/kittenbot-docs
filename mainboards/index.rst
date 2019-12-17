@@ -13,5 +13,6 @@
     Rosbot/Rosbot
     Bridge/index
     Meowbit/Meowbit
-    JoyFrog/index
+    JoyFrog/index 
+    KOI/index
 
