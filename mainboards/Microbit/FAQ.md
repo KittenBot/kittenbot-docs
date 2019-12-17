@@ -13,7 +13,7 @@
 答： 
 - MAINTANENCE意味着进入了维护模式，这个模式下通常是用来更新底层固件的，进入的方式为按着背面Reset键并同时插入USB，优势可能插USB的时候会误触，大部分情况只需要重新拔插USB即可恢复  
 - 如果重新拔插依然无法恢复，则可能固件损坏，需要重新烧录固件，此时拖入固件程序即可恢复。首先点击下载 [固件文件](http://cdn.kittenbot.cn/microbit/0253_kl26z_microbit_0x8000.hex) 。将文件拖入盘符等待即可 
-![](./images/FAQ.png)  
+![](./faq/MAINTANENCE.png)  
 
 `问：kittenblock连接不上串口怎么办` 
 
@@ -23,3 +23,8 @@
 (注意需要安装驱动的时候需要先USB连好microbit) 
 
 
+`问 : `如果恢复固件或者下载程序时出现**Flash Error**字样怎么办 
+![](faq/flashError.jpg) 
+
+答：  
+如果盘符确定显示是Microbit无误，那么说明电脑系统是精简版本的ghost，阉割了Python的库，装一个最新版本的QQ 就会自动把Python的库给补全了。

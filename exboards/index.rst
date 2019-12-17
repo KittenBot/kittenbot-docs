@@ -8,7 +8,7 @@
     :glob:
 
     iobit/intro
-    robotbit/intro
+    robotbit/index
     armourbit/intro
     mbridge/intro
     arcadeShield/intro

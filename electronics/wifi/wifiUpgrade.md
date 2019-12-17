@@ -4,6 +4,8 @@
 更新固件的同时我们需要区别一下当前固件版本。
 用户手里的喵家wifi模块版本号可能有2种。 
 
+PS: wifi firmware 后续更新在[github release](https://github.com/KittenBot/kittenbot-docs/releases/)
+
 - v2.80及以上
 - v2.80以下  
 
@@ -119,7 +121,7 @@
 
 ![](images/update01.png)
 
-2、拔掉Rosbot主控板跳帽，RX就对应RX,TX对应TX进行接线 
+2、拔掉Rosbot主控板跳帽，RX就对应TX,TX对应RX进行接线 
 （上电钱请再三确实接线是否正确，非常容易接错）
 
 ![](images/update02.jpg)
@@ -185,7 +187,7 @@ wifi烧录完成功，断电，开关拨回正常模式，重新上电，红灯�
 ## v2.8及以上固件更新
  
 先下载最新固件文件 
-[wifi最新固件点我下载](https://cdn.kittenbot.cn/wifiBIN/wifiV285.zip) 
+[wifi最新固件2.6](https://github.com/KittenBot/kittenbot-docs/releases/tag/wifi_2.86) 
 
 ```important:: v2.8的以上wifi的革新就是利用网页给wifi刷固件
 ``` 
