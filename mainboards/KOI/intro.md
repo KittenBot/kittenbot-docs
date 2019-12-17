@@ -2,7 +2,7 @@
 
 ## 购买链接
 
-__转到淘宝购买__----------→[AIoT教学套件](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21482550023.56.12db5d5fiTwdAk&id=609728329467)  
+__转到淘宝购买__----------→[KOI锦鲤人工智能模块](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21482550023.56.12db5d5fiTwdAk&id=609728329467)  
 
 ## 产品名称 
 
