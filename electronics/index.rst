@@ -7,6 +7,7 @@
 .. toctree::
     :maxdepth: 1
     :glob:
+    :hidden:
 
     SD无线模块
     麦克纳姆轮子.md
@@ -33,6 +34,7 @@
     25电机.md
     28BYJ-48步进电机.md
     30cm长USB数据线.md
+    18650可充电锂电池.md
     18650锂电池组.md
     18650锂电池组充电器.md
     红外接收器.md
@@ -48,4 +50,32 @@
 
 
 
+
+==================  ==================  =====================
+|SDBle|_                |follow|_         |GPS|_
+------------------  ------------------  ---------------------
+`SDBle`_                `follow`_         `GPS`_
+------------------  ------------------  ---------------------
+|MPR121|_              |Lora+GPS|_      |Standard+Max30102|_
+------------------  ------------------  ---------------------
+`MPR121`_              `Lora+GPS`_      `Standard+Max30102`_
+==================  ==================  =====================
+
+.. |SDBle| image:: ./sdwireless/02.png
+.. _SDBle: ./SD无线模块.html
+
+.. |follow| image:: ../_static/basic011.png
+.. _follow: ../introduction/mpr4.html
+
+.. |SIM800L| image:: ../_static/SIM02.png
+.. _SIM800L: ../introduction/sim02.html
+
+.. |GPS| image:: ../_static/GPS3.png
+.. _GPS: ../introduction/gps8m03.html
+
+.. |Lora+GPS| image:: ../_static/s76g05.png
+.. _Lora+GPS: ../introduction/s76g05.html
+
+.. |Standard+Max30102| image:: ../_static/std11.png
+.. _Standard+Max30102: ../introduction/sg06.html
 
