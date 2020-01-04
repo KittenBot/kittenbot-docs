@@ -13,25 +13,13 @@ PS: wifi firmware 后续更新在[github release](https://github.com/KittenBot/k
 
 ## 查看当前的wifi版本
 
-```important:: 要查看当前wifi版本，第一件事就是需要先连接wifi，而后才位于kittenblock的wifi管理面板中查看信息。
+```important:: 要查看当前wifi版本，第一件事就是需要先将wifi连上路由器，而后才位于kittenblock的wifi管理面板中查看信息。
 ``` 
 
 首先给wifi供电(即接上5V和GND)，同时确保拨码开关拨向右侧(如图)
 
 ![](images/wifiUG_1.png) 
 
-```important:: 接着是确认连接wifi存在2种情况，分别就是你使用的电脑是否含有无线网卡
-```
-
-- 含无线网卡(如笔记本)  
-
-这种情况，在WLAN的列表里应该可以找到ESP开头的wifi可选，点击连接即可，一般第一次是不存在密码的。 
-
-- 网线(如大部分台式机) 
-
-这就需要先将手头的wifi连上路由器确保和电脑在同个局域网。 
-
-**接着就教大家如何将wifi连上自家路由器,无线网卡用户可以直接跳过这一部分**
 
 ## 将wifi连上路由器 
 

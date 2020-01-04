@@ -51,9 +51,9 @@
 
 
 ==================  ==================  =====================
-|SDBle|_                |follow|_         |GPS|_
+|SDBle|_                |macWheel|_         |GPS|_
 ------------------  ------------------  ---------------------
-`SDBle`_                `follow`_         `GPS`_
+`SDBle`_                `macWheel`_         `GPS`_
 ------------------  ------------------  ---------------------
 |MPR121|_              |Lora+GPS|_      |Standard+Max30102|_
 ------------------  ------------------  ---------------------
@@ -63,8 +63,8 @@
 .. |SDBle| image:: ./sdwireless/02.png
 .. _SDBle: ./SD无线模块.html
 
-.. |follow| image:: ../_static/basic011.png
-.. _follow: ../introduction/mpr4.html
+.. |macWheel| image:: ../mai/mai_2.jpg
+.. _macWheel: ./麦克纳姆轮子.html
 
 .. |SIM800L| image:: ../_static/SIM02.png
 .. _SIM800L: ../introduction/sim02.html
