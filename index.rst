@@ -60,6 +60,7 @@
     IoT/meowIoT/index
     IoT/otherIoT/index
     IoT/局域网云变量
+    IoT/米家IOT
 
 .. toctree::
     :maxdepth: 1
