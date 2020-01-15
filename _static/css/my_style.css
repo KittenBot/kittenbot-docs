@@ -16,11 +16,18 @@ body{
 
 .wy-side-nav-search{
     background: #39CCCC;
+    padding: 0  .809em .809em !important;
     padding-bottom: 20px;
+   
 }
 
 .wy-side-nav-search>a{
     color:#202020;
+    padding: 0px 0px !important;
+}
+
+.wy-side-nav-search img{
+    padding: 0px !important;
 }
 
 .version{
