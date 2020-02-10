@@ -1,4 +1,4 @@
-电子产品/零件
+电子产品/配件
 ====================
 
 这里包含了喵家几乎所有在售电子零件模块等的基本参数和使用说明 
@@ -12,11 +12,10 @@
     :hidden:
 
     SD无线模块
-    麦克纳姆轮子.md
-    乐高积木舵机电机.md
-    360度连续舵机.md
-    乐高积木2KG舵机电机.md
-    乐高积木风扇.md
+    Geekservo
+    2KG
+    乐高积木风扇
+    麦克纳姆轮子
     萌熊MP3模块.md
     贱鼠LED矩阵屏.md
     猫头超声波.md
@@ -63,21 +62,21 @@
 `MPR121`_              `Lora+GPS`_      `Standard+Max30102`_
 ==================  ==================  =====================
 
-.. |SDBle| image:: ./sdwireless/02.png
+.. |SDBle| image:: ./images/sd.png
 .. _SDBle: ./SD无线模块.html
 
-.. |macWheel| image:: ../mai/mai_2.jpg
+.. |macWheel| image:: ./images/mac.png
 .. _macWheel: ./麦克纳姆轮子.html
 
-.. |SIM800L| image:: ../_static/SIM02.png
-.. _SIM800L: ../introduction/sim02.html
+.. |SIM800L| image:: ./_static/SIM02.png
+.. _SIM800L: ./introduction/sim02.html
 
-.. |GPS| image:: ../_static/GPS3.png
-.. _GPS: ../introduction/gps8m03.html
+.. |GPS| image:: ./_static/GPS3.png
+.. _GPS: ./introduction/gps8m03.html
 
-.. |Lora+GPS| image:: ../_static/s76g05.png
-.. _Lora+GPS: ../introduction/s76g05.html
+.. |Lora+GPS| image:: ./_static/s76g05.png
+.. _Lora+GPS: ./introduction/s76g05.html
 
-.. |Standard+Max30102| image:: ../_static/std11.png
-.. _Standard+Max30102: ../introduction/sg06.html
+.. |Standard+Max30102| image:: ./_static/std11.png
+.. _Standard+Max30102: ./introduction/sg06.html
 
