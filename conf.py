@@ -22,7 +22,7 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import os
 import sys
-sys.path.insert(0, os.path.abspath('./'))
+sys.path.insert(0, os.path.abspath('..'))
 sys.path.append(os.path.abspath("./_ext"))
 
 copyright = '2019, Kittenbot'
@@ -60,7 +60,6 @@ extensions = [
     'sphinx.ext.todo',
     'sphinxcontrib.httpdomain',
     "sphinx_rtd_theme",
-    'sphinx_search.extension'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -72,7 +71,7 @@ templates_path = ['_templates']
 # source_suffix = ['.rst', '.md']
 # source_suffix = '.rst'
 
-js_source_path = './sphinx_search/static/js/'
+js_source_path = 'sphinx_search/static/js/'
 
 
 
@@ -281,7 +280,7 @@ html_logo = 'images/learn_logo.png'
 
 autosectionlabel_prefix_document = True
 
-epub_exclude_files = ['search.html']
+# epub_exclude_files = ['search.html']
 
 def setup(app):
   app.add_object_type('confval', 'confval',
