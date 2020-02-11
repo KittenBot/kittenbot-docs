@@ -183,15 +183,15 @@ htmlhelp_basename = 'kittenbot-doc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
-latex_elements = {
+# latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
+# 'papersize': 'letterpaper',
 
 # The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
+# 'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
-#'preamble': '',
+# 'preamble': '',
 
 # 'preamble': r'''
 # \hypersetup{unicode=true}
@@ -209,7 +209,7 @@ latex_elements = {
 # \begin{CJK}{UTF8}{gbsn}
 # \AtEndDocument{\end{CJK}}
 # ''',
-}
+# }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
