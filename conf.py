@@ -262,10 +262,10 @@ man_pages = [
 #      author, 'kittenbotdocs', 'One line description of project.',
 #      'Miscellaneous'),
 # ]
-latex_documents = [
-    ('index', 'ReadTheDocs.tex', u'Read the Docs Documentation',
-     u'Eric Holscher, Charlie Leifer, Bobby Grace', 'manual'),
-]
+# latex_documents = [
+#     ('index', 'ReadTheDocs.tex', u'Read the Docs Documentation',
+#      u'Eric Holscher, Charlie Leifer, Bobby Grace', 'manual'),
+# ]
 
 # html_theme_options = {
 #     'sticky_navigation': True,  # Set to False to disable the sticky nav while scrolling.
