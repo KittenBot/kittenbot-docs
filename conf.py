@@ -55,11 +55,11 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx_tabs.tabs',
     'sphinx-prompt',
-    'sphinx_js',
+    # 'sphinx_js',
     'recommonmark',
     'sphinx.ext.todo',
     'sphinxcontrib.httpdomain',
-    "sphinx_rtd_theme",
+    "sphinx_rtd_theme"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -71,7 +71,7 @@ templates_path = ['_templates']
 # source_suffix = ['.rst', '.md']
 # source_suffix = '.rst'
 
-js_source_path = 'sphinx_search/static/js/'
+# js_source_path = 'sphinx_search/static/js/'
 
 
 
@@ -87,7 +87,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'kittenbot docs'
-copyright = '2019, kittenbot team'
+copyright = '2020, kittenbot team'
 author = 'kittenbot team'
 
 # The version info for the project you're documenting, acts as replacement for
