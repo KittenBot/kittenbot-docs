@@ -14,5 +14,3 @@
 ![](./images/J4.5.bmp)
 ![](./images/J4.6.bmp)
 ![](./images/J4.7.bmp)
-
-----------

@@ -16,28 +16,25 @@
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+
+
 import os
 import sys
-sys.path.insert(0, os.path.abspath('..'))
+# sys.path.insert(0, os.path.abspath('.'))
 sys.path.append(os.path.abspath("./_ext"))
 
-copyright = '2019, Kittenbot'
+copyright = '2020, Kittenbot'
 author = 'Kittenbot'
 
 import recommonmark
 from recommonmark.transform import AutoStructify
-
-# import sphinx_search
 
 # def get_version():
 #     """Return package version from setup.cfg."""
 #     config = RawConfigParser()
 #     config.read(os.path.join('..', 'setup.cfg'))
 #     return config.get('metadata', 'version')
+
 
 # -- General configuration ------------------------------------------------
 
@@ -53,12 +50,12 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.coverage',
     'sphinx.ext.autodoc',
-    'sphinx_tabs.tabs',
+    # 'sphinx_tabs.tabs',
     'sphinx-prompt',
     # 'sphinx_js',
     'recommonmark',
     'sphinx.ext.todo',
-    'sphinxcontrib.httpdomain',
+    # 'sphinxcontrib.httpdomain',
     "sphinx_rtd_theme"
 ]
 
@@ -133,7 +130,6 @@ html_theme_options = {
     'display_version': False,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
-    'vcs_pageview_mode': '',
     # 'style_nav_header_background': '',
     # Toc options
     'collapse_navigation': False,
@@ -260,12 +256,16 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-    (master_doc, 'kittenbotdocs', 'kittenbot docs Documentation',
-     author, 'kittenbotdocs', 'One line description of project.',
-     'Miscellaneous'),
-]
 
+# texinfo_documents = [
+#     (master_doc, 'kittenbotdocs', 'kittenbot docs Documentation',
+#      author, 'kittenbotdocs', 'One line description of project.',
+#      'Miscellaneous'),
+# ]
+latex_documents = [
+    ('index', 'ReadTheDocs.tex', u'Read the Docs Documentation',
+     u'Eric Holscher, Charlie Leifer, Bobby Grace', 'manual'),
+]
 
 # html_theme_options = {
 #     'sticky_navigation': True,  # Set to False to disable the sticky nav while scrolling.
@@ -278,16 +278,14 @@ html_logo = 'images/learn_logo.png'
 
 # epub_title = project
 
-autosectionlabel_prefix_document = True
-
 # epub_exclude_files = ['search.html']
 
-def setup(app):
-  app.add_object_type('confval', 'confval',
-    'pair: %s; configuration value')
 # def setup(app):
-#     app.add_config_value('recommonmark_config', {
-#             'url_resolver': lambda url: github_doc_root + url,
-#             'auto_toc_tree_section': 'Contents',
-#             }, True)
-#     app.add_transform(AutoStructify)
+#   app.add_object_type('confval', 'confval',
+#     'pair: %s; configuration value')
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+            'url_resolver': lambda url: github_doc_root + url,
+            'auto_toc_tree_section': 'Contents',
+            }, True)
+    app.add_transform(AutoStructify)
