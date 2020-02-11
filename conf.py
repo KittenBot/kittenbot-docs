@@ -20,7 +20,7 @@
 
 import os
 import sys
-# sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('.'))
 sys.path.append(os.path.abspath("./_ext"))
 
 copyright = '2020, Kittenbot'
@@ -51,7 +51,7 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.autodoc',
     # 'sphinx_tabs.tabs',
-    'sphinx-prompt',
+    # 'sphinx-prompt',
     # 'sphinx_js',
     'recommonmark',
     'sphinx.ext.todo',
