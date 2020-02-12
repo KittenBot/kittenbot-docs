@@ -4,6 +4,8 @@ build:
   image: latest
 python:
   version: 3.6
+  install:
+      - requirements: requirements.txt
 sphinx:
   builder: html
   configuration: conf.py
