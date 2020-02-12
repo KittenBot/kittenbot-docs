@@ -50,7 +50,7 @@ extensions = [
     # 'sphinx.ext.autosectionlabel',
     'sphinx.ext.coverage',
     'sphinx.ext.autodoc',
-    'sphinx_tabs.tabs',
+    # 'sphinx_tabs.tabs',
     'sphinx-prompt',
     # 'sphinx_js',
     'recommonmark',
