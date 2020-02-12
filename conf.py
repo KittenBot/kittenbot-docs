@@ -51,7 +51,7 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.autodoc',
     # 'sphinx_tabs.tabs',
-    'sphinx-prompt',
+    # 'sphinx-prompt',
     # 'sphinx_js',
     'recommonmark',
     'sphinx.ext.todo',
