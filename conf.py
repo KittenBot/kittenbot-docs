@@ -158,7 +158,7 @@ html_static_path = ['_static']
 #     'css/custom.css',
 # ]
 
-html_style = 'css/my_style.css' 
+# html_style = 'css/my_style.css' 
 # html_theme = 'insegel'
 
 # Custom sidebar templates, must be a dictionary that maps document names
