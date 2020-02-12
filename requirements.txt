@@ -1,1 +1,5 @@
-sphinx
+sphinx==2.4.0
+sphinx-rtd-theme==0.4.3	
+sphinx-notfound-page==0.3	
+sphinx-js==2.7.1	
+sphinxcontrib-httpdomain
