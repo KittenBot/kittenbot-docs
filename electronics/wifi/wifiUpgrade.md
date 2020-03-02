@@ -174,8 +174,8 @@ wifi烧录完成功，断电，开关拨回正常模式，重新上电，红灯�
  
 ## v2.8及以上固件更新
  
-先下载最新固件文件 
-[wifi最新固件2.6](https://github.com/KittenBot/kittenbot-docs/releases/tag/wifi_2.86) 
+先下载该篇开头的最新固件文件 
+
 
 ```important:: v2.8的以上wifi的革新就是利用网页给wifi刷固件
 ``` 

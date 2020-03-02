@@ -75,7 +75,7 @@ while 1:
 
 ``` attention:: 刷入的时候不要打开其他的编程软件，可能会报错。当然还有from 模块 import * 也不是一个好习惯。如果不明白它坏在哪里建议查看这篇文章
 ```  
-[from impor和import的详解](https://baijiahao.baidu.com/s?id=1595360515695157210&wfr=spider&for=pc)
+[from import和import的详解](https://baijiahao.baidu.com/s?id=1595360515695157210&wfr=spider&for=pc)
 
 **如果你看到有颗led一闪一闪那么恭喜你成功啦，通过以上的流程我们学会了如何成功给microbit刷入程序(当然前提是你的程序没写错)** 
 
