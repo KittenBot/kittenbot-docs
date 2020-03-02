@@ -9,7 +9,6 @@
 .. toctree::
     :maxdepth: 1
     :glob:
-    :hidden:
 
     SD无线模块
     Geekservo

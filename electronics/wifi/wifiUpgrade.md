@@ -4,7 +4,7 @@
 更新固件的同时我们需要区别一下当前固件版本。
 用户手里的喵家wifi模块版本号可能有2种。 
 
-PS: wifi firmware 后续更新在[github release](https://github.com/KittenBot/kittenbot-docs/releases/)
+PS: wifi firmware 最新固件[v2.87](http://kittenbot.oss-cn-shanghai.aliyuncs.com/wifiBIN/wifi287.zip)
 
 - v2.80及以上
 - v2.80以下  
