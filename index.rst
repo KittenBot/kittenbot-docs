@@ -33,6 +33,7 @@
     kittenblock/scratchPython3/index
     kittenblock/projects/index
     kittenblock/advanced/index
+    kittenblock/extensions/index
 
 .. toctree::
     :maxdepth: 1
