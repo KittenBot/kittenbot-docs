@@ -47,14 +47,18 @@ from recommonmark.transform import AutoStructify
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    # 'sphinx.ext.autosectionlabel',
+    'sphinx.ext.autosectionlabel',
     'sphinx.ext.coverage',
     'sphinx.ext.autodoc',
     # 'sphinx_tabs.tabs',
-    # 'sphinx-prompt',
     # 'sphinx_js',
     'recommonmark',
     'sphinx.ext.todo',
+
+    'sphinx.ext.autosectionlabel',  # 异页跳转
+    # [My Subtitle][]
+    # [My Subtitle]: <path/to/md:title>
+
     # 'sphinxcontrib.httpdomain',
     # "sphinx_rtd_theme"
 ]
@@ -264,3 +268,11 @@ html_theme_options = {
 
 }
 
+
+# AutoStructify
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+            'url_resolver': lambda url: github_doc_root + url,
+            'auto_toc_tree_section': 'Contents',
+            }, True)
+    app.add_transform(AutoStructify)

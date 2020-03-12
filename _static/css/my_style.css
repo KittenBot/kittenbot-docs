@@ -4,6 +4,11 @@
 
 body{
     color: #111111;
+    margin: auto 0;
+}
+
+p{
+    line-height: 25px;
 }
 
 .fa:before{
@@ -40,12 +45,15 @@ body{
 }
 
 .wy-side-nav-search input[type=text]{
-    border:1px solid #202020;
+    border:2px solid transparent;
+    box-shadow: none;
+    font-size: 14px;
 }
 
 .wy-menu-vertical p.caption{
     color: #39CCCC;
     font-size: 90% !important;
+    letter-spacing: 0.75px;
 }
 
 a:visited{
@@ -70,6 +78,10 @@ span.toctree-expand:before{
 
 .wy-menu-vertical a{
     color: #fbfbfb;
+} 
+
+.caption-text{
+    letter-spacing: 0.75px;
 }
 
 .wy-nav-content p>img{
@@ -89,7 +101,7 @@ span.toctree-expand:before{
 
 .wy-nav-content{
     max-width:800px;
-    padding:2em 4em;
+
 }
 
 .wy-nav-content-wrap{
@@ -113,6 +125,22 @@ nav.wy-nav-top {
     color: #202020 !important;
 }
 
+/* table{
+    text-align: center;
+} */
+
+.simple .head p{
+    margin-bottom: 0;
+}
+
+.row-odd img{
+    max-width: 50%;
+}
+
+th.head{
+    text-align: center;
+}
+
 @media screen and (min-width:768px) {
     .wy-nav-content-wrap {
         background:rgba(0,0,0,0.05);
@@ -128,4 +156,17 @@ nav.wy-nav-top {
     .wy-nav-top a{
         color: white; 
     }
+}
+
+@media only screen and (min-width: 768px){
+    .wy-body-for-nav {
+        max-width: 1100px;
+        margin: 0 auto;
+    }
+    .wy-nav-side {
+        left: inherit;
+}
+
+@media only screen and (min-width: 768px)
+
 }

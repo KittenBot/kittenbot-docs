@@ -1,4 +1,4 @@
-# KOI魔块在Makecode中使用01——插件简介
+# makecode快速开始
 
 ## 打开Makecode
 
