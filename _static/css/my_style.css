@@ -141,6 +141,11 @@ th.head{
     text-align: center;
 }
 
+.rst-versions{
+    position: fixed;
+    left: inherit;
+}
+
 @media screen and (min-width:768px) {
     .wy-nav-content-wrap {
         background:rgba(0,0,0,0.05);
