@@ -42,7 +42,7 @@ wifi模块 x1
 - 电压：5V   
 - 工作电流：62mA
 - 802.11b/g/n
-- 待机功耗小于1.0 mV（DTIM3）
+- 待机功耗小于1.0 mw（DTIM3）
 - 深度睡眠保持电流10uA，关/断电流小于5uA
 - HSPI,UART,I2C,I2S,红外遥控，PWM,GPIO
 - 支持STA/AP/STA + AP模式、支持Smart Config功能（包括Android和IOS设备）

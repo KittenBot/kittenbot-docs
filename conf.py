@@ -27,7 +27,16 @@ copyright = '2020, Kittenbot'
 author = 'Kittenbot'
 
 import recommonmark
+from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
+
+source_parsers = {
+    '.md': recommonmark.parser.CommonMarkParser,
+}
+source_suffix = {
+    '.rst': 'restructuredtext', 
+    '.md': 'markdown',
+}
 
 # def get_version():
 #     """Return package version from setup.cfg."""
@@ -52,9 +61,7 @@ extensions = [
     'sphinx.ext.autodoc',
     # 'sphinx_tabs.tabs',
     # 'sphinx_js',
-    'recommonmark',
     'sphinx.ext.todo',
-
     'sphinx.ext.autosectionlabel',  # 异页跳转
     # [My Subtitle][]
     # [My Subtitle]: <path/to/md:title>
@@ -76,13 +83,6 @@ templates_path = ['_templates']
 
 
 
-# from recommonmark.parser import CommonMarkParser
-
-# source_parsers = {
-#     '.md': CommonMarkParser,
-# }
-
-source_suffix = ['.rst', '.md']
 # The master toctree document.
 master_doc = 'index'
 
