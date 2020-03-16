@@ -16,7 +16,7 @@ KOI锦鲤人工智能模块是一个真正可离线完成AI与IoT的高级模块
 .. _简介: ./intro.html 
 
 .. |快速开始| image:: images/qs.png
-.. _快速开始: ./makecodeQS.html 
+.. _快速开始: ./makecodeQs.html 
 
 .. |功能教程| image:: images/func.png
 .. _功能教程: makecode/index.html
