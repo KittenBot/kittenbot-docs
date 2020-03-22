@@ -9,3 +9,14 @@ AIoT是AI(人工智能)和IoT(物联网的)结合，使用kittenblock中的丰�
     :glob:
 
     intro
+    quickstart
+    clothes
+    streetLight
+    garbage
+    weather
+    dumbbell
+    plant
+    bedroom
+    UnconsciousPay
+    smartDoor
+    Rock-paper-scissors
